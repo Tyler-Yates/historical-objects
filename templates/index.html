@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Historical Objects Collection</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon/favicon-32x32.png') }}"
+          sizes="32x32"/>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon/favicon-16x16.png') }}"
+          sizes="16x16"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/top.css') }}">
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <div id="sections">
+        <a class="section-link" href="{{ url_for('medals_page') }}">
+            <div id="medals" class="section">
+                <span id="medals-section-header" class="section-header">Medals</span>
+            </div>
+        </a>
+        <a class="section-link" href="{{ url_for('books_page') }}">
+            <div id="books" class="section">
+                <span id="books-section-header" class="section-header">Books</span>
+            </div>
+        </a>
+        <a class="section-link" href="{{ url_for('plates_page') }}">
+            <div id="plates" class="section">
+                <span id="plates-section-header" class="section-header">Plates</span>
+            </div>
+        </a>
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

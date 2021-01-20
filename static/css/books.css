@@ -1,0 +1,23 @@
+.book-cell {
+    width: 20%;
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+    font-family: "Arial", Courier, monospace;
+    vertical-align: top;
+}
+
+.book-cell-image {
+    height: 350px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.title {
+    font-style: italic;
+    padding-bottom: 5px;
+}
+
+.author {
+    padding-bottom: 5px;
+}

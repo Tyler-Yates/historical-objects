@@ -1,0 +1,13 @@
+<div class="plate-cell">
+    <div class="plate-cell-images">
+        <a href="{{ url_for('plate_page', plate_id=plate.id) }}">
+            <img class="plate-cell-image"
+                 src="{{ url_for('static', filename='images/plates/' + plate.id + '/plate.jpg') }}">
+        </a>
+    </div>
+    <div class="info">
+        <div class="title"><a href="{{ url_for('plate_page', plate_id=plate.id) }}">{{ plate.title }}</a></div>
+        <div class="artist">{{ plate.artist }}</div>
+        <div class="year">{{ plate.year }}</div>
+    </div>
+</div>

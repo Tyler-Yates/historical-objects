@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ plate.title }}</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/plate.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/imageviewer.css') }}"/>
+
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/imageviewer.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/plate.js') }}"></script>
+</head>
+<body>
+    <div id="plate-header">
+        {% include 'plate-header.html' %}
+    </div>
+    <div id="plate-image-div">
+        <img id="plate-main-image" class="plate-image"
+             src="{{ url_for('static', filename='images/plates/' + plate.id + '/plate.jpg') }}">
+    </div>
+    <div id="title" class="info-line">
+        {{ plate.title }}
+    </div>
+    <div id="artist" class="info-line">
+        {{ plate.artist }}
+    </div>
+    <div id="year" class="info-line">
+        {{ plate.year }}
+    </div>
+    <div id="gallery">
+        <!-- TODO implement galleries -->
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

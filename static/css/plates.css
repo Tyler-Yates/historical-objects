@@ -1,0 +1,24 @@
+.plate-cell {
+    width: 20%;
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+    font-family: "Arial", Courier, monospace;
+    vertical-align: top;
+}
+
+.plate-cell-image {
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.title {
+    font-style: italic;
+    padding-bottom: 5px;
+}
+
+.creator {
+    padding-bottom: 5px;
+}

@@ -1,0 +1,9 @@
+#contact-info {
+    text-align: center;
+    margin-top: 55px;
+}
+
+#contact-email {
+    color: blue;
+    text-decoration: underline;
+}

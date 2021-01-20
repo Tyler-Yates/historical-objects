@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Historic Medals Collection</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon/favicon-32x32.png') }}"
+          sizes="32x32"/>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon/favicon-16x16.png') }}"
+          sizes="16x16"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/medals.css') }}">
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/medal.js') }}"></script>
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <h1>Medals</h1>
+    <div id="medals">
+        {% for medal in medals %}
+            {% include 'medal_link.html' %}
+        {% endfor %}
+    </div>
+    <p></p>
+    <a href="{{ url_for('references_page') }}">References</a>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

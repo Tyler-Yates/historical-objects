@@ -1,0 +1,48 @@
+html, body {
+    height: 95%;
+}
+
+#plate-image-div {
+    text-align: center;
+    margin-bottom: 20px;
+    height: 60%;
+}
+
+.plate-image {
+    height: 100%;
+    cursor: pointer;
+}
+
+#title {
+    text-align: center;
+    font-style: italic;
+}
+
+#artist {
+    text-align: center;
+}
+
+#year {
+    text-align: center;
+}
+
+.info-line {
+    font-size: 1vw;
+}
+
+#gallery {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gallery-cell {
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.gallery-image {
+    max-width: 300px;
+    max-height: 300px;
+    cursor: pointer;
+}

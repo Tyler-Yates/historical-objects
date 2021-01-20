@@ -1,0 +1,13 @@
+<div class="medal-cell">
+    <div class="medal-images">
+        <a href="{{ url_for('medal_page', medal_id=medal.id) }}">
+            <img class="medal-cell-image"
+                 src="{{ url_for('static', filename='images/medals/low/' + medal.id + '_obverse.jpg') }}">
+        </a>
+    </div>
+    <div class="info">
+        <div class="name"><a href="{{ url_for('medal_page', medal_id=medal.id) }}">{{ medal.name }}</a></div>
+        <div class="engraver">{{ medal.engraver }}</div>
+        <div class="year">{{ medal.year }}</div>
+    </div>
+</div>

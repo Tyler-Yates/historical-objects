@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Literature References</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/references.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <h2>References</h2>
+    <table>
+        <tr>
+            <td class="name">Handlingar</td>
+            <td class="title">Kungl. Vitterhets, Historie och Antikvitets Akademiens Handlingar</td>
+        </tr>
+        <tr>
+            <td class="name">Hauser</td>
+            <td class="title">Katalog Meiner Sammlung von Medaillen, Plaketten und Jetons - Peter Hauser</td>
+        </tr>
+        <tr>
+            <td class="name">Hildebrand</td>
+            <td class="title">Minnespenningar öfver enskilda Svenska Män och Quinnor - Bror Emil Hildebrand</td>
+        </tr>
+        <tr>
+            <td class="name">Numismatiska</td>
+            <td class="title">Numismatiska Meddelanden (various volumes)</td>
+        </tr>
+        <tr>
+            <td class="name">Wurzbach</td>
+            <td class="title">Katalog Meiner Sammlung von Medaillen, Plaketten und Jetons - Wolfgang Wurzbach</td>
+        </tr>
+    </table>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

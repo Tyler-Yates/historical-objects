@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ book.title }}</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/book.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/imageviewer.css') }}"/>
+
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/imageviewer.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/book.js') }}"></script>
+</head>
+<body>
+    <div id="book-header">
+        {% include 'book-header.html' %}
+    </div>
+    <div id="book-image-div">
+        <img id="book-main-image" class="book-image"
+             src="{{ url_for('static', filename='images/books/' + book.id + '/cover.jpg') }}">
+    </div>
+    <div id="title" class="main-info-line">
+        {{ book.title }}
+    </div>
+    <div id="author" class="main-info-line">
+        {{ book.author }}
+    </div>
+    <div id="year" class="main-info-line">
+        {{ book.year }}
+    </div>
+    <div id="info">
+        <div class="description-section" id="size-section">
+            <div id="size-title" class="section-name">
+                Size:
+            </div>
+            <div id="size" class="section-value">
+                {{ book.size }}
+            </div>
+        </div>
+        <div class="description-section" id="oclc-section">
+            <div id="oclc-title" class="section-name">
+                OCLC:
+            </div>
+            <div id="oclc-number" class="section-value">
+                {{ book.oclc }}
+            </div>
+        </div>
+    </div>
+    <div id="description-container">
+        <hr class="short-divider">
+        <div class="description-section" id="history">
+            {% if book.history %}
+                {{ book.history|safe }}
+            {% endif %}
+        </div>
+    </div>
+    <div id="gallery">
+        {% for gallery_image in gallery %}
+            <div class="gallery-cell">
+                <img class="gallery-image"
+                     onclick="show_gallery_viewer('{{ gallery_image.low_image_scr }}', '{{ gallery_image.hi_image_src }}');"
+                     src="{{ gallery_image.low_image_scr }}">
+            </div>
+        {% endfor %}
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

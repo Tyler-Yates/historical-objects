@@ -1,0 +1,22 @@
+#medals {
+    text-align: center;
+    overflow: auto;
+}
+
+.medal-images {
+    height: 20%;
+}
+
+.medal-cell {
+    width: 10%;
+    min-width: 300px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    font-family: "Arial", Courier, monospace;
+    vertical-align: top;
+}
+
+.medal-cell-image {
+    width: 75%;
+}

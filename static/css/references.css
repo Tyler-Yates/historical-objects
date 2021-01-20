@@ -1,0 +1,12 @@
+td {
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+td.name {
+    font-weight: bold;
+}
+
+td.title {
+    font-style: italic;
+}

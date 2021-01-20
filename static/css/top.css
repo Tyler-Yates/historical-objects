@@ -1,0 +1,70 @@
+a.section-link {
+    display: inline-block;
+    margin: 0 1%;
+    width: 20%;
+    height: 100%;
+}
+
+html, body {
+    height: 90%;
+}
+
+#sections {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.section-header {
+    background: black;
+    color: white;
+    width: 100%;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 2vw;
+}
+
+#medals-section-header {
+    display: none;
+}
+
+#medals:hover #medals-section-header {
+    display: inline-block;
+}
+
+#books-section-header {
+    display: none;
+}
+
+#books:hover #books-section-header {
+    display: inline-block;
+}
+
+#plates-section-header {
+    display: none;
+}
+
+#plates:hover #plates-section-header {
+    display: inline-block;
+}
+
+.section {
+    display: inline-block;
+    background: no-repeat center;
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+    background-size: cover;
+}
+
+#medals {
+    background-image: url("/static/images/background/medal_section_image.jpg");
+}
+
+#books {
+    background-image: url("/static/images/background/book_section_image.jpg");
+    background-position: top center;
+}
+
+#plates {
+    background-image: url("/static/images/background/plate_section_image.jpg");
+}

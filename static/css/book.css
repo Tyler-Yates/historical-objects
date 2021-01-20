@@ -1,0 +1,80 @@
+html, body{
+    height: 95%;
+}
+
+#book-image-div {
+    text-align: center;
+    margin-bottom: 20px;
+    height: 50%;
+}
+
+.book-image {
+    height: 100%;
+    cursor: pointer;
+}
+
+#title {
+    text-align: center;
+    font-style: italic;
+}
+
+#author {
+    text-align: center;
+}
+
+#year {
+    text-align: center;
+}
+
+.main-info-line {
+    font-size: 1vw;
+}
+
+.info-line {
+    font-size: 0.8vw;
+    float: left;
+}
+
+.description-section {
+    overflow: auto;
+    padding-top: 5px;
+}
+
+.section-name {
+    float: left;
+    padding-right: 10px;
+}
+
+.section-value {
+    float: left;
+}
+
+#info {
+    text-align: center;
+    width: 10%;
+    font-size: 0.75vw;
+    margin: 30px auto auto auto;
+}
+
+#description-container {
+    text-align: justify;
+    width: 80%;
+    margin: 20px auto auto auto;
+}
+
+#gallery {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gallery-cell {
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.gallery-image {
+    max-width: 300px;
+    max-height: 300px;
+    cursor: pointer;
+}

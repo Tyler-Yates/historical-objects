@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DEBUG</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container-fluid" id="main-container">
+        <div class="d-flex justify-content-center"><h1>DEBUG</h1></div>
+
+        <div class="container border" id="medals-container">
+            <h2>Medals</h2>
+            Total Medals: {{ medals|length }}
+            <br>
+            Problematic Medals: {{ problematic_medals|length }}
+            <br>
+            <a class="btn btn-primary" data-toggle="collapse" href="#medalsCollapse" role="button" aria-expanded="false"
+               aria-controls="medalsCollapse">
+                Medals
+            </a>
+            <div class="collapse" id="medalsCollapse">
+                <div class="card card-body">
+                    {% for medal_id in medals %}
+                        <div>
+                            {{ medal_id }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% if problematic_medals|length != 0 %}
+                <a class="btn btn-danger btn-primary" data-toggle="collapse" href="#problemMedalsCollapse" role="button"
+                   aria-expanded="false" aria-controls="problemMedalsCollapse">
+                    Problematic Medals
+                </a>
+                <div class="collapse" id="problemMedalsCollapse">
+                    <div class="card card-body">
+                        {% for medal_id in problematic_medals %}
+                            <div>
+                                {{ medal_id }} - {{ problematic_medals[medal_id] }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% else %}
+                <a class="btn btn-secondary disabled" data-toggle="collapse" aria-disabled="true">
+                    Problematic Medals
+                </a>
+            {% endif %}
+        </div>
+
+        <div class="container border" id="books-container">
+            <h2>Books</h2>
+            Total Books: {{ books|length }}
+            <br>
+            Problematic Books: {{ problematic_books|length }}
+            <br>
+            <a class="btn btn-primary" data-toggle="collapse" href="#booksCollapse" role="button" aria-expanded="false"
+               aria-controls="booksCollapse">
+                Books
+            </a>
+            <div class="collapse" id="booksCollapse">
+                <div class="card card-body">
+                    {% for book_id in books %}
+                        <div>
+                            {{ book_id }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% if problematic_books|length != 0 %}
+                <a class="btn btn-danger btn-primary" data-toggle="collapse" href="#problemBooksCollapse" role="button"
+                   aria-expanded="false" aria-controls="problemBooksCollapse">
+                    Problematic Books
+                </a>
+                <div class="collapse" id="problemBooksCollapse">
+                    <div class="card card-body">
+                        {% for book_id in problematic_books %}
+                            <div>
+                                {{ book_id }} - {{ problematic_books[book_id] }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% else %}
+                <a class="btn btn-secondary disabled" data-toggle="collapse" aria-disabled="true">
+                    Problematic Books
+                </a>
+            {% endif %}
+        </div>
+
+        <div class="container border" id="plates-container">
+            <h2>Plates</h2>
+            Total Plates: {{ plates|length }}
+            <br>
+            Problematic Plates: {{ problematic_plates|length }}
+            <br>
+            <a class="btn btn-primary" data-toggle="collapse" href="#platesCollapse" role="button" aria-expanded="false"
+               aria-controls="platesCollapse">
+                Plates
+            </a>
+            <div class="collapse" id="platesCollapse">
+                <div class="card card-body">
+                    {% for plate_id in plates %}
+                        <div>
+                            {{ plate_id }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {% if problematic_plates|length != 0 %}
+                <a class="btn btn-danger btn-primary" data-toggle="collapse" href="#problemPlatesCollapse" role="button"
+                   aria-expanded="false" aria-controls="problemPlatesCollapse">
+                    Problematic Plates
+                </a>
+                <div class="collapse" id="problemPlatesCollapse">
+                    <div class="card card-body">
+                        {% for plate_id in problematic_plates %}
+                            <div>
+                                {{ plate_id }} - {{ problematic_plates[plate_id] }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% else %}
+                <a class="btn btn-secondary disabled" data-toggle="collapse" aria-disabled="true">
+                    Problematic Plates
+                </a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

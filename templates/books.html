@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Historical Books Collection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/books.css') }}">
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <h1>Books</h1>
+    <div id="books">
+        {% for book in books %}
+            {% include 'book_link.html' %}
+        {% endfor %}
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

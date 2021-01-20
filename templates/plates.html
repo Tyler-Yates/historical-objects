@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Historical Plates Collection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/plates.css') }}">
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/plate.js') }}"></script>
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <h1>Plates</h1>
+    <div id="plates">
+        {% for plate in plates %}
+            {% include 'plate-link.html' %}
+        {% endfor %}
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

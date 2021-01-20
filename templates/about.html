@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/top.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+</head>
+<body>
+    <div id="top-header">
+        {% include 'top-header.html' %}
+    </div>
+    <div id="about-info">
+        <p>
+            Welcome to my website devoted to describing my collection of historical objects.
+            I have been interested in collecting historical things since my father introduced me to coin collecting as a child.
+            I will always be grateful for the hours we spent together going through rolls of pennies to try and fill our coin albums.
+        </p>
+        <p>
+            Naturally, my collecting initially focused only on American coins.
+            I collected (almost) all types: pennies, nickels, dimes, quarters, half-dollars, dollars.
+            As the years went on, my collection began approaching a respectably complete state, to the point where the remaining coins that I needed were rather expensive.
+            I began looking online to try and find deals on the remaining coins that I needed.
+            One day I stumbled upon the <a href="https://en.wikipedia.org/wiki/Exonumia">Exonumia</a> section of eBay and was introduced to the world of medal collecting.
+            I was amazed by the variety and uniqueness of the medals that were listed.
+            Each one told its own story, either about some historical event, person, or place.
+            Some were obscure, some were not.
+            The larger size of medals compared to circulating currency allowed the engravers to truly demonstrate their craft.
+            Many of the medals that I saw looked truly like pieces of art.
+        </p>
+        <p>
+            And so began the next stage of my collecting.
+            I did not choose a specific category of medal to pursue collecting.
+            Rather, I bought those that looked interesting to me and were within my price range.
+            For each medal that I acquired, I would research it and study the history behind it.
+        </p>
+        <p>
+            A few years after I began collecting medals, I once again stumbled upon a new chapter in my collecting journey: antique books.
+            I had never been an avid reader, so it still surprises me to this day that I enjoy collecting old books.
+            I think one of the main appeals to me is the fact that I never thought ordinary people could get their hands on antique books.
+            Like many people, I thought that antique books in readable condition were extremely rare and expensive.
+            I had seen old books only in museums and assumed that those were the only places they remained.
+            Needless to say, I was greatly surprised to see how many antique books were available for non-exorbitant prices.
+        </p>
+        <p>
+            And so my collection has branched out from coins to medals to books.
+            I sometimes wonder if there are still more categories of historical objects for me to stumble upon and take up collecting,
+            but for now I think it is safe to bet that coins, medals, and books will keep me busy collecting for a lifetime.
+            I created this website as a labor of love and with the hope that it may one day help or inspire someone in their collecting.
+        </p>
+        <p>
+            A friend once asked me: "Don't you get frustrated that you will never be able to have a complete set?"
+            My response was simple: "In the same way that an avid book lover does not get frustrated that they will never be able to read every book in their lifetime,
+            so too am I not frustrated by the immeasurable vastness of what I collect."
+        </p>
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>

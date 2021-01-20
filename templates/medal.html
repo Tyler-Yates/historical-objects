@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ medal.name }}</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/medal.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/imageviewer.css') }}"/>
+
+    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/imageviewer.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/medal.js') }}"></script>
+</head>
+<body>
+    <div id="medal-header">
+        {% include 'medal-header.html' %}
+    </div>
+    <div class="medal-images">
+        <img class="medal-image" id="obverse_image"
+             src="{{ url_for('static', filename='images/medals/low/' + medal.id + '_obverse.jpg') }}">
+        <img class="medal-image" id="reverse_image"
+             src="{{ url_for('static', filename='images/medals/low/' + medal.id + '_reverse.jpg') }}">
+    </div>
+    <div class="medal-information">
+        <h3 id="medal-name">{{ medal.name }}</h3>
+        <div class="medal-description">
+            <div class="medal-description-header">
+                <div class="description-short-section">
+                    <div class="side-name">
+                        Engraver:
+                    </div>
+                    <div class="side-description" id="engraver">
+                        {{ medal.engraver }}
+                    </div>
+                </div>
+                <div class="description-short-section">
+                    <div class="side-name">
+                        Year:
+                    </div>
+                    <div class="side-description" id="year">
+                        {{ medal.year }}
+                    </div>
+                </div>
+                <div class="description-short-section">
+                    <div class="side-name">
+                        Country:
+                    </div>
+                    <div class="side-description" id="country">
+                        {{ medal.country }}
+                    </div>
+                </div>
+                <div class="description-short-section">
+                    <div class="side-name">
+                        Diameter:
+                    </div>
+                    <div class="side-description" id="diameter">
+                        {{ medal.diameter }} mm
+                    </div>
+                </div>
+                <div class="description-section" id="obverse">
+                    <div class="side-name">
+                        Obverse:
+                    </div>
+                    <div class="side-description" id="obverse-description">
+                        {{ medal.obverse_description|safe }}
+                        <br>
+                        {% for inscription in medal.obverse_inscriptions %}
+                            <div class="inscription">{{ inscription|safe }}</div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="description-section" id="reverse">
+                    <div class="side-name">
+                        Reverse:
+                    </div>
+                    <div class="side-description" id="reverse-description">
+                        {{ medal.reverse_description|safe }}
+                        <br>
+                        {% for inscription in medal.reverse_inscriptions %}
+                            <div class="inscription">{{ inscription|safe }}</div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                {% if medal.references %}
+                    <div class="description-section" id="ref">
+                        <div class="side-name">
+                            References:
+                        </div>
+                        <div class="side-description" id="references">
+                            {% for reference in medal.references %}
+                                <div class="side-description">{{ reference|safe }}</div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+
+            </div>
+            <hr class="short-divider">
+            <div class="description-section" id="history">
+                {{ medal.history|safe }}
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        {% include 'footer.html' %}
+    </div>
+</body>
+</html>
