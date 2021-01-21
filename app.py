@@ -117,12 +117,6 @@ def plate_page(plate_id):
 def references_page():
     return render_template('references.html')
 
-
-@application.route('/contact')
-def contact_page():
-    return render_template('contact.html')
-
-
 @application.route('/about')
 def about_page():
     return render_template('about.html')
