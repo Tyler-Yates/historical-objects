@@ -2,12 +2,17 @@ import collections
 import json
 import logging
 import os
+from typing import List
+
+import requests
 
 from book import Book
+from gallery_image import GalleryImage
 from medal import Medal
 from plate import Plate
 
 LOG = logging.getLogger(__name__)
+BOOK_GALLERY_API_ROOT = "https://api.github.com/repos/Tyler-Yates/historical-objects-static/contents/images/books"
 
 
 def _load_medals_data(application):
@@ -52,6 +57,22 @@ def _load_medals_data(application):
     application.medals = collections.OrderedDict(sorted(application.medals.items(), key=lambda x: x[1].sort_year))
 
 
+def _load_gallery_images(book_id: str) -> List[GalleryImage]:
+    gallery = []
+    request_url = f"{BOOK_GALLERY_API_ROOT}/{book_id}/gallery/hi"
+    response = requests.get(request_url)
+    response.raise_for_status()
+
+    json_data = json.loads(response.text)
+    for item in json_data:
+        gallery.append(GalleryImage(
+            item["download_url"].replace("/gallery/hi", "/gallery/low"),
+            item["download_url"]
+        ))
+
+    return gallery
+
+
 def _load_books_data(application):
     data_path = os.path.join(application.static_folder, "data", "books")
     for json_file_name in os.listdir(data_path):
@@ -74,6 +95,12 @@ def _load_books_data(application):
             if sort_year == -1:
                 LOG.warning("No sort year for {}".format(json_file_name))
 
+            gallery_images = []
+            try:
+                gallery_images = _load_gallery_images(object_id)
+            except Exception as e:
+                print(f"Error loading gallery for {object_id}: {e}")
+
             book = Book(id=object_id,
                         title=json_data.get('title', None),
                         author=json_data.get('author', None),
@@ -81,7 +108,8 @@ def _load_books_data(application):
                         size=json_data.get('size', None),
                         oclc=json_data.get('oclc', None),
                         history=json_data.get('description', None),
-                        sort_year=sort_year)
+                        sort_year=sort_year,
+                        gallery_images=gallery_images)
 
             application.books[object_id] = book
 

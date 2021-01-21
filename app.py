@@ -1,10 +1,9 @@
 import logging
 import os
 
-from flask import Flask, render_template, url_for, request, redirect
+from flask import Flask, render_template, request, redirect
 
 from data_loader import load_data
-from gallery_image import GalleryImage
 
 application = Flask(__name__)
 
@@ -80,27 +79,10 @@ def books_page():
     return render_template('books.html', books=application.books.values())
 
 
-def _get_gallery(book_id):
-    low_gallery_dir = os.path.join(application.static_folder, "images", "books", book_id, "gallery", "low")
-    if not os.path.exists(low_gallery_dir):
-        return []
-
-    hi_gallery_dir = os.path.join(application.static_folder, "images", "books", book_id, "gallery", "hi")
-    gallery = []
-    for gallery_image_name in os.listdir(low_gallery_dir):
-        if os.path.exists(os.path.join(hi_gallery_dir, gallery_image_name)):
-            gallery.append(GalleryImage(
-                url_for('static', filename='images/books/{}/gallery/low/{}'.format(book_id, gallery_image_name)),
-                url_for('static', filename='images/books/{}/gallery/hi/{}'.format(book_id, gallery_image_name))))
-        else:
-            LOG.error("Gallery image mismatch for {}".format(gallery_image_name))
-    return gallery
-
-
 @application.route('/books/<book_id>')
 def book_page(book_id):
     book = application.books[book_id]
-    return render_template('book.html', book=book, gallery=_get_gallery(str(book.id)))
+    return render_template('book.html', book=book, gallery=book.gallery_images)
 
 
 @application.route('/plates')
@@ -116,6 +98,7 @@ def plate_page(plate_id):
 @application.route('/references')
 def references_page():
     return render_template('references.html')
+
 
 @application.route('/about')
 def about_page():
