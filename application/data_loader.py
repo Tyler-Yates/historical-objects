@@ -6,10 +6,10 @@ from typing import List
 
 import requests
 
-from book import Book
-from gallery_image import GalleryImage
-from medal import Medal
-from plate import Plate
+from .book import Book
+from .gallery_image import GalleryImage
+from .medal import Medal
+from .plate import Plate
 
 LOG = logging.getLogger(__name__)
 BOOK_GALLERY_API_ROOT = "https://api.github.com/repos/Tyler-Yates/historical-objects-static/contents/images/books"

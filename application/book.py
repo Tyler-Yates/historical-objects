@@ -1,6 +1,6 @@
 from typing import List
 
-from gallery_image import GalleryImage
+from .gallery_image import GalleryImage
 
 
 class Book:
