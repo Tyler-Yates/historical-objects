@@ -1,0 +1,23 @@
+{
+  "name": "Universal Exposition Brussels 1910",
+  "engraver": "Godefroid Devreese",
+  "country": "Belgium",
+  "year": "1910",
+  "diameter": "70",
+  "obverse": "A trumpeter rides a horse.",
+  "obverse_inscriptions": [
+    "ROYAUME <span class='small-text'>DE</span> BELGIQUE\u00b7EXPOSITION UNIVERSELLE <span class='small-text'>DE</span> BRUXELLES\u00b71910\u00b7",
+    "G. DEVREESE.",
+    "\ua7fbF"
+  ],
+  "reverse": "A man brings a vase up a staircase to a woman wearing a robe and holding a palm branch. The woman presents the man with a laurel crown.",
+  "reverse_inscriptions": [
+    "1910"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the universal exhibition held in Brussels, Belgium in 1910.",
+    "</p>"
+  ]
+}

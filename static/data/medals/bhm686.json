@@ -1,0 +1,25 @@
+{
+  "name": "King George III: Golden Jubilee of His Reign",
+  "engraver": "N. Hyde",
+  "country": "England",
+  "year": "1810",
+  "diameter": "48",
+  "obverse": "Uniformed bust of George III facing left.",
+  "obverse_inscriptions": [
+    "GEO . III . BORN . 4<span class='container'><span class='stack'>TH</span><span class='stack'>.</span></span> JUNE 1738. ASCEND<span class='container'><span class='stack'>D</span><span class='stack'>.</span></span> THE THRONE OCT<span class='container'><span class='stack'>R</span><span class='stack'>.</span></span> 25<span class='container'><span class='stack'>TH</span><span class='stack'>.</span></span> 1760.",
+    "COMPLETED 50<span class='container'><span class='stack'>TH</span><span class='stack'>.</span></span> YEAR OF HIS REIGN OCT<span class='container'><span class='stack'>R</span><span class='stack'>.</span></span> 25<span class='container'><span class='stack'>TH</span><span class='stack'>.</span></span> 1810."
+  ],
+  "reverse": "Three young children sit atop a plinth hold a flaming heart before Britannia. The rays of the sun shine above.",
+  "reverse_inscriptions": [
+    "FROGMORE.",
+    "THE FIFTIETH YEAR."
+  ],
+  "references": [
+    "BHM 686"
+  ],
+  "description": [
+    "<p>",
+    "George III celebrated the 50th year of his reign in 1809 and the celebration continued into 1810.",
+    "</p>"
+  ]
+}

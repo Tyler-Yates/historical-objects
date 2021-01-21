@@ -1,0 +1,24 @@
+{
+  "name": "Jakob August von Hartmansdorff",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1856",
+  "diameter": "39",
+  "obverse": "Bust of Hartmansdorff facing left.",
+  "obverse_inscriptions": [
+    "AUG. <span class='small-text'>VON</span> HARTMANSDORFF F. 1792 D. 1856",
+    "LEA AHLBORN"
+  ],
+  "reverse": "A wreath encloses an inscription in 8 lines.",
+  "reverse_inscriptions": [
+    "ENHÄLLIGT TILLERKÄND AF SVEA RIKES RIDDERSKAP OCH ADEL 1856"
+  ],
+  "references": [
+    "Olsen p. 122"
+  ],
+  "description": [
+    "<p>",
+    "Jakob August von Hartmansdorff was a Swedish official and politician.",
+    "</p>"
+  ]
+}

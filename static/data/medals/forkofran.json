@@ -1,0 +1,23 @@
+{
+  "name": "The Swedish Handicraft Organization",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "Early 20th century",
+  "sort_year": 1900,
+  "diameter": "39",
+  "obverse": "Bust of Gustav V facing left.",
+  "obverse_inscriptions": [
+    "GUSTAF V SVERIGES HANDTVERKSORGANISATIONS BESKYDDARE",
+    "E\u00b7L\u00b7"
+  ],
+  "reverse": "Woman sitting on a bench working on a wreath. Behind her is a forest. Beneath the bench is the Swedish coat of arms. The bottom of the medal is largely empty, probably meant for engraving something.",
+  "reverse_inscriptions": [
+    "TILL YRKENAS F\u00d6RKOFRAN"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was probably meant to be an award medal for members of The Swedish Handicraft Organization (Sveriges Handtverksorganisations).",
+    "</p>"
+  ]
+}

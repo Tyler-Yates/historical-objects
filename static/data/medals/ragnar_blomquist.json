@@ -1,0 +1,26 @@
+{
+  "name": "Ragnar Blomquist",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1951",
+  "diameter": "60",
+  "obverse": "Bust of Ragnar Blomquist facing right.",
+  "obverse_inscriptions": [
+    "RAGNAR BLOMQUIST",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 4 lines. Below is the symbol of Höganäs AB (an anchor with H B). Inscription around the edge of the medal.",
+  "reverse_inscriptions": [
+    "HÖGANÄS-BILLESHOLMS AKTIEBOLAG",
+    "KRAFT OCH FRAMSYNTHET PRÄGLADE HANS GÄRNING",
+    "1950"
+  ],
+  "references": [
+    "Ulla #456"
+  ],
+  "description": [
+    "<p>",
+    "Ragnar Blomquist was a Swedish engineer who was named the head of Höganäs AB (a metal powder manufacturer) in 1925.",
+    "</p>"
+  ]
+}

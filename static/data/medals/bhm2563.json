@@ -1,0 +1,25 @@
+{
+  "name": "Visit of Napoleon III to England",
+  "engraver": "Allen & Moore",
+  "country": "England",
+  "year": "1855",
+  "diameter": "39",
+  "obverse": "Personification of Fame standing on lion's head supporting oval medallions which contain portraits of Napoleon III (left) and Queen Victoria (right). Shields are beneath the medallions in the center.",
+  "obverse_inscriptions": [
+    "NAPOLEON",
+    "VICTORIA",
+    "ALLEN & MOORE BIRMINGHAM"
+  ],
+  "reverse": "Crossed flags with oak and palm in the center.",
+  "reverse_inscriptions": [
+    "THE VISIT OF THE EMPEROR NAPOLEON III TO QUEEN VICTORIA I \u00b7 APRIL 155 \u00b7"
+  ],
+  "references": [
+    "BHM 2563"
+  ],
+  "description": [
+    "<p>",
+    "Napoleon III visited England in 1855.",
+    "</p>"
+  ]
+}

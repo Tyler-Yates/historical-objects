@@ -1,0 +1,29 @@
+{
+  "name": "Adam Lewenhaupt",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1931",
+  "diameter": "53",
+  "obverse": "Bust of Adam Lewenhaupt facing left.",
+  "obverse_inscriptions": [
+    "GREVE ADAM LEWENHAUPT",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 8 lines. There are 7 stars around the inscription. Below is a Cross of Lorraine which is a symbol of Timmermansorden (Timber Order).",
+  "reverse_inscriptions": [
+    "DEN AVHÅLLNE HÖVDINGEN DEN HJÄRTEVARME BRODERN DEN SANNE ÄDLINGEN",
+    "AV TIMMERMANS ORDEN",
+    "5 DEC· 1931"
+  ],
+  "references": [
+    "Ulla #317"
+  ],
+  "description": [
+    "<p>",
+    "This medal was commissioned by the Timmermansorden to commemorate Adam Lewenhaupt, a Grand Master of the order.",
+    "</p>",
+    "<p>",
+    "There were around 150 examples minted in bronze and silver.",
+    "</p>"
+  ]
+}

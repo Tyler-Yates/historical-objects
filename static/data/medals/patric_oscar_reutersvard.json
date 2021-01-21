@@ -1,0 +1,25 @@
+{
+  "name": "Patric Oscar Reutersvärd",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1900",
+  "diameter": "60",
+  "obverse": "Bust of Patric Oscar Reutersvärd facing left.",
+  "obverse_inscriptions": [
+    "PATRIC·OSCAR REUTERSVÄRD",
+    "A·LINDBERG"
+  ],
+  "reverse": "An inscription in 11 lines. Below the inscription are two branches tied by a bow.",
+  "reverse_inscriptions": [
+    "ÄDEL FOSTERLÄNSK FRAMSYNT·OCH·VILJESTARK TROGET·VERKSAM·FÖR·SVERIGES OBEROENDE OCH VÄLSTÅND",
+    "HYLLNINGSGÄRD FRÅN·TACKSAMMA·VÄNNER I·RIKSDAGENS·FÖRSTA·KAMMARE FÖR·LÅNGVARIGT·ARBETE OCH·MÅNGÅRIG·LEDNING",
+    "1900"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal appears to be made to commemorate the Riksdagen held in 1900.",
+    "</p>"
+  ]
+}

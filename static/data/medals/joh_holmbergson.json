@@ -1,0 +1,26 @@
+{
+  "name": "Johan Holmbergson",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1854",
+  "diameter": "51",
+  "obverse": "Bust of Johan Holmbergson facing left.",
+  "obverse_inscriptions": [
+    "JOH. HOLMBERGSON JUR. D. ET PROF. LUND.",
+    "NAT. MDCCLXIV. DEN. MDCCCXLII.",
+    "LEA AHLBORN"
+  ],
+  "reverse": "A book sits on a pedestal. The book has the coat of arms on its cover.",
+  "reverse_inscriptions": [
+    "INTERPRETI SAGACISSIMO",
+    "PIETAS DISCIPULORUM MDCCCLIV."
+  ],
+  "references": [
+    "Olsen p. 117"
+  ],
+  "description": [
+    "<p>",
+    "Johan Holmbergson was a Swedish lawyer.",
+    "</p>"
+  ]
+}

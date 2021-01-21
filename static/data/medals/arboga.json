@@ -1,0 +1,25 @@
+{
+  "name": "500th Anniversary of the Swedish Riksdag",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1935",
+  "diameter": "56",
+  "obverse": "Four men representing the four social estates originally represented in the Riksdag: the nobility, the clergy, the burghers, and the yeomanry. Over them is a coat of arms with three crowns.",
+  "obverse_inscriptions": [
+    "FÖR·SVERIGES  LAG·OCH·FRIHET",
+    "ARBOGA 1435",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "A scroll with two lions standing on top of the scroll flanking a coat of arms with a crown on top.",
+  "reverse_inscriptions": [
+    "SVERIGES RIKSDAG ÅT·MINNET·AV·FEM HUNDRAFEMTIO·ÅR ÄGNADE·VÅRDEN AV·RIKE·OCH·FOLK 1935"
+  ],
+  "references": [
+    "Ulla #346"
+  ],
+  "description": [
+    "<p>",
+    "This medal was copied almost exactly from the medal created in 1935.",
+    "</p>"
+  ]
+}

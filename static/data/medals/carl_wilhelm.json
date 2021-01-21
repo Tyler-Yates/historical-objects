@@ -1,0 +1,25 @@
+{
+  "name": "Carl Wilhelm Sebardt",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1916",
+  "diameter": "43.5",
+  "obverse": "Bust of Carl Wilhelm Sebardt facing left.",
+  "obverse_inscriptions": [
+    "CARL WILHELM SEBARDT",
+    "23 MAJ 1916",
+    "E·LINDBERG"
+  ],
+  "reverse": "Inscription in 6 lines enclosed in a circle surrounded by a wreath.",
+  "reverse_inscriptions": [
+    "APOTEKARESOCIETETEN TILL SIN ORDFÖRANDE ÅREN 1878-1906"
+  ],
+  "references": [
+    "Ulla #154"
+  ],
+  "description": [
+    "<p>",
+    "This medal was commissioned by the Pharmacist Society to Carl Wilhelm Sebardt who was the chairman of the society from 1878-1906.",
+    "</p>"
+  ]
+}

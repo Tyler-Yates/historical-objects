@@ -1,0 +1,25 @@
+{
+  "name": "100th Anniversary of the Swedish Fire Insurance Agency",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1882",
+  "diameter": "57",
+  "obverse": "Head of Oscar II facing left.",
+  "obverse_inscriptions": [
+    "OSCAR II SVERIGES OCH NORGES KONUNG",
+    "A\u00b7LINDBERG"
+  ],
+  "reverse": "A globus cruciger with three crowns at the top of the sphere. At the bottom of the sphere is a bird with wings raised standing atop burning logs. Behind the sphere are two torches with flames facing downwards. Smoke is behind this image.",
+  "reverse_inscriptions": [
+    "AF SAMLAD KRAFT UR L\u00c5GAN \u00c5TER H\u00d6JD",
+    "ALLM\u00c4NNA BRANDF\u00d6RS\u00c4KRINGSVERKET 1782-1882"
+  ],
+  "references": [
+    "Numismatiska meddelanden - Oscar II #47"
+  ],
+  "description": [
+    "<p>",
+    "This medal commemorates the 100th anniversary of the Swedish Fire Insurance Agency (Brandf\u00f6rs\u00e4kringsverket).",
+    "</p>"
+  ]
+}

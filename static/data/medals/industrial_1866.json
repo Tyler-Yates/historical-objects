@@ -1,0 +1,24 @@
+{
+  "name": "Stockholm Industrial Exhibition 1866",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1866",
+  "diameter": "44",
+  "obverse": "Bust of Oscar I facing right.",
+  "obverse_inscriptions": [
+    "OSCAR SVERIGES O. NORGES ARFFURSTE HERT. AF \u00d6STERG. *",
+    "LEA AHLBORN"
+  ],
+  "reverse": "The exhibition building.",
+  "reverse_inscriptions": [
+    "INDUSTRIUTST\u00c4LLNINGEN I STOCKHOLM",
+    "SVERIGE, NORGE, DANMARK OCH FINLAND I FREDLIG T\u00c4FLAN 1866."
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the industrial exhibition held in Stockholm in 1866.",
+    "This medal was minted in the exhibition building and sold to visitors.",
+    "</p>"
+  ]
+}

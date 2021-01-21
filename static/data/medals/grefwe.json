@@ -1,0 +1,25 @@
+{
+  "name": "Carl De Geer",
+  "engraver": "Johan Salmson",
+  "country": "Sweden",
+  "year": "1823",
+  "diameter": "54",
+  "obverse": "Bust of Carl De Geer ",
+  "obverse_inscriptions": [
+    "GREFWE CARL DE GEER LANDTMARSKALK.",
+    "SALMSON F."
+  ],
+  "reverse": "Inscription in 5 lines enclosed in an oak wreath.",
+  "reverse_inscriptions": [
+    "ÄDEL KRAFTFULL OCH LUGN",
+    "AF RIDDERSKAPET OCH ADELN 1823."
+  ],
+  "references": [
+    "Numismatische Zeitschrift #574"
+  ],
+  "description": [
+    "<p>",
+    "Carl De Geer was a Swedish politician and a Lord of the Realm.",
+    "</p>"
+  ]
+}

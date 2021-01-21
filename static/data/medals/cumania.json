@@ -1,0 +1,26 @@
+{
+  "name": "50th Anniversary of Archduke Joseph as Captain of Cumania",
+  "engraver": "Josef Daniel Boehm",
+  "country": "Hungary",
+  "year": "1845",
+  "diameter": "33",
+  "obverse": "Joseph Anton Johann, bust facing left. The Order of the Golden Fleece is around his neck.",
+  "obverse_inscriptions": [
+    "J\u00d3ZSEF CS. K. \u00d6R\u00d6K\u00d6S F\u0150HERCZEG. MAGYARSZ\u00c1G N\u00c1DORISP\u00c1NJA. J\u00c1SZOK \u00c9S KUNOK GR\u00d3FJA S BIR\u00c1JA."
+  ],
+  "reverse": "Inscription in six lines.",
+  "reverse_inscriptions": [
+    "A J\u00c1SZ KUN<br>H\u00c1RMAS KER\u00dcLET<br>V\u00c1LT\u00c1GA SZ\u00c1ZADOS \u00dcNNEP\u00c9N<br>F\u00c9LSZ\u00c1DOS GR\u00d3FJA S BIR\u00c1JA<br>H\u00c1L\u00c1S TISZTELET\u00c9RE<br>1845."
+  ],
+  "references": [
+    "Wurzbach 4151",
+    "Hauser 50"
+  ],
+  "description": [
+    "<p>",
+    "Archduke Joseph, Palatine of Hungary was the Palatine of Hungary from 1796 to 1847.",
+    "He was born on March 9, 1776 and died January 13, 1847.",
+    "He was the seventh son of Leopold II, Holy Roman Emperor and Maria Louisa of Spain.",
+    "</p>"
+  ]
+}

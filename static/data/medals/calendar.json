@@ -1,0 +1,23 @@
+{
+  "name": "70th Birthday of Oscar II",
+  "engraver": "Adolph Lindberg",
+  "country": "Sweden",
+  "year": "1899",
+  "diameter": "56",
+  "obverse": "Bust of Oscar II facing left.",
+  "obverse_inscriptions": [
+    "OSCAR II SVERIGES OCH NORGES KONUNG",
+    "70 \u00c5R 21 JANUARI 1899",
+    "A\u00b7LINDBERG"
+  ],
+  "reverse": "A crown at the center of a sun with many beams of light emanating. There are many inscriptions about the reign of Oscar II.",
+  "reverse_inscriptions": [
+    "TODO"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "",
+    "</p>"
+  ]
+}

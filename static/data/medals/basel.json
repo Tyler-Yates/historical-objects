@@ -1,0 +1,26 @@
+{
+  "name": "Federal Shooting Festival at Basel",
+  "engraver": "Antoine Bovy ",
+  "country": "Switzerland",
+  "year": "1844",
+  "diameter": "37",
+  "obverse": "A soldier holding on to his battle flag and broken sword as he collapses onto his shield.",
+  "obverse_inscriptions": [
+    "EIDGENOSSISCHES FREISCHIESSEN 1844 ZU BASEL",
+    "ST. IACOB AN DER BORS 26 AUGUST 1444.",
+    "A BOVY. SC"
+  ],
+  "reverse": "Nine coat of arms circles surround an inscription in 9 lines.",
+  "reverse_inscriptions": [
+    "DER SCHILD ZERBROCHEN. DAS SCHWERT ENTZWEI. DAS BANNER IN STERBENDER HAND. TRIUMPH DAS VATERLAND BLEIBT FREI. GOTT SEGNE DAS VATERLAND."
+  ],
+  "references": [
+    "Martin #53"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made in 1844 for the Federal Shooting Festival at Basel.",
+    "It also celebrated the 400th Anniversary of the Battle of St. Jacob an der Birs.",
+    "</p>"
+  ]
+}

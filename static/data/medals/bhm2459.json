@@ -1,0 +1,26 @@
+{
+  "name": "London International Exhibition of 1851",
+  "engraver": "W. J. Taylor",
+  "country": "England",
+  "year": "1851",
+  "diameter": "38",
+  "obverse": "Bust of Prince Albert facing left.",
+  "obverse_inscriptions": [
+    "H.R.H. PRINCE ALBERT",
+    "STRUCK IN THE BUILDING OF THE EXHIBITION",
+    "W. J. TAYLOR LONDON"
+  ],
+  "reverse": "Royal arms of England with lion and unicorn supporters.",
+  "reverse_inscriptions": [
+    "GREAT EXHIBITION OF THE INDUSTRY OF ALL NATIONS \u2058LONDON\u2058"
+  ],
+  "references": [
+    "BHM 2459",
+    "Eimer 1463"
+  ],
+  "description": [
+    "<p>",
+    "The exhibition occurred in London in 1851.",
+    "</p>"
+  ]
+}

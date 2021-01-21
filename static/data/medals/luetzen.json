@@ -1,0 +1,24 @@
+{
+  "name": "Commemoration of Schwedenstein iron canopy",
+  "engraver": "Anton F K\u00f6nig",
+  "country": "Sweden",
+  "year": "1837",
+  "diameter": "34",
+  "obverse": "Bust of Gustav II Adolf facing right.",
+  "obverse_inscriptions": [
+    "GVST. ADOLPH. R. SVEC. FID. EV. PROTECT. N. D. 9 DEC. 1594."
+  ],
+  "reverse": "The monument in L\u00fctzen known as 'Schwedenstein'.",
+  "reverse_inscriptions": [
+    "OB. AP. LVETZEN D. 6 NOV. 1632. POPVLOR. PIETAT. D. 6 NOV. 1837"
+  ],
+  "references": [
+    "Sveriges och svenska konungahusets minnespenningar, praktmynt och bel\u00f6ningsmedaljer, vol. 1, #217"
+  ],
+  "description": [
+    "<p>",
+    "The monument 'Schwedenstein' was created to commemorate the death of the Swedish King Gustav II Adolf's death in the Battle of L\u00fctzen on November 6th, 1632.",
+    "On November 6, 1837, a monument in the form of an iron baldachin was erected above the stone by the Prussian architect Karl Friedrich Schinkel.",
+    "</p>"
+  ]
+}

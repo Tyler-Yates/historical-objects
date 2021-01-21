@@ -1,0 +1,21 @@
+{
+  "name": "Commemoration of the Great Fire of Hamburg",
+  "engraver": "Gottfried Loos ",
+  "country": "Germany",
+  "year": "1842",
+  "diameter": "44",
+  "obverse": "Phoenix rising from the flames.",
+  "obverse_inscriptions": [
+    "WIRD SICH GLAENZENDER WIEDER ERHEBEN"
+  ],
+  "reverse": "Detailed overhead map of the part of Hamburg, Germany destroyed by fires. The arrows denote the direction of the currents of the river Elbe.",
+  "reverse_inscriptions": [
+    "DAS DURCH FEUER ZERSTOERTE HAMBURG DEIT 5 BIS 8 MAI 1842"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "The Great fire of Hamburg began early on May 5, 1842 in Deichstra\u00dfe and burned until the morning of May 8, destroying about one third of the buildings in the Altstadt.",
+    "</p>"
+  ]
+}

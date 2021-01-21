@@ -1,0 +1,25 @@
+{
+  "name": "Gothenberg Exhibition",
+  "engraver": "Gustaf Ekvall",
+  "country": "Sweden",
+  "year": "1891",
+  "diameter": "52",
+  "obverse": "Woman, facing left, holds out a wreath. She is leaning on a shield and is surrounded by various objects.",
+  "obverse_inscriptions": [
+    "KUNSKAP OCH ARBETE",
+    "1891",
+    "GUSTAF EKVALL"
+  ],
+  "reverse": "The exhibition building. Below the building and around the date are three small crowns.",
+  "reverse_inscriptions": [
+    "* * TILL MINNE AF UTST\u00c4LLNINGARNE I G\u00d6TEBORG * *",
+    "1891",
+    "G. E."
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "The exhibition was held in Gotheberg, Sweden in 1891.",
+    "</p>"
+  ]
+}

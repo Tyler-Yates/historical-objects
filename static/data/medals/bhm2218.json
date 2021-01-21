@@ -1,0 +1,29 @@
+{
+  "name": "Smithfield Club Prize Medal",
+  "engraver": "W. Wyon",
+  "country": "England",
+  "year": "1845",
+  "diameter": "49",
+  "obverse": "Bust of Earl Spencer facing left.",
+  "obverse_inscriptions": [
+    "JOHN CHARLES EARL SPENCER PRESIDENT",
+    "W. WYON. R.A.",
+    "1825-1845"
+  ],
+  "reverse": "Head of the Duke of Richmond facing right.",
+  "reverse_inscriptions": [
+    "CHARLES DUKE OF RICHMOND K:G: PRESIDENT OF THE SMITHFIELD CLUB.",
+    "W. WYON. R.A."
+  ],
+  "references": [
+    "BHM 2218"
+  ],
+  "description": [
+    "<p>",
+    "This medal was used as a prize in the Smithfield Club and often has the winner's name and details etched on the edge. This medal is most common in bronze and is rare in silver.",
+    "</p>",
+    "<p>",
+    "This particular medal was awarded to T. Howieson from the Spittal of Glenshie near Blairgowrie in the historic county of Perthshire for being the best breeder of mountain sheep in class LXI. This medal was awarded in 1877.",
+    "</p>"
+  ]
+}

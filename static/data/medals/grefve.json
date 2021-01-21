@@ -1,0 +1,26 @@
+{
+  "name": "Commemoration of Erik Josias Sparre",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1883",
+  "diameter": "60",
+  "obverse": "Head of Erik Josias Sparre",
+  "obverse_inscriptions": [
+    "GREFVE ERIK JOSIAS SPARRE LANDSH\u00d6FDING I ELFSBORGS L\u00c4N.",
+    "LEA AHLBORN"
+  ],
+  "reverse": "A man is sowing seeds. In the background is a man plowing behind oxen.",
+  "reverse_inscriptions": [
+    "F\u00d6R SAMTID OCH EFTERKOMMANDE",
+    "AKTNINGSG\u00c4RD AF ELFSBORGS L\u00c4NS K. HUSHALLNINGSS\u00c4LLSKAPS MEDLEMMAR 1883.",
+    "L. A."
+  ],
+  "references": [
+    "Olsen p.279"
+  ],
+  "description": [
+    "<p>",
+    "Erik Josias Sparre (1816-1886) was the governor of \u00c4lvsborg County and well-respected for his leadership.",
+    "</p>"
+  ]
+}

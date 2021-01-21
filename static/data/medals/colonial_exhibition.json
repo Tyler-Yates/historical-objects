@@ -1,0 +1,25 @@
+{
+  "name": "Colonial and Indian Exhibition",
+  "engraver": "L. C. Wyon",
+  "country": "Great Britain",
+  "year": "1886",
+  "diameter": "52",
+  "obverse": "Bust of Prince of Wales facing left.",
+  "obverse_inscriptions": [
+    "ALBERT EDWARD PRINCE OF WALES EXECUTIVE PRESIDENT ·",
+    "L. C. WYON F."
+  ],
+  "reverse": "Inscription in 5 lines enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "COLONIAL AND INDIAN EXHIBITION LONDON 1886"
+  ],
+  "references": [
+    "BHM #3209",
+    "Eimer 1725"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the Colonial and Indian Exhibition held in London 1886.",
+    "</p>"
+  ]
+}

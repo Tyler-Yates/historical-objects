@@ -1,0 +1,23 @@
+{
+  "name": "Henri Milne-Edwards",
+  "engraver": "Alphée Dubois",
+  "country": "France",
+  "year": "1881",
+  "diameter": "70",
+  "obverse": "Bust of Henri Milne-Edwards facing left.",
+  "obverse_inscriptions": [
+    "HENRI MILNE EDWARDS DE L'ACADEMIE DES SCIENCES",
+    "ALPHÉE DUBOIS"
+  ],
+  "reverse": "Inscription in 9 lines.",
+  "reverse_inscriptions": [
+    "LEÇONS SUR L'ANATOMIE ET LA PHYSIOLOGIE COMPAREES 1857-1880 A H.MILNE EDWARDS SES DISCIPLES ET SES ADMIRATEURS"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Henri Milne-Edwards (23 October 1800 – 29 July 1885) was an eminent French zoologist.",
+    "</p>"
+  ]
+}

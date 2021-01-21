@@ -1,0 +1,27 @@
+{
+  "name": "George III Preserved from Assassination",
+  "engraver": "Conrad Heinrich K\u00fcchler",
+  "country": "Great Britain",
+  "year": "1800",
+  "diameter": "48",
+  "obverse": "Bust of George III facing left.",
+  "obverse_inscriptions": [
+    "GEORGIUS III\u00b7D:G\u00b7BRITANNIARUM REX\u00b7FIDEI DEF\u00b7& c\u00b7",
+    "C\u00b7H\u00b7K."
+  ],
+  "reverse": "Altar with flame on top. Smoke rises on the left and right of the flame. Above the altar is the all-seeing eye with rays coming from the triangle.",
+  "reverse_inscriptions": [
+    "PERSPICIT ET PROTEGIT.",
+    "A SICARIO SERVATUS MAI\u00b7XV. MDCCC.",
+    "D. O. M."
+  ],
+  "references": [
+    "BHM 484"
+  ],
+  "description": [
+    "<p>",
+    "James Hadfield or Hatfield (1771/1772 \u2013 23 January 1841) attempted to assassinate George III of the United Kingdom in 1800.",
+    "On the evening of 15 May 1800, at the Theatre Royal, Drury Lane, during the playing of the national anthem, Hadfield fired a pistol at the King standing in the royal box but missed.",
+    "</p>"
+  ]
+}

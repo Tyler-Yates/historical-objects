@@ -1,0 +1,22 @@
+{
+  "name": "Emric Öhman",
+  "engraver": "T. S.",
+  "country": "Sweden",
+  "year": "1933",
+  "diameter": "?",
+  "obverse": "Bust of Emric Öhman facing left.",
+  "obverse_inscriptions": [
+    "EMRIC ÖHMAN 1863-1933"
+  ],
+  "reverse": "A coat of arms with a crowned man at the top with Mercury's head at the bottom. Inscription in 8 lines.",
+  "reverse_inscriptions": [
+    "STOCKHOLMS KÖPMANSKLUBB TILL SIN FRÄMSTE GRUNDARE SIN STÄNDIGE SEKRETERARE SIN LIVGIVANDE KRAFT"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Emric Öhman was one of the founders of the Stockholm Merchant Club.",
+    "</p>"
+  ]
+}

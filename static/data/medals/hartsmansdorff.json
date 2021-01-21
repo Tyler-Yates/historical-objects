@@ -1,0 +1,26 @@
+{
+  "name": "Jakob August von Hartmansdorff",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1872",
+  "diameter": "31",
+  "obverse": "Bust of Jakob August von Hartmansdorff facing right.",
+  "obverse_inscriptions": [
+    "JAC. AUG. <span class='small-text'>VON</span> HARTMANSDORFF.",
+    "NAT. 1792. DEN. 1856.",
+    "L. A."
+  ],
+  "reverse": "A lone rock is hit by waves from all sides.",
+  "reverse_inscriptions": [
+    "REFRENAT NON SISTIT.",
+    "SOCIO DE PATRIA OPTIME MERITO R. AC. SCIENT. SVEC. MDCCCLXXII."
+  ],
+  "references": [
+    "Olsen p. 205"
+  ],
+  "description": [
+    "<p>",
+    "Jakob August von Hartmansdorff was a Swedish politician.",
+    "</p>"
+  ]
+}

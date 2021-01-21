@@ -1,0 +1,29 @@
+{
+  "name": "Thomason's Bronze Vase",
+  "engraver": "E. Thomason",
+  "country": "Great Britain",
+  "year": "1829",
+  "diameter": "52",
+  "obverse": "The vase standing on a pedestal.",
+  "obverse_inscriptions": [
+    "THOMASONS METALLIC BRONZE VASE. PRECISELY THE SIZE OF THE MARBLE ONE AT WARWICK CASTLE.",
+    "OCCUPIED 6 YEARS TO MODEL CAST AND SCULPTURE"
+  ],
+  "reverse": "Another view of the vase.",
+  "reverse_inscriptions": [
+    "21 FEET IN CIRCUMFERENCE AND 5 FEET 10 IN: IN HEIGHT.",
+    "BRONZED IN DEVOTOXIDE IN 1820 ACQUIRED A PER OXIDE IN 1829"
+  ],
+  "references": [
+    "BHM 1359"
+  ],
+  "description": [
+    "<p>",
+    "The Warwick Vase is an ancient Roman marble vase with Bacchic ornament that was discovered at Hadrian's Villa, Tivoli about 1771 by Gavin Hamilton.",
+    "Hamilton was a Scottish painter-antiquarian and art dealer in Rome, and is now in the Burrell Collection near Glasgow in Scotland.",
+    "</p>",
+    "<p>",
+    "Sir Edward Thomason (1769-1849) made a copy of the Warwick Vase in bronze.",
+    "</p>"
+  ]
+}

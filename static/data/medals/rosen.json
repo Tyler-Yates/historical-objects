@@ -1,0 +1,27 @@
+{
+  "name": "Eric Gabriel von Rosén",
+  "engraver": "J. Ericsson",
+  "country": "Sweden",
+  "year": "1861",
+  "diameter": "41",
+  "obverse": "Bust of Eric Gabriel von Rosén facing right.",
+  "obverse_inscriptions": [
+    "E. G. <span class='small-text'>A</span> ROSÉN L. B. DICAST. HOLM. A. H. PRAES. RR. OO. EQV. ET C.",
+    "N. D. II MAII MDCCLXXV.",
+    "J. ERICSSON"
+  ],
+  "reverse": "A wreath surrounds two inscriptions.",
+  "reverse_inscriptions": [
+    "PRAESIDI POST V LUSTRA ABEUNTI",
+    "PIETAS R. ACAD. MUSIC. D. II MAII MDCCCLXI."
+  ],
+  "references": [
+    "Musica in Nummis: Beschreibendes Verzeichnis von Medailleurarbeiten #252",
+    "Communications Numismatiques p. 56"
+  ],
+  "description": [
+    "<p>",
+    "Eric Gabriel von Rosén was a justice of the Supreme Court of Sweden and a church musician.",
+    "</p>"
+  ]
+}

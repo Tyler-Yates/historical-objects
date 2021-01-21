@@ -1,0 +1,25 @@
+{
+  "name": "100th Anniversary of the Swedish Iron Institute",
+  "engraver": "P. H. Lundgren",
+  "country": "Sweden",
+  "year": "1847",
+  "diameter": "58",
+  "obverse": "Bust of King Oscar I facing left.",
+  "obverse_inscriptions": [
+    "OSCAR SVER. NORR. GÖTH. O. VEND. KONUNG.",
+    "P. H. LUNDGREN F."
+  ],
+  "reverse": "Vulcan working on an anvil. A spade, plough-share, shield, and sword rest against the anvil.",
+  "reverse_inscriptions": [
+    "ÄN SKÄNKA BERGEN JERN TILL ODLING OCH FÖRSVAR.",
+    "TILL MINNE AF JERN KONTORETS HUNDRA ÅRS HÖGTID AF SV. BRUKS SOCIET. 1847."
+  ],
+  "references": [
+    "The Connoisseur, Volume 8 p. 16"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the 100th anniversary of the Swedish Iron Institute.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gösta Forssell",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1929",
+  "diameter": "65",
+  "obverse": "Bust of Gösta Forssell facing left.",
+  "obverse_inscriptions": [
+    "GUSTAVUS·FORSSELL·PRÆSES·CONVENTUS·RADIOLOGORUM·INTERNATIONALIS·II",
+    "HOLMIÆ MCMXXVIII",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "A young woman presents an X-ray to Asclepius (the god of medicine).",
+  "reverse_inscriptions": [
+    "LUX·NOVA·MEDICINÆ·NOVA·SUBSIDIA·PARAVIT"
+  ],
+  "references": [
+    "Ulla #294"
+  ],
+  "description": [
+    "<p>",
+    "Carl Gustaf \"Gösta\" Abrahamsson Forssell (2 March 1876 – 13 November 1950) was a Swedish medical researcher and professor in radiology and radiotherapy.",
+    "</p>"
+  ]
+}

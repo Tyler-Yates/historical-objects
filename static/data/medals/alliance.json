@@ -1,0 +1,25 @@
+{
+  "name": "Union of Ireland with Great Britain",
+  "engraver": "J. G. Hancock and P. Kempson",
+  "country": "England",
+  "year": "1800",
+  "diameter": "38",
+  "obverse": "Britannia and Hibernia, the latter holding an olive branch. Both are holding a bundle of rods. Behind them is a pyramid.",
+  "obverse_inscriptions": [
+    "FRIENDSHIP UNION AND PEACE",
+    "1800"
+  ],
+  "reverse": "The British Lion reclining on an anchor. To the side of the lion are shamrocks and oak. Above is an open book inscribed with 'ONE LAW'.",
+  "reverse_inscriptions": [
+    "GREAT BRITAIN AND IRELAND UNITED MDCCC",
+    "P.K."
+  ],
+  "references": [
+    "BHM 494"
+  ],
+  "description": [
+    "<p>",
+    "The Act of Unification was passed in the British Parliament on July 2, 1800.",
+    "</p>"
+  ]
+}

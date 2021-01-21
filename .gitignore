@@ -1,6 +1,5 @@
 .idea
 *.iml
-static/images/
 venv
 __pycache__/
 tmp/

@@ -1,0 +1,26 @@
+{
+  "name": "Completion of the Cologne Cathedral",
+  "engraver": "Sebald Drentwett & K\u00e4mmerer",
+  "country": "Germany",
+  "year": "1880",
+  "diameter": "50",
+  "obverse": "Adoration of the three magi.",
+  "obverse_inscriptions": [
+    "Anbetung der hl. drei k\u00f6nige.",
+    "Dombild zu C\u00f6ln"
+  ],
+  "reverse": "The completed cathedral.",
+  "reverse_inscriptions": [
+    "Der dom zu k\u00f6ln, begonnen 1248, vollendet 1880.",
+    "DRENTWETT, DIR.",
+    "K\u00c4MMERER FEC."
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "Construction of Cologne Cathedral commenced in 1248 and was halted in 1473, leaving it unfinished.",
+    "Work restarted in the 19th century and was completed, to the original plan, in 1880.",
+    "The cathedral is the largest Gothic church in Northern Europe and has the second-tallest spires.",
+    "</p>"
+  ]
+}

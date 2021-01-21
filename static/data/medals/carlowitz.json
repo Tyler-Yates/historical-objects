@@ -1,0 +1,27 @@
+{
+  "name": "Treaty of Karlowitz",
+  "engraver": "Robert Arondeaux",
+  "country": "Great Britain",
+  "year": "1699",
+  "diameter": "49",
+  "obverse": "Emperor of Germany presents olive branch to the Sultan of Turkey.",
+  "obverse_inscriptions": [
+    "EUROPA QUIESCAT ASIA RESPIRET",
+    "ARMISTITIA INTER C\u00c6S . POL . RUS . VEN . ET TURC.",
+    "R. A. F."
+  ],
+  "reverse": "Hercules repairs the globe.",
+  "reverse_inscriptions": [
+    "NASSAVIUS BRITAN. BATAV.",
+    "CONSOLIDAVIT MDCXCIX."
+  ],
+  "references": [
+    "Medallic illustrations of the History of Great Britain and Ireland to the Death of George II Vol. II #513",
+    "Histoire metallique des 17 provinces des Pays-Bas Vol. IV"
+  ],
+  "description": [
+    "<p>",
+    "The Treaty of Karlowitz was signed on 26 January 1699 in Sremski Karlovci, in modern-day Serbia, concluding the Austro-Ottoman War of 1683\u201397 in which the Ottoman side had been defeated at the Battle of Zenta.",
+    "</p>"
+  ]
+}

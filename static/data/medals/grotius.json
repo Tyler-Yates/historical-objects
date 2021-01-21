@@ -1,0 +1,29 @@
+{
+  "name": "Death of Hugo Grotius",
+  "engraver": "Jan Smeltzing",
+  "country": "Netherlands",
+  "year": "after 1645",
+  "sort_year": 1645,
+  "diameter": "48",
+  "obverse": "Bust of Hugo Grotius three-quarters right.",
+  "obverse_inscriptions": [
+    "HUGO GROTIUS",
+    "I.S."
+  ],
+  "reverse": "Book chest on which sits two crowns; to right, in the distance, Castle Loevestein; above, clouds.",
+  "reverse_inscriptions": [
+    "MELIOR POST ASPERA FATA RESURGO",
+    "LOEVESTEIN",
+    "N\u00b71583.\u0398:1645\u00b7"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "Hugo Grotius (10 April 1583 \u2013 28 August 1645) was a Dutch jurist.",
+    "He laid the foundations for international law, based on natural law.",
+    "</p><p>",
+    "A teenage intellectual prodigy, he was imprisoned for his involvement in the intra-Calvinist disputes of the Dutch Republic.",
+    "He escaped hidden in a chest of books. He wrote most of his major works in exile in France.",
+    "</p>"
+  ]
+}

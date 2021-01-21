@@ -1,0 +1,27 @@
+{
+  "name": "Gustaf Fredrik von Rosen",
+  "engraver": "Pehr Henrik Lundgren",
+  "country": "Sweden",
+  "year": "1850",
+  "diameter": "31",
+  "obverse": "Bust of Gustaf Fredrik von Rosen facing right.",
+  "obverse_inscriptions": [
+    "GUST. FRIDER. A ROSEN COM. SEN. R.",
+    "NATUS MDCLXXXVIII",
+    "P. L."
+  ],
+  "reverse": "The constellations of Boötes (The Herdsman) the Great Bear.",
+  "reverse_inscriptions": [
+    "IBIMUS UTCUMQUE PRAECEDES COMITES PARATI.",
+    "REGIO DUCI INVITE SUPERSTES VITAM PATRIAE IMPENSAM ED. MDCCLXIX."
+  ],
+  "references": [
+    "National Maritime Museum, Greenwich, London",
+    "Minnespenningar öfver enskilda svenska män och qvinnor"
+  ],
+  "description": [
+    "<p>",
+    "Gustaf Fredrik von Rosen (1688–1769) was a Swedish Count and Director of the Admiralty.",
+    "</p>"
+  ]
+}

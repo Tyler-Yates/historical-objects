@@ -1,0 +1,25 @@
+{
+  "name": "300th Anniversary of the Death of Charles IX of Sweden",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1911",
+  "diameter": "55",
+  "obverse": "Charles IX facing left holding a scepter and wearing a sword in a hilt. Around him is a wreath, below, a window sill. Below the window sill is the symbol of the city: a heraldic vase.",
+  "obverse_inscriptions": [
+    "CAROLUS\u00b7IX\u00b7EX\u00b7URBIS\u00b7WASA\u00b7CONDITOR",
+    "A\u00b7D\u00b7 MDCXI",
+    "ERIK LINDBERK"
+  ],
+  "reverse": "An altar with a flame burning. The altar is surrounded at is base by a vine with leaves. Behind the altar is the city skyline.",
+  "reverse_inscriptions": [
+    "EXORIARI",
+    "TRECENTORUM\u00b7ANNORUM MEMORES\u00b7CIVES",
+    "A\u00b7D\u00b7 MCMXI"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal commemorates the 300th anniversary of the city of Vaasa, Sweden (written as 'Wasa' on the medal) receiving its privileges from King Charles IX.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Founding of Swedish Academy",
+  "engraver": "Carl Gustaf Fehrman",
+  "country": "Sweden",
+  "year": "1786",
+  "diameter": "33.5",
+  "obverse": "Bust of King Gustav III facing right.",
+  "obverse_inscriptions": [
+    "GUSTAF III. BESKYDDARE."
+  ],
+  "reverse": "A wreath enclosing the inscription.",
+  "reverse_inscriptions": [
+    "SNILLE OCH SMAK.",
+    "SVENSKA ACADEMIEN INSTIKTAD D. 20 MARS 1786."
+  ],
+  "references": [
+    "Hildebrand #110"
+  ],
+  "description": [
+    "<p>",
+    "The Swedish Academy was founded by King Gustav III in 1786.",
+    "It is one of the Royal Academies: independent organisations, founded on Royal command, that act to promote the arts, culture, and science in Sweden.",
+    "</p>"
+  ]
+}

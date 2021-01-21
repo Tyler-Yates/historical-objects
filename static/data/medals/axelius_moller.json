@@ -1,0 +1,28 @@
+{
+  "name": "Didrik Magnus Axel Möller",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1906",
+  "diameter": "31",
+  "obverse": "Bust of Didrik Magnus Axel Möller facing left.",
+  "obverse_inscriptions": [
+    "D·M·AXELIUS·Möller·PROFESSOR·ASTRONOMIAE·LUNDENSIS",
+    "N·1830 O·1896",
+    "ƎL·"
+  ],
+  "reverse": "A view of the Lund Observatory with a shooting star in the sky.",
+  "reverse_inscriptions": [
+    "ARCANA·COELESTIA·INVESTIGAVIT·JUVENTUTI·EXHIBUIT",
+    "SCOIO·RERUM·COELESTIUM SCRUTATORI",
+    "R·ACAD·SCIENT·SUEC·MCMVI"
+  ],
+  "references": [
+    "Ulla #50"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Didrik Magnus Axel Möller, professor of astronomy at Lund University.",
+    "The medal was commissioned by the Swedish Academy of Sciences.",
+    "</p>"
+  ]
+}

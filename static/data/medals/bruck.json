@@ -1,0 +1,27 @@
+{
+  "name": "Karl Ludwig von Bruck",
+  "engraver": "Carl Radnitzky",
+  "country": "Austria",
+  "year": "1857",
+  "diameter": "67",
+  "obverse": "Head of Karl Ludwig von Bruck facing left",
+  "obverse_inscriptions": [
+    "CAROLUS\u00b7LIBER\u00b7BARO\u00b7DE\u00b7BR\u00dcCK",
+    "C. RADNITZKY",
+    "1857"
+  ],
+  "reverse": "Shield in center surrounded by a vine. To the left of the shield is a lion. The the right of the shield is a deer. Above the shield is a crown.",
+  "reverse_inscriptions": [
+    "QUID\u00b7SIS\u00b7ESSE\u00b7VELIS\u00b7"
+  ],
+  "references": [
+    "Katalog der Mu\u0308nzen- und Medaillen-Stempel-Sammlung des K.K. Hauptmu\u0308nzamtes in Wien 6001"
+  ],
+  "description": [
+    "<p>",
+    "Karl Ludwig von Bruck (Elberfeld, 8 October 1798 \u2013 Vienna, 23 April 1860) was an Austrian statesman.",
+    "In 1855, Bruck became Minister of Finance. He was not able to introduce the reforms he wished and when a period of general financial disaster resulted from the Italian war, Bruck was personally blamed.",
+    "He accordingly obtained his dismissal from the Emperor and the next day committed suicide. He was officially declared innocent one month after his death.",
+    "</p>"
+  ]
+}

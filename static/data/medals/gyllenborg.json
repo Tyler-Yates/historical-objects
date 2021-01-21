@@ -1,0 +1,24 @@
+{
+  "name": "Death of Fredrik Gyllenborg",
+  "engraver": "Carl J. Wikman",
+  "country": "Sweden",
+  "year": "1759",
+  "diameter": "34",
+  "obverse": "Bust of Fredrik Gyllenborg facing right wearing Order of the Polar Star.",
+  "obverse_inscriptions": [
+    "FR\u00b7GYLLENBORG COM\u00b7PR\u00b7R\u00b7COLL\u00b7MET\u00b7ET ORD\u00b7ST\u00b7POL\u00b7C\u00b7",
+    "C\u00b7I\u00b7Wikman\u00b7"
+  ],
+  "reverse": "Inscription in 9 lines",
+  "reverse_inscriptions": [
+    "EN KI\u00c4R IHOGKOMMELSE AF DEN SOM F\u00d6DDES TIL REDELIGAS F\u00c4GNAD D\u00b7<span class='container'><span class='stack'>12</span><span class='stack'>23</span></span>\u00b7IULII 1698\u00b7OCH DOG TIL DERAS SORG D\u00b725\u00b7AUG\u00b71759\u00b7"
+  ],
+  "references": [
+    "Hildebrand 2"
+  ],
+  "description": [
+    "<p>",
+    "Fredrik Gyllenborg, (July 12, 1698 - August 25, 1759) was a Swedish Count, lord of Thor Arable and Hammarby.",
+    "</p>"
+  ]
+}

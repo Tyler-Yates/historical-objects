@@ -1,0 +1,26 @@
+{
+  "name": "Porto Wine Exposition",
+  "engraver": "J. de Souza",
+  "country": "Portugal",
+  "year": "1880",
+  "diameter": "39",
+  "obverse": "Bust of Bacchus facing right.",
+  "obverse_inscriptions": [
+    "Exposi\u00e7\u00e3o Vinicola",
+    "MDCCCLXXX"
+  ],
+  "reverse": "The old Palacio Crystal.",
+  "reverse_inscriptions": [
+    "Sociedade do Palacio de Crystal",
+    "Portuense",
+    "J. DE SOUZA"
+  ],
+  "references": [
+    "Olisipo: boletim do Grupo 'Amigos de Lisboa' p. 209"
+  ],
+  "description": [
+    "<p>",
+    "This medal commemorates a wine exposition held in Porto, Portugal in 1880.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Harald Wieselgren",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1895",
+  "diameter": "",
+  "obverse": "Bust of Harald Wieselgren facing left.",
+  "obverse_inscriptions": [
+    "HARALD WIESELGREN",
+    "A·LINDBERG"
+  ],
+  "reverse": "A woman is holding a basket of fruit. She is holding one piece of fruit out with her right hand. Behind the woman is a tree. A book is at the woman's feet.",
+  "reverse_inscriptions": [
+    "IDUN TILL·SIN SEKRETERARE NÄR·HAN·FYLLDI EXTIO·ÅR 1895",
+    "A·LINDBERG"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Harald Wieselgren was a Swedish librarian and writer.",
+    "</p>"
+  ]
+}

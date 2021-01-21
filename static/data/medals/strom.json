@@ -1,0 +1,25 @@
+{
+  "name": "Director John Bernstrom",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1917",
+  "diameter": "50",
+  "obverse": "Bust of John Bernstrom facing right.",
+  "obverse_inscriptions": [
+    "JOHN·BERNSTROM",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "A tree with acorns.",
+  "reverse_inscriptions": [
+    "AKTIEBOLAGET·SEPARATOR·TILL·SIN·HEDERSORDFÖRANDE·1916 卐",
+    "TANKE OCH·VILJA SKAPADE VERKET"
+  ],
+  "references": [
+    "Ulla p. 92-93"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate director John Bernstrom.",
+    "</p>"
+  ]
+}

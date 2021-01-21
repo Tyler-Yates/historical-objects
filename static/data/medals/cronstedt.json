@@ -1,0 +1,26 @@
+{
+  "name": "70th Birthday of Axel Cronstedt",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1951",
+  "diameter": "53",
+  "obverse": "Bust of Axel Cronstedt facing left.",
+  "obverse_inscriptions": [
+    "GREVE AXEL CRONSTEDT",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 5 lines surrounded by 7 stars. Below is the cross of the Timmermans Order.",
+  "reverse_inscriptions": [
+    "TIMMERMANS ORDEN TILL SIN R\u00c4TTR\u00c5DIGE H\u00d6GT AVH\u00c5LLNE G. G. o. O. P.",
+    "D. 25 NOV. 1951"
+  ],
+  "references": [
+    "Ulla #457"
+  ],
+  "description": [
+    "<p>",
+    "Axel Cronstedt was the governor general of the Timmermans Order.",
+    "This medal was made to celebrate his 70th birthday.",
+    "</p>"
+  ]
+}

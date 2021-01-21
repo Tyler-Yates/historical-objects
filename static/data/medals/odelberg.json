@@ -1,0 +1,25 @@
+{
+  "name": "Wilhelm Odelberg",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1914",
+  "diameter": "60",
+  "obverse": "Bust of Wilhelm Odelberg facing left.",
+  "obverse_inscriptions": [
+    "OSCAR·WILHELM ODELBERG",
+    "A·LINDBERG"
+  ],
+  "reverse": "Inscription around edge and inscription in 6 lines at the bottom. Dates are at the top enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "FRAMGÅNGSRIK·LIFSGÄRNING·OCH·VÅRD·OM·UNDERHAFVANDES·VAL",
+    "FRÅN·AKTIEBOLAGET GUSTAFSBERGS·FABRIKS INTRESSENTER DESS·PERSONAL OCH DELÄGARE",
+    "1844 D·25·MAJ 1914"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Wilhelm Odelberg was a Swedish industrialist and politician.",
+    "</p>"
+  ]
+}

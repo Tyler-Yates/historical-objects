@@ -1,0 +1,26 @@
+{
+  "name": "Saint Rumbold Celebration",
+  "engraver": "Henri Charles Wurden",
+  "country": "Belgium",
+  "year": "1875",
+  "diameter": "50",
+  "obverse": "Saint Rumbold with staff and miniature cross preaching to two people. The two people are kneeling before him. The two men may represent the men that murdered him after he denounced their sinful ways. At the bottom is the coat of arms of the city of Mechelen.",
+  "obverse_inscriptions": [
+    "<div id='formatted-text-output'><span class='upper'>M</span><span class='lower'>E</span><span class='upper'>C</span><span class='lower'>H</span><span class='upper'>L</span><span class='upper'>I</span><span class='lower'>N</span><span class='upper'>I</span><span class='lower'>A</span><span class='lower'> </span><span class='upper'>J</span><span class='upper'>U</span><span class='lower'>B</span><span class='upper'>I</span><span class='upper'>L</span><span class='lower'>A</span><span class='lower'>N</span><span class='lower'>S</span><span class='lower'> </span><span class='lower'>E</span><span class='upper'>X</span><span class='upper'>C</span><span class='upper'>U</span><span class='upper'>D</span><span class='upper'>I</span><span class='lower'>T</span><span class='lower'> </span><span class='lower'>A</span><span class='lower'>P</span><span class='lower'>O</span><span class='lower'>S</span><span class='lower'>T</span><span class='lower'>O</span><span class='upper'>L</span><span class='lower'>O</span></div>"
+  ],
+  "reverse": "The tomb of Saint Rumbold in St. Rumbold's Cathedral in Mechelen, Belgium. The tomb was completed in 1825. Below the tomb are two palm branches crossed. Below the palms is the coat of arms of the Metropolitan Chapter.",
+  "reverse_inscriptions": [
+    "<div id='formatted-text-output'><span class='upper'>C</span><span class='upper'>L</span><span class='lower'>E</span><span class='lower'>R</span><span class='upper'>U</span><span class='lower'>S</span><span class='lower'> </span><span class='lower'>P</span><span class='lower'>O</span><span class='lower'>P</span><span class='upper'>U</span><span class='upper'>L</span><span class='upper'>U</span><span class='lower'>S</span><span class='lower'>Q</span><span class='upper'>U</span><span class='lower'>E</span><span class='lower'> </span><span class='lower'>S</span><span class='lower'>A</span><span class='lower'>N</span><span class='upper'>C</span><span class='lower'>T</span><span class='lower'>O</span><span class='lower'> </span><span class='lower'>R</span><span class='upper'>U</span><span class='upper'>M</span><span class='lower'>O</span><span class='upper'>L</span><span class='upper'>D</span><span class='lower'>O</span></div>",
+    "CH. Wurden"
+  ],
+  "references": [
+    "Bulletin du Cercle arch\u00e9ologique, litt\u00e9raire et artistique de Malines, p. 307-308",
+    "M\u00e9dailles historiques de Belgique vol. I #45"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the celebration of Saint Rumbold which was held in 1875.",
+    "The strange lettering on the medal is a chronogram.",
+    "</p>"
+  ]
+}

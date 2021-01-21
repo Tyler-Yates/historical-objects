@@ -1,0 +1,27 @@
+{
+  "name": "100th Anniversary of the Naumburg Convention",
+  "engraver": "?",
+  "country": "Germany",
+  "year": "1661",
+  "diameter": "45",
+  "obverse": "Bust of Martin Luther 3/4 facing right.",
+  "obverse_inscriptions": [
+    "Mart:Luther·der·h:Schrifft D:Wesland Pred:u:Prof:d:Wittenb:☘"
+  ],
+  "reverse": "City view of Eisleben, crowned shield below.",
+  "reverse_inscriptions": [
+    "Gottes wort·u:Luthers Lehr Vergeht nun:u·nimmermehr·Islebie☘"
+  ],
+  "references": [
+    "Tornau 1472-1",
+    "Whiting 137",
+    "Brozatus 827",
+    "Merseburger 4538"
+  ],
+  "description": [
+    "<p>",
+    "Martin Luther was born on November 10, 1483 in Eislaben, Germany.",
+    "This medal commemorates the 100th anniversary of the Naumburg Convention",
+    "</p>"
+  ]
+}

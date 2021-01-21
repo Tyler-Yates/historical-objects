@@ -1,0 +1,25 @@
+{
+  "name": "Jacobus Josephus Putman",
+  "engraver": "Johan Philip Matthias Menger",
+  "country": "Netherlands",
+  "year": "1871",
+  "diameter": "54",
+  "obverse": "Bust of Jacobus Josephus Putman facing left.",
+  "obverse_inscriptions": [
+    "JACOBUS JOSEPHUS PUTMAN.",
+    "J. P. M. MENGER F."
+  ],
+  "reverse": "Chronogram in four lines enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "<div id='formatted-text-output'><span class='upper'>D</span><span class='lower'>E</span><span class='upper'>C</span><span class='lower'>A</span><span class='lower'>N</span><span class='lower'>O</span><span class='lower'> </span><span class='lower'>S</span><span class='upper'>V</span><span class='lower'>O</span><span class='lower'></span><span class='lower'> </span><span class='upper'>V</span><span class='upper'>I</span><span class='upper'>C</span><span class='lower'>A</span><span class='lower'>R</span><span class='upper'>I</span><span class='upper'>I</span><span class='lower'></span><span class='upper'>V</span><span class='upper'>L</span><span class='lower'>T</span><span class='lower'>R</span><span class='lower'>A</span><span class='upper'>I</span><span class='lower'>E</span><span class='upper'>C</span><span class='lower'>T</span><span class='lower'>E</span><span class='lower'>N</span><span class='lower'>S</span><span class='lower'>E</span><span class='lower'>S</span><span class='lower'></span><span class='lower'>A</span><span class='lower'>N</span><span class='upper'>I</span><span class='upper'>M</span><span class='lower'>O</span><span class='lower'> </span><span class='lower'>G</span><span class='lower'>R</span><span class='lower'>A</span><span class='lower'>T</span><span class='upper'>I</span></div>",
+    "PRIDIE NONAS IAN."
+  ],
+  "references": [
+    "Tijdschrift van het Nederlandsch Genootschap voor Munt- en Penningkunde, Dirks, vol. 9 #181"
+  ],
+  "description": [
+    "<p>",
+    "Jacobus Josephus Putman (1812 - 1883) was pastor on Cura\u00e7ao from 1836 to 1853, where he also founded a school.",
+    "</p>"
+  ]
+}

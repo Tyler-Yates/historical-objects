@@ -1,0 +1,27 @@
+{
+  "name": "In Memory of the Heroes of Verdun",
+  "engraver": "Charles Pillet",
+  "country": "France",
+  "year": "1916",
+  "diameter": "68",
+  "obverse": "A woman representing the soldiers of France standing with Marianne in front of Verdun. The Germans are represented as an eagle holding a sword.",
+  "obverse_inscriptions": [
+    "VERDUN·ON·NE·PASSE·PAS·MCMXVI·",
+    "CH·Pillet"
+  ],
+  "reverse": "3 medallions with the busts of generals Pétain, Nivelle and Curières de Castelnau above an inscription in 5 lines in a laurel wreath. Two military medals hang at the bottom of the wreath.",
+  "reverse_inscriptions": [
+    "·A··LA·GLOIRE··DES·HÉROS·DE·VERDUN··MCMXVI·",
+    "·GENERAL··PETAIN·",
+    "·GENERAL··NIVELLE·",
+    "·GENERAL·DE·CURIERES·DE·CASTELNAU.",
+    "CP"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the Heroes of Verdun in WWI.",
+    "</p>"
+  ]
+}

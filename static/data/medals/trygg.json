@@ -1,0 +1,25 @@
+{
+  "name": "Silver Anniversary of Oscar II and Sofia of Nassau",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1882",
+  "diameter": "70",
+  "obverse": "Bust of Oscar II and Sofia facing right. Sofia is wearing a diadem.",
+  "obverse_inscriptions": [
+    "OSCAR II SVERIGES OCH NORGES KONUNG · SOPHIA SVERIGES OCH NORGES DROTTNING",
+    "* 1857 - 1882 *",
+    "LEA AHLBORN"
+  ],
+  "reverse": "A large ship sails out from a harbor. The entrance of the harbor is flanked by two large columns. A shining star is in the sky.",
+  "reverse_inscriptions": [
+    "MED LJUS FRÄN HÖJDEN GÅR FÄRDEN TRYGG."
+  ],
+  "references": [
+    "Olsen p. 270-271"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the silver wedding anniversary of Oscar II and Sofia of Nassau.",
+    "</p>"
+  ]
+}

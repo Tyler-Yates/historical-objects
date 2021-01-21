@@ -1,0 +1,24 @@
+{
+  "name": "Glory to the Unknown Soldier",
+  "engraver": "R. Bénard",
+  "country": "France",
+  "year": "1921",
+  "diameter": "68",
+  "obverse": "A winged woman receives the body of a dead soldier held up by three women in front of the Arc de Triomphe.",
+  "obverse_inscriptions": [
+    "GLOIRE AU SOLDAT INCONNU",
+    "R. BÉNARD 1921"
+  ],
+  "reverse": "The Tomb of the Unknown Soldier with a wreath and flowers around it. The wreath has a hanging medal on it.",
+  "reverse_inscriptions": [
+    "ICI REPOSE UN SOLDAT FRANÇAIS MORT POUR LA PATRIE 1914 1918",
+    "R. BÉNARD 1921"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the unknown soldier.",
+    "</p>"
+  ]
+}

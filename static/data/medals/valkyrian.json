@@ -1,0 +1,26 @@
+{
+  "name": "Valkyrian",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1906",
+  "diameter": "45",
+  "obverse": "Initials AAB inside a decorative shield surrounded by a wreath of roses.",
+  "obverse_inscriptions": [
+    "AAB",
+    "\u018eL"
+  ],
+  "reverse": "Side view of the yacht Valkyrian sailing. Name of the ship is at the bottom inside of an oval with a sea shell at the base and surrounded by sea weed.",
+  "reverse_inscriptions": [
+    "VALKYRIAN 1897-1906"
+  ],
+  "references": [
+    "Numismatiska meddelanden, Volume 17, Part 1 (Plate 104, no. 4)",
+    "Ulla #54"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made for Axel August Bruman in 1906. It commemorates a yach called the Valykrian.",
+    "Listed as extremely rare (RRR).",
+    "</p>"
+  ]
+}

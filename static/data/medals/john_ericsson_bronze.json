@@ -1,0 +1,26 @@
+{
+  "name": "John Ericsson",
+  "engraver": "Sporrong & Co.",
+  "country": "Sweden",
+  "year": "1889",
+  "diameter": "45",
+  "obverse": "Bust of John Ericsson facing left. Above the bust are the coat of arms of Sweden and the United States.",
+  "obverse_inscriptions": [
+    "JOHN ERICSSON ARBETE O. SNILLE",
+    "* 1803 † 1889"
+  ],
+  "reverse": "A factory building on a hill by a river.",
+  "reverse_inscriptions": [
+    "HALDA FICKURFABRIK SVÄNGSTA",
+    "GRUNDLAGD ÅR 1887",
+    "H. RYDÉN"
+  ],
+  "references": [
+    "Numismatiska meddelanden, Volume 17, Part 1"
+  ],
+  "description": [
+    "<p>",
+    "John Ericsson (born Johan) (July 31, 1803 – March 8, 1889) was a Swedish-American inventor.",
+    "</p>"
+  ]
+}

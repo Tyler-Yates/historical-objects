@@ -1,0 +1,29 @@
+{
+  "name": "Death of the Duke of York",
+  "engraver": "T. Halliday",
+  "country": "England",
+  "year": "1827",
+  "diameter": "45",
+  "obverse": "Bust of the Duke of York facing left.",
+  "obverse_inscriptions": [
+    "H.R.H. FREDERICK DUKE OF YORK.",
+    "HALLIDAY. F."
+  ],
+  "reverse": "Soldier with sword and shield in mourning. The soldier is sitting in front of weapons and flags.",
+  "reverse_inscriptions": [
+    "THE WARRIOR MOURNS HIS GUARDIAN FRIEND",
+    "BORN AUG. 16. 1763",
+    "DIED JAN. 5. 1827"
+  ],
+  "references": [
+    "BHM 1276"
+  ],
+  "description": [
+    "<p>",
+    "Frederick Augustus was the second son of George III. He was a soldier by profession.",
+    "</p>",
+    "<p>",
+    "Interestingly, the hint of the number '8' can be seen under the '7' on the reverse. This appears to be a fault with the die as it appears on both specimens of this medal.",
+    "</p>"
+  ]
+}

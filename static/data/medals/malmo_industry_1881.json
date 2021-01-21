@@ -1,0 +1,25 @@
+{
+  "name": "Industrial Exhibition in Malm\u00f6",
+  "engraver": "E. H. Ekvall",
+  "country": "Sweden",
+  "year": "1881",
+  "diameter": "51",
+  "obverse": "Bust of Oscar II facing right. Triangles surround the edge of the obverse.",
+  "obverse_inscriptions": [
+    "OSCAR II SVERIGES OCH NORGES KONUNG",
+    "E.H.EKVALL. SC."
+  ],
+  "reverse": "A woman in an antique robe facing right. She is holding a gear in her left hand and bundle of grain in the left. Behind her are various industrial items and the Swedish coat of arms. Triangles surround the edge of the revierse.",
+  "reverse_inscriptions": [
+    "INDUSTRI OCH SL\u00d6JDUTST\u00c4LLNINGEN I MALM\u00d6 \u00c5R 1881",
+    "E.H.EKVALL. SC."
+  ],
+  "references": [
+    "Communications numismatiques #40"
+  ],
+  "description": [
+    "<p>",
+    "This medal commemorates the industrial exhibition held in Malm\u00f6, Sweden in 1881.",
+    "</p>"
+  ]
+}

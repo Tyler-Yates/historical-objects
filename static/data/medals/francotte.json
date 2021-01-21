@@ -1,0 +1,25 @@
+{
+  "name": "Liege Universal Exhibition 1905",
+  "engraver": "Godefroid Devreese",
+  "country": "Belgium",
+  "year": "1905",
+  "diameter": "65",
+  "obverse": "Bust of Gustave Francotte facing left.",
+  "obverse_inscriptions": [
+    "·GUSTAVE· ·FRANCOTTE·",
+    "G. DEVREESE"
+  ],
+  "reverse": "A man and a woman work in an armory. The woman is seated and cleaning a gun. The man is standing and examining a gun. Through the window is a view of the city. The coat of arms of the city can be seen on the wall to the left of the window.",
+  "reverse_inscriptions": [
+    "·EXPOSITION·UNIVERSELLE·",
+    "LIÉGE 1905",
+    "G. DEVREESE."
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the Universal Exhibition held in Liege, Belgium in 1905.",
+    "</p>"
+  ]
+}

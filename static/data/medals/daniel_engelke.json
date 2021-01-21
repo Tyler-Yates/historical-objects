@@ -1,0 +1,23 @@
+{
+  "name": "Daniel Engelke",
+  "engraver": "Erik Linberg",
+  "country": "Sweden",
+  "year": "1928",
+  "diameter": "56",
+  "obverse": "Bust of Daniel Engelke facing left.",
+  "obverse_inscriptions": [
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 11 lines.",
+  "reverse_inscriptions": [
+    "TILL DANIEL ENGELKE I TACKSAM ERKÄNSLA FRÅN NORRKÖPINGS BOMULLSVÄFVERI- AKTIEBOLAG FOR FEMTIOÅRIGT FRAMGÅNGSRIKT DISPONENTSKAP 1878-1928"
+  ],
+  "references": [
+    "Ulla #285"
+  ],
+  "description": [
+    "<p>",
+    "Daniel Engelke took over management of his father's company Norrköping Cotton Fabric in 1902.",
+    "</p>"
+  ]
+}

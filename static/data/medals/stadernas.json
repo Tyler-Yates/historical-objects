@@ -1,0 +1,23 @@
+{
+  "name": "100th Anniversary of the City's General Fire Brigade Company",
+  "engraver": "Strindberg",
+  "country": "Sweden",
+  "year": "1928",
+  "diameter": "69",
+  "obverse": "A woman and a man standing. A woman holding a baby, seated. To the left is a wall fountain in the shape of a lion.",
+  "obverse_inscriptions": [
+    "STRINDBERG",
+    "1828-1928"
+  ],
+  "reverse": "A phoenix flying upward from a city engulfed in flames.",
+  "reverse_inscriptions": [
+    "STÄDERNAS ALLMÄNNA BRANDSTODSBOLAG"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "The City's General Fire Brigade Company was a Swedish insurance company, founded in 1828.",
+    "</p>"
+  ]
+}

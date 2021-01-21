@@ -1,0 +1,27 @@
+{
+  "name": "Ivar Afzelius",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1919",
+  "diameter": "62x45",
+  "obverse": "Bust of Ivar Afzelius facing left.",
+  "obverse_inscriptions": [
+    "VIRO·DE·PATRIA·BENE·MERITO AMICI CIVES",
+    "D·XV M·OCT·",
+    "A· MCM XVIII",
+    "E·LINDBERG",
+    "IVAR·AFZELIUS"
+  ],
+  "reverse": "Blank",
+  "reverse_inscriptions": [
+    "BRONS 1921"
+  ],
+  "references": [
+    "Ulla #191"
+  ],
+  "description": [
+    "<p>",
+    "Ivar Afzelius (15 October 1848, Uppsala – 30 October 1921) was a Swedish jurist and politician.",
+    "</p>"
+  ]
+}

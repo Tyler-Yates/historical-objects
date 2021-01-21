@@ -1,0 +1,27 @@
+{
+  "name": "Election of Shrewsbury Conservatives",
+  "engraver": "T. Halliday",
+  "country": "England",
+  "year": "1841",
+  "diameter": "58",
+  "obverse": "A crown rests on a bible sitting on top of a scepter and sword on top of a pillow. Surrounding this is a laurel branch with each leaf containing a name of one of the conservatives.",
+  "obverse_inscriptions": [
+    "FESTIVAL OF SHREWSBURY TO CELEBRATE THE RETURN TO PARLIAMENT OF THE XII CONSERVATIVE MEMBERS FOR SHROPSHIRE",
+    "NOVEMBER 12.1841, EARL OF POWIS PRESIDENT",
+    "GOD SAVE THE QUEEN",
+    "FORESTER, WHITMORE, ACKERS, TOMLINE, DARLINGTON, HILL, GORE, CLIVE, D\u2019ISRAELI, BOTFIELD, PICOT, GASKELL"
+  ],
+  "reverse": "Shrewsbury Abbey, Lord Hill Column, and the English Bridge with the Wrekin in the distance.",
+  "reverse_inscriptions": [
+    "ALL FRIENDS ROUND THE WREKIN",
+    "T. HALLIDAY. F."
+  ],
+  "references": [
+    "Transactions of the Shropshire Archaeological and Natural History Society vol. 21"
+  ],
+  "description": [
+    "<p>",
+    "Struck to commemorate the meeting held at Shrewsbury to celebrate the return to Parliament of the 12 Conservative members for Shropshire on November 12, 1841.",
+    "</p>"
+  ]
+}

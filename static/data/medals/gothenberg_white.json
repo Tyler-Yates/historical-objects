@@ -1,0 +1,21 @@
+{
+  "name": "Gothenburg Exhibition of Fine Arts",
+  "engraver": "Aron Gerson",
+  "country": "Sweden",
+  "year": "1869",
+  "diameter": "44",
+  "obverse": "Front view of the Gothenburg elementary school house where the exhibition was held.",
+  "obverse_inscriptions": [],
+  "reverse": "Gothenburg's coat of arms with lion facing left under the royal crown.",
+  "reverse_inscriptions": [
+    "MINNE AF KONSTUTST\u00c4LLNINGEN I G\u00d6TEBORG 1869."
+  ],
+  "references": [
+    "Hildebrand 21"
+  ],
+  "description": [
+    "<p>",
+    "This was the first of four art exhibitions that were held in Gothenburg, Sweden. Artists from Sweden, Norway, and Denmark attended. The next three exhibitions were held in 1881, 1886, and 1896.",
+    "</p>"
+  ]
+}

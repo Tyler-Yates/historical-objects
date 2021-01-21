@@ -1,0 +1,25 @@
+{
+  "name": "Sixten Anderson",
+  "engraver": "Leo Holmgren",
+  "country": "Sweden",
+  "year": "1945",
+  "diameter": "56",
+  "obverse": "Bust of Sixten Anderson facing left.",
+  "obverse_inscriptions": [
+    "SIXTEN ANDERSON",
+    "1875 7 OKT 1945",
+    "LEO HOLMGREN"
+  ],
+  "reverse": "Three male gymnasts standing, each supporting another gymnast horizontally above their head. Above the gymnasts is a circle with a downward-pointing triangle inside.",
+  "reverse_inscriptions": [
+    "EN·SUND·SJÄL·I·EN·SUND·KROPP",
+    "Lh"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal commemorates Sixten Anderson who appears to have been a gymnast.",
+    "</p>"
+  ]
+}

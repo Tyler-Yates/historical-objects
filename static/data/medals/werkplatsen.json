@@ -1,0 +1,29 @@
+{
+  "name": "200th Anniversary of the Artillery Workshops in Delft",
+  "engraver": "J. P. M. Menger",
+  "country": "Netherlands",
+  "year": "1879",
+  "diameter": "45",
+  "obverse": "The buildings of the artillery workshops.",
+  "obverse_inscriptions": [
+    "AFFUITMAKERIJ CONSTRUCTIE WERKPLAATSEN",
+    "* 1679-1879 *"
+  ],
+  "reverse": "An oak and laurel wreath enclosing two cannons.",
+  "reverse_inscriptions": [
+    "200 JARIG BESTAAN VAN 'S RIJKS ARTILLERIE INRICHTINGEN",
+    "DELFT 22 NOVEMBER 1879"
+  ],
+  "references": [
+    "Tijdschrift van het Nederlandsch Genootschap vol. 2 p. 24"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the 200th anniversary of the artillery workshops in Delft, Netherlands.",
+    "The Minister of War to issue a commemorative medal in memory of this feast.",
+    "A gold copy was made for the King, a silver copy for the Crown Prince of Orange, for Prince Frederik, ",
+    "the city of Delft and to the former and current Chief officers of the institutions.",
+    "The current officers, the workmen and the councilors of the city each received a copy in bronze.",
+    "</p>"
+  ]
+}

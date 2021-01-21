@@ -1,0 +1,25 @@
+{
+  "name": "Nils Axel Gustafsson Bennich",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1889",
+  "diameter": "58",
+  "obverse": "Bust of Nils Axel Gustafsson Bennich facing left.",
+  "obverse_inscriptions": [
+    "N·A·Gson BENNICH GENERALTULLDIREKTÖR 1865-1888",
+    "A·LINDBERG"
+  ],
+  "reverse": "A cornucopia and caduceus crossed. Behind them is a branch.",
+  "reverse_inscriptions": [
+    "GÄRD·AF·VÖRDNAD·OCH·TACKSAMHET",
+    "AF·TULLVERKETS·PERSONAL"
+  ],
+  "references": [
+    "Kungl. Vitterhets, Historie Och Antikvitets Akademiens Handlingar, Volumes 30-33, 1889 #5"
+  ],
+  "description": [
+    "<p>",
+    "Nils Axel Gustafsson Bennich was appointed director of the Swedish Customs Service.",
+    "</p>"
+  ]
+}

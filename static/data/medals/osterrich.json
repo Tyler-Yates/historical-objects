@@ -1,0 +1,27 @@
+{
+  "name": "Inauguration of Statue to Archduke Charles",
+  "engraver": " Carl Radnitzky",
+  "country": "Austria",
+  "year": "1861",
+  "diameter": "64",
+  "obverse": "Bust of Archduke Charles with Order of the Golden Fleece facing left.",
+  "obverse_inscriptions": [
+    "CARL \u00b7 ERZHERZOG \u00b7 VON \u00b7 OESTERREICH",
+    "C. RADNITZKY"
+  ],
+  "reverse": "Equestrian statue of Archduke Charles which is located on the Heldenplatz in Vienna. There are two inscriptions around the statue. The top one is the text located on the north side of the statue. The bottom one is the text located on the south side of the statue.",
+  "reverse_inscriptions": [
+    "DEM\u00b7HELDENM\u00dcTHIGEN\u00b7F\u00dcHRER\u00b7DER\u00b7HEERE\u00b7\u00d6STERREICHS",
+    "DEM\u00b7BEHARRLICHEN\u00b7K\u00c6MPFER\u00b7F\u00dcR\u00b7DEUTSCHLANDS\u00b7EHRE",
+    "22\u00b7MAI\u00b71860"
+  ],
+  "references": [
+    "Katalog der M\u00fcnzen- und Medaillen-Stempel-Sammlung des K. K. Hauptmunamtes in Wien vol. 3 p. 793",
+    "Oesterreichischer Milit\u00e4r-Kalender, Vol. 12, P. 136"
+  ],
+  "description": [
+    "<p>",
+    "The statue to Archduke Charles of Austria is located in the Heldenplatz of Vienna.",
+    "</p>"
+  ]
+}

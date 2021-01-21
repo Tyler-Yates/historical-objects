@@ -1,0 +1,25 @@
+{
+  "name": "700th Anniversary of the Founding of Bern",
+  "engraver": "F. Homberg",
+  "country": "Switzerland",
+  "year": "1891",
+  "diameter": "33",
+  "obverse": "Helmeted and armored bust of Berthold V von Z\u00e4hringen facing left with hist coat of arms below.",
+  "obverse_inscriptions": [
+    "* BERCHTOLD \u00b7 V, HERZOG VON ZAEHRINGEN, RECTOR VON BURGUND *",
+    "GRUENDER DER STADT BERN"
+  ],
+  "reverse": "Coat of arms within a wreath.",
+  "reverse_inscriptions": [
+    "* ZUR FEIER DES 700 JAEHRIGEN BESTEHENS DER STADT BERN *",
+    "1191-1891"
+  ],
+  "references": [
+    "Schulth 588b"
+  ],
+  "description": [
+    "<p>",
+    "The city of Bern was founded in 1191 by Berthold V, Duke of Z\u00e4hringen.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Federal Music Festival",
+  "engraver": "Sebald Drentwett",
+  "country": "Switzerland",
+  "year": "1867",
+  "diameter": "41",
+  "obverse": "A lyre, wreath, and piano roll on a cloud inside of an elaborate patchwork design.",
+  "obverse_inscriptions": [
+    "ZUR ERINNERUNG AN DAS EIDGEN\u00d6SSISCHE MUSIKFEST",
+    "* IN Z\u00dcRICH 1867 *"
+  ],
+  "reverse": "View of the city of Zurich with coat of arms above.",
+  "reverse_inscriptions": [
+    "Z\u00dcRICH",
+    "DRENTWETT. D."
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the federal music festival held in Zurich in 1867.",
+    "</p>"
+  ]
+}

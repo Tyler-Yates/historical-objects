@@ -1,0 +1,23 @@
+{
+  "name": "Antwerp Universal Exhibition 1894",
+  "engraver": "Jules Baetes",
+  "country": "Belgium",
+  "year": "1894",
+  "diameter": "60",
+  "obverse": "Bust of Leopold II facing right.",
+  "obverse_inscriptions": [
+    "LEOPOLD\u00b7II ROI\u00b7DES\u00b7BELGES",
+    "JUL. BAETES SCULP."
+  ],
+  "reverse": "A globe surrounded by a ribbon and a branch. Below the globe is Antwerp with the Cathedral of Our Lady  and the exhibition building visible. Above the globe is the coat of arms of Antwerp. The continents of the globe are labelled: AFRIKA, AUST, EUROPA, AZIA.",
+  "reverse_inscriptions": [
+    "EXPOSITION UNIVERSELLE D\u2019ANVERS 1894 WERELDTENTOONSTELLING VAN ANTWERPEN",
+    "JUL BAETES"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made for the Universal Exhibition held in Antwerp in 1894.",
+    "</p>"
+  ]
+}

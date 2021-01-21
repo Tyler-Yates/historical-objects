@@ -1,0 +1,26 @@
+{
+  "name": "Erik Wilhelm Dahlgren",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1918",
+  "diameter": "61x50",
+  "obverse": "Bust of Erik Wilhelm Dahlgren facing left.",
+  "obverse_inscriptions": [
+    "E·LINDBERG"
+  ],
+  "reverse": "Inscription in 10 lines.",
+  "reverse_inscriptions": [
+    "ERICO GUILELMO DAHLGREN REG·BIBLIOTHECAE HOLMIENSIS PRAEFECTO D·XXX·M·IUNII A·MCMXVI COLLEGAE AMICI"
+  ],
+  "references": [
+    "Ulla #169"
+  ],
+  "description": [
+    "<p>",
+    "Erik Wilhelm Dahlgren was a librarian and geographer.",
+    "</p>",
+    "<p>",
+    "Approximately 150 examples were made in silver and bronze.",
+    "</p>"
+  ]
+}

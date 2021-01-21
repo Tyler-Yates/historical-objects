@@ -1,0 +1,26 @@
+{
+  "name": "Georg Bissmark",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1943",
+  "diameter": "56",
+  "obverse": "Bust of Georg Bissmark facing left.",
+  "obverse_inscriptions": [
+    "KRAFTFULL·LEDARE * KLOK·RÅDGIVARE * GOD·MÄNNISKA",
+    "F·1871·D·1941",
+    "E·LINDBERG"
+  ],
+  "reverse": "Inscription in 9 lines. Below is a tree surrounded by four 6-pointed stars.",
+  "reverse_inscriptions": [
+    "AV SVENSKA SPARBANKS FÖRENINGEN TILL·HUGFÄSTANDE·AV GEORG·BISSMARKS BETYDELSEFULLA VERKSAMHET·FOR SVERIGES·SPARBANKER",
+    "1942"
+  ],
+  "references": [
+    "Ulla #414"
+  ],
+  "description": [
+    "<p>",
+    "Georg Bissmark (1871 - 1941) was a Swedish lawyer and politician.",
+    "</p>"
+  ]
+}

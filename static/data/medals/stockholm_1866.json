@@ -1,0 +1,23 @@
+{
+  "name": "Stockholm Industrial Exhibition 1866",
+  "engraver": "?",
+  "country": "Sweden",
+  "year": "1866",
+  "diameter": "36.5",
+  "obverse": "A building for the exhibition.",
+  "obverse_inscriptions": [
+    "KONST-UTST\u00c4LLNINGEN I STOCKHOLM \u00d6PPNAD DEN 15 JUNI 1866"
+  ],
+  "reverse": "A building for the exhibition.",
+  "reverse_inscriptions": [
+    "INDUSTRI-UTST\u00c4LLNINGEN I STOCKHOLM (SEDD FR\u00c5N SYDVESTRA SIDAN) OPPNAD DEN 15 JUNI 1866"
+  ],
+  "references": [
+    "Hildebrand P.461"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the industrial exhibition held in Stockholm in 1866.",
+    "</p>"
+  ]
+}

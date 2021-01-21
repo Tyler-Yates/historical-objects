@@ -1,0 +1,29 @@
+{
+  "name": "Charles X and Gustaf V of Sweden",
+  "engraver": "Sven Kulle",
+  "country": "Sweden",
+  "year": "1908",
+  "diameter": "56",
+  "obverse": "Bust of Charles X facing right and bust of Gustaf V facing left. Each bust is in a circle. Behind the circles are two crossed branches.",
+  "obverse_inscriptions": [
+    "·MEMORIÆ·",
+    "·CAROLI·GUSTAVI·",
+    "·GUSTAVO·V·REGNANTE·",
+    ".1658 - 1908.",
+    "·SVEN·KULLE·"
+  ],
+  "reverse": "A maiden wearing a crown holds a shield with the coat of arms of Sweden and holds a branch up. Four other women present garlands to the maiden. A lion lies next to the maiden. In the background is a coastline with the sun rising.",
+  "reverse_inscriptions": [
+    "QUAS·CEPIT·GLADIUS·NUNC·VINCTÆ·MATRIS·AMORE",
+    "STINA·BECK-FRIIS·DIR.",
+    "SVEN·KULLE·SCULP."
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Charles X Gustav of Sweden was King of Sweden from 1654 - 1660.",
+    "Gustaf V of Sweden was King of Sweden from 1907 - 1950.",
+    "</p>"
+  ]
+}

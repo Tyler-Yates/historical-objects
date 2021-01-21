@@ -1,0 +1,28 @@
+{
+  "name": "50th Anniversary of the Battle of Leipzig",
+  "engraver": "Johann Karl Fischer",
+  "country": "Germany",
+  "year": "1863",
+  "diameter": "39",
+  "obverse": "A winged angel holds a bundle of sticks and two wreaths.",
+  "obverse_inscriptions": [
+    "DEUTSCHLAND ZUR EHR ZUM 50TEN JAHRESTAGE DER SCHLACHT",
+    "18 OCT. 1863",
+    "G. LOOS DIR. C. FISCHER FEC."
+  ],
+  "reverse": "Woman standing on a dragon and holding a broken chain.",
+  "reverse_inscriptions": [
+    "DEM FEIND ZUR LEHR",
+    "18. OCT. 1813"
+  ],
+  "references": [
+    "Salaschek 19"
+  ],
+  "description": [
+    "<p>",
+    "The Battle of Leipzig or Battle of the Nations was fought from 16 to 19 October 1813, at Leipzig, Germany. The coalition armies of Russia, Prussia, Austria, and Sweden, led by Tsar Alexander I of Russia and Karl Philipp,",
+    "Prince of Schwarzenberg, decisively defeated the French army of Napoleon I, Emperor of the French. Napoleon's army also contained Polish and Italian troops,",
+    "as well as Germans from the Confederation of the Rhine. The battle was the culmination of the 1813 German campaign and involved nearly 600,000 soldiers, making it the largest battle in Europe prior to World War I.",
+    "</p>"
+  ]
+}

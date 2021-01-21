@@ -1,0 +1,28 @@
+{
+  "name": "School of Handicraft Award Medal",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1863",
+  "diameter": "39",
+  "obverse": "An owl perched atop a column. Around the column are industrial, art, and agricultural instruments.",
+  "obverse_inscriptions": [
+    "INSIGT OCH FLIT.",
+    "LEA AHLBORN F."
+  ],
+  "reverse": "Blank area for hand carving an inscription for the recipient of the award.",
+  "reverse_inscriptions": [
+    "SLÖJDSKOLAN I STOCKHOLM.",
+    "Till Sophie Granlrig Skolans 4c pris for Eigurritning 18<span class='container'><span class='stack'>18</span><span class='stack'>6</span></span>63"
+  ],
+  "references": [
+    "Olsen p. 159"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to present to students in the School of Handicraft. It started being minted in 1862.",
+    "</p>",
+    "<p>",
+    "This particular medal was inscribed to Sophie Granlrig for 4th place.",
+    "</p>"
+  ]
+}

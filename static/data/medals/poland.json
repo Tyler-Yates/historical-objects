@@ -1,0 +1,25 @@
+{
+  "name": "100th Anniversary of Holy Trinity Church, Warsaw",
+  "engraver": "Simon Pesch",
+  "country": "Poland",
+  "year": "1881",
+  "diameter": "60",
+  "obverse": "A front view of the The Holy Trinity Evangelical Church of the Augsburg Confession in Warsaw, Poland.",
+  "obverse_inscriptions": [
+    "SANCTA TRINITAS SALVA NOS!",
+    "EXSTRUCTA ANNO MDCCLXXXI RENOVATA ANNO MDCCCLXXXI"
+  ],
+  "reverse": "Seven lines of text with date at bottom.",
+  "reverse_inscriptions": [
+    "AD MEMORIAM PRIMORUM SOLLEMNIUM SAECULARIUM EXSTRUCTAE AEDIS SACRAE COETUS EVANGELICI AUGUSTANAE CONFESSIONIS VARSAVIENSIS",
+    "A:D:MDCCCLXXXI"
+  ],
+  "references": [
+    "Catalogue de la collection des m\u00e9dailles et monnaies polonaises du comte Emeric Hutten-Czapski vol. IV #7973"
+  ],
+  "description": [
+    "<p>",
+    "The Holy Trinity Evangelical Church of the Augsburg Confession, also known as Zug's Protestant Church, is a Lutheran church in Warsaw, Poland.",
+    "</p>"
+  ]
+}

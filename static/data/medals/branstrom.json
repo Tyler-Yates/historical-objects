@@ -1,0 +1,29 @@
+{
+  "name": "Pehr Br\u00e4ndstr\u00f6m Award Medal",
+  "engraver": "C. Enh\u00f6rning",
+  "country": "Sweden",
+  "year": "1811",
+  "diameter": "56",
+  "obverse": "Bust of Pehr Br\u00e4ndstr\u00f6m facing right.",
+  "obverse_inscriptions": [
+    "AF SAMFUNDSNIT ETT V\u00c4RDIGT EFTERD\u00d6ME",
+    "C. ENH\u00d6RNING."
+  ],
+  "reverse": "Inscription in 6 lines.",
+  "reverse_inscriptions": [
+    "PER BR\u00c4NDSTR\u00d6M COMM. R\u00c5D. R. V. O. STIFTARE AF GEFLE ELEMENTAR SKOLA BEREDDE GENOM FRIKOSTIGA G\u00c5FVOR UPPMUNTRAN \u00c5T IDOGHETEN TILLFLYGT \u00c5T N\u00d6DEN"
+  ],
+  "references": [
+    "Hildebrand 267"
+  ],
+  "description": [
+    "<p>",
+    "Peter Br\u00e4ndstr\u00f6m was a Swedish businessman born October 6, 1735 and died August 22, 1809 in G\u00e4vle, Sweden.",
+    "Br\u00e4ndstr\u00f6m was in the trading business and became one of richest men in G\u00e4vle.",
+    "He made a donation to found Borgarskolan, an elementary school, which opened on January 16, 1797.",
+    "</p>",
+    "<p>",
+    "This medal was made to be rewarded to graduates of the elementary school.",
+    "</p>"
+  ]
+}

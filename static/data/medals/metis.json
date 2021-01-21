@@ -1,0 +1,24 @@
+{
+  "name": "French Agricultural Award Medal",
+  "engraver": "Jean-Pierre Montagny",
+  "country": "France",
+  "year": "1817",
+  "diameter": "34",
+  "obverse": "Bull facing right standing on level ground. To the left of the bull is a plow and to the right is a sickle.",
+  "obverse_inscriptions": [
+    "LABOR ET SPES.",
+    "METIS. ANNO 1817.",
+    "MONTAGNY. F.",
+    "DEPUYMARIN. D."
+  ],
+  "reverse": "Wreath",
+  "reverse_inscriptions": [],
+  "references": [
+    "Mes Loisirs, Amusemens Numismatiques, Ouvrage Posthume de Mr. Le Comte C.W. de Renesse-Breidbach, Publ. Par Son Fils #636"
+  ],
+  "description": [
+    "<p>",
+    "This medal appears to be an award medal for an agricultural exhibition. No name was inscribed on the medal.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sven Ludvig Lovén",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1891",
+  "diameter": "43",
+  "obverse": "Bust of Sven Ludvig Lovén facing right.",
+  "obverse_inscriptions": [
+    "SVENO LOVÉN MUSEI ZOOL. REGNI PRÆFECTUS.",
+    "LEA AHLBORN"
+  ],
+  "reverse": "Inscription in 7 lines enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "SOCIO MERITISSIMO OB OFFICIA INSIGNIA PER DECEM LUSTRA MUSEO ZOOL. REGNI PRÆSTITIA REG. ACAD. SC. SUEC. MDCCCXCI."
+  ],
+  "references": [
+    "Olsen p. 316"
+  ],
+  "description": [
+    "<p>",
+    "Sven Ludvig Lovén (6 January 1809 – 3 September 1895), was a Swedish marine zoologist and malacologist.",
+    "</p>"
+  ]
+}

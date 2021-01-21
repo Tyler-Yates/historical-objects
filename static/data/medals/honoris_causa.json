@@ -1,0 +1,23 @@
+{
+  "name": "1862 London International Exhibition Prize Medal",
+  "engraver": "L.C. Wyon",
+  "country": "Great Britain",
+  "year": "1862",
+  "diameter": "77",
+  "obverse": "Britannia seated left, receiving gifts from kneeling figures. Three female figures standing to right, the British lion crouches in foreground.",
+  "obverse_inscriptions": [
+  ],
+  "reverse": "Inscription enclosed in wreath",
+  "reverse_inscriptions": [
+    "1862 LONDINI HONORIS CAUSA"
+  ],
+  "references": [
+    "BHM 2747",
+    "Eimer 1553"
+  ],
+  "description": [
+    "<p>",
+    "This medal was created to award to attendees of the 1862 London International Exhibition.",
+    "</p>"
+  ]
+}

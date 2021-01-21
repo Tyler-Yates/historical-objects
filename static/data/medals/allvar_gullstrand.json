@@ -1,0 +1,27 @@
+{
+  "name": "Allvar Gullstrand's 60th Birthday",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1922",
+  "diameter": "56",
+  "obverse": "Bust of Allvar Gullstrand facing right",
+  "obverse_inscriptions": [
+    "ALLVAR·GVLLSTRAND NAT·NON·IVN·MDCCCLXII",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 9 lines with date at bottom. A Rod of Asclepius and branch of laurel are above the date.",
+  "reverse_inscriptions": [
+    "ARTIBVS MEDICORVM PHYSICORVM MATHEMATICORVM·VSVS OBSCVRA·OCVLI ILLVSTRAVIT * * * SOCIO·HON·EGREGIE·MERITO SEXAGENARIO SOCIETAS·MEDICORVM·SVEC·",
+    "MCMXXII"
+  ],
+  "references": [
+    "Ulla #221",
+    "Ophthalmologia Optica & Visio in Nummis I.85"
+  ],
+  "description": [
+    "<p>",
+    "This medal was created to commemorate Gullstrand's 60th birthday.",
+    "It was commissioned by the Swedish Medical Society and created by Erik Lindberg.",
+    "</p>"
+  ]
+}

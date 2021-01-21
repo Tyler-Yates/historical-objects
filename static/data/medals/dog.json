@@ -1,0 +1,22 @@
+{
+  "name": "Dresden Dog Show 1900",
+  "engraver": "?",
+  "country": "Germany",
+  "year": "1900",
+  "diameter": "39",
+  "obverse": "Dog, facing left. The dog appears to be a Pointer.",
+  "obverse_inscriptions": [
+    "KYNOLOGISCHER VEREIN * DRESDEN *"
+  ],
+  "reverse": "Two branches of a wreath.",
+  "reverse_inscriptions": [
+    "SCHAU",
+    "1900"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was presented at a dog show in Dresden in 1900.",
+    "</p>"
+  ]
+}

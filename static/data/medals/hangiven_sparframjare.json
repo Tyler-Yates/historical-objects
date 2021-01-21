@@ -1,0 +1,26 @@
+{
+  "name": "Josef Hugo Jönsson",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1945",
+  "diameter": "56",
+  "obverse": "Bust of Josef Hugo Jönsson facing left.",
+  "obverse_inscriptions": [
+    "HÄNGIVEN·SPARFRÄMJARE·DJÄRV·NYDANARE",
+    "* F·1885 D·1942 *",
+    "E·LINDBERG"
+  ],
+  "reverse": "Inscription in 5 lines. Below the inscription is an oak tree. Three 8-point stars surround the inscription.",
+  "reverse_inscriptions": [
+    "AV·SVENSKA SPARBANKS FÖRENINGEN TILL·MINNE·AV J·H·JÖNSSON",
+    "1945"
+  ],
+  "references": [
+    "Ulla #427"
+  ],
+  "description": [
+    "<p>",
+    "Josef Hugo Jönsson was the driving force behind a common marketing plan for all of Sweden's savings banks.",
+    "</p>"
+  ]
+}

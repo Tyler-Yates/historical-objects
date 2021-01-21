@@ -1,0 +1,27 @@
+{
+  "name": "Sk\u00e5nska Diving Company",
+  "engraver": "F. Schmahlfeld",
+  "country": "Sweden",
+  "year": "1875-1881",
+  "sort_year": 1875,
+  "diameter": "53",
+  "obverse": "A bird in flight surrounded by a wreath.",
+  "obverse_inscriptions": [
+    "F SCHMAHLFELD FEC",
+    "V CHRISTESEN"
+  ],
+  "reverse": "The word 'Priset' is surrounded by a wreath. There is a space above meant to hold '1', '2', or '3' to indicate the place of the award recipient.",
+  "reverse_inscriptions": [
+    "SK\u00c5NSKA-DUFSKJUTNINGS-S\u00c4LLSKAPET.",
+    "Priset"
+  ],
+  "references": [
+    "Numismatiska meddelanden #205"
+  ],
+  "description": [
+    "<p>",
+    "Created by Fr. Schmahlfeld who was employed by jeweler V. Christesen in Copenhagen as the emblem of the Sk\u00e5nska Diving Company.",
+    "The Sk\u00e5nska Diving Company was founded in Lund in 1875 and dissolved shortly after 1881.",
+    "</p>"
+  ]
+}

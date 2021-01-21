@@ -1,0 +1,27 @@
+{
+  "name": "Otto Edvard Carlsund",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1935",
+  "diameter": "45",
+  "obverse": "Bust of Otto Edvard Carlsund facing left.",
+  "obverse_inscriptions": [
+    "OTTO EDVARD CARLSUND FÖDD 1809 DÖD 1884",
+    "I·V·A",
+    "24 OKT· 1935",
+    "ƎL·"
+  ],
+  "reverse": "Prometheus lighting a stick on fire. He is raising a blanket up with his left hand.",
+  "reverse_inscriptions": [
+    "PROMETHEUS",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #348"
+  ],
+  "description": [
+    "<p>",
+    "Otto Edvard Carlsund was the leader of AB Motala Verkstad, one of the oldest engineering companies in Sweden.",
+    "</p>"
+  ]
+}

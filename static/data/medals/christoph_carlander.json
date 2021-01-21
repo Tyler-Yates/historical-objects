@@ -1,0 +1,27 @@
+{
+  "name": "Christopher Carlander",
+  "engraver": "Ludwig Peterssen Lundgren",
+  "country": "Sweden",
+  "year": "1838",
+  "diameter": "50",
+  "obverse": "Bust of Christopher Carlander facing right.",
+  "obverse_inscriptions": [
+    "CHRISTOPH. CARLANDER PER X LUSTRA MED. DOCTOR MERITISS.",
+    "L. P. LUNDGREN F."
+  ],
+  "reverse": "Inscription in 5 lines enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "SODALIUM ET AMICORUM PIETAS",
+    "-- * --",
+    "DIE XIII JUNII MDCCCXXXVIII"
+  ],
+  "references": [
+    "Minnespenningar öfver enskilda personer födda eller verksamma i Finland",
+    "American Journal of Numismatics, Volumes 39-41"
+  ],
+  "description": [
+    "<p>",
+    "Christopher Carlander was a Swedish doctor.",
+    "</p>"
+  ]
+}

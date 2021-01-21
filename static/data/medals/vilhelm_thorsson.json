@@ -1,0 +1,30 @@
+{
+  "name": "Fredrik Vilhelm Thorsson",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1929",
+  "diameter": "45",
+  "obverse": "Bust of Fredrik Vilhelm Thorsson facing left.",
+  "obverse_inscriptions": [
+    "FREDRIK·VILHELM·THORSSON·FÖDD·1865·DÖD·1925",
+    "I·V·A·",
+    "DEN·24·OKTOBER·1929",
+    "ƎL·"
+  ],
+  "reverse": "Prometheus lighting a stick on fire. He is raising a blanket up with his left hand.",
+  "reverse_inscriptions": [
+    "PROMETHEUS",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #296"
+  ],
+  "description": [
+    "<p>",
+    "Fredrik Vilhelm Thorsson was a Swedish politician and shoemaker.",
+    "</p>",
+    "<p>",
+    "250 examples of this medal were made in bronze.",
+    "</p>"
+  ]
+}

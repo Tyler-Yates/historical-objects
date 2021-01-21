@@ -1,0 +1,26 @@
+{
+  "name": "The Royal Meeting of 1914",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1915",
+  "diameter": "45",
+  "obverse": "Busts of Christian X of Denmark, Haakon VII of Norway, and Gustaf V of Sweden each in a circle. Below the circles are the coat of arms of Norway, Sweden, and Denmark.",
+  "obverse_inscriptions": [
+    "SAMFÄLDA RÅDSLAG RIKENA STYRKA",
+    "ƎL·"
+  ],
+  "reverse": "A view of the Residence in Malmö, Sweden. At the bottom is the coat of arms of Malmö.",
+  "reverse_inscriptions": [
+    "MINNE AF KUNGAMÖTET MALMÖ",
+    "18~19 DEC· 1914"
+  ],
+  "references": [
+    "Ulla #139"
+  ],
+  "description": [
+    "<p>",
+    "The Royal Meeting of 1914 was held between the kings of Norway, Sweden, and Denmark in response to the start of WWI.",
+    "The three countries agreed to a policy of neutrality.",
+    "</p>"
+  ]
+}

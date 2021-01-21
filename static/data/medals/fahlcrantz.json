@@ -1,0 +1,27 @@
+{
+  "name": "Carl Johan Fahlcrantz",
+  "engraver": "C. M. Mellgren",
+  "country": "Sweden",
+  "year": "1837",
+  "diameter": "",
+  "obverse": "Bust of Carl Johan Fahlcrantz facing right.",
+  "obverse_inscriptions": [
+    "CAROLUS JOHANNES FAHLCRANTZ",
+    "NAT. XXIX. NOV. MDCCLXXIV.",
+    "CMM."
+  ],
+  "reverse": "An easel crowned by a wreath with painting tools and books below.",
+  "reverse_inscriptions": [
+    "ÆMULA NATURÆ MANUS"
+  ],
+  "references": [
+    "Hildebrand",
+    "Kungl. Vitterhets, Historie Och Antikvitets Akademiens Handlingar, Volume 16"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Carl Johan Fahlcrantz, a famous Swedish painter known for his landscape paintings.",
+    "This medal is part of a series of noted Swedish scientists and artists.",
+    "</p>"
+  ]
+}

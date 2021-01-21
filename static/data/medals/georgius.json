@@ -1,0 +1,25 @@
+{
+  "name": "Victories Under George III",
+  "engraver": "J. Westwood",
+  "country": "Great Britain",
+  "year": "1805",
+  "diameter": "46",
+  "obverse": "Bust of George III facing right.",
+  "obverse_inscriptions": [
+    "GEORGIUS III·D·G·BRITANNIARUM REX·FID·D.",
+    "NAT:IV·JUN·MDCCXXXVIII"
+  ],
+  "reverse": "A winged woman representing Victory stands on clouds. She holds a crown in her right hand and a wreath in her left.",
+  "reverse_inscriptions": [
+    "HUJUS SUB AUSPICIIS FLORESCENT QUOTIDIE MAGIS",
+    "MDCCCV"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "This medal commemorates victories under King George III.",
+    "The Battle of Trafalgar (1805) is a likely candidate for a specific victory this medal is meant to represent.",
+    "</p>"
+  ]
+}

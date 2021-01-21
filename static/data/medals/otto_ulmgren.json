@@ -1,0 +1,25 @@
+{
+  "name": "Otto Ulmgren",
+  "engraver": "Tore Strindberg",
+  "country": "Sweden",
+  "year": "1924",
+  "diameter": "55",
+  "obverse": "Bust of Otto Ulmgren facing right.",
+  "obverse_inscriptions": [
+    "OTTO ULMGREN·1924",
+    "TORE STRINDBERG"
+  ],
+  "reverse": "A staff with a snake wrapped around it. The snake is also wrapped around a mouth mirror and dental pliers. Two wreaths wrap around the staff.",
+  "reverse_inscriptions": [
+    "ÆTATIS SVÆ LXXX",
+    "T· S·"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Otto Ulmgren (1844-1932) was a Swedish dentist.",
+    "This medal was commissioned by the Swedish Odontological Society .",
+    "</p>"
+  ]
+}

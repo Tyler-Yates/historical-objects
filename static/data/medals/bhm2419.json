@@ -1,0 +1,24 @@
+{
+  "name": "London International Exhibition of 1851",
+  "engraver": "Allen & Moore",
+  "country": "England",
+  "year": "1851",
+  "diameter": "52",
+  "obverse": "Conjoined draped busts of Prince Albert and Queen Victoria facing left. Around the edge of the medal is a wide border with open wreath and a sword and scepter crossed under a crown at the top.",
+  "obverse_inscriptions": [
+    "QUEEN VICTORIA & PR: ALBERT"
+  ],
+  "reverse": "View of the exhibition building.",
+  "reverse_inscriptions": [
+    "THE INTERNATIONAL INDUSTRIAL EXHIBITION LONDON, 1851.",
+    "PROPOSED BY H.R.H. PRINCE ALBERT, DESIGNED BY JOSEPH PAXTON ESQ. F.L.S., ERECTED BY FOX, HENDERSON & C<span class='container'><span class='stack'>O</span><span class='stack'>.</span></span>, LENGTH 1848 FEET, WIDTH 456 FEET, HEIGHT OF PRINCIPAL ROOF 66 FEET, HEIGHT OF TRANSEPT 108 FEET, GLAZED SURFACE 900,000 SUP. FEET, OCCUPIES 18 ACRES OF GROUND, ESTIMATED VALUE \u00a3150,000"
+  ],
+  "references": [
+    "BHM 2419"
+  ],
+  "description": [
+    "<p>",
+    "The exhibition occurred in London in 1851.",
+    "</p>"
+  ]
+}

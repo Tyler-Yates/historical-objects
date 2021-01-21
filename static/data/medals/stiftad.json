@@ -1,0 +1,26 @@
+{
+  "name": "Award medal for Swedish Society",
+  "engraver": "Pehr Henrik Lundgren",
+  "country": "Sweden",
+  "year": "1847",
+  "diameter": "50",
+  "obverse": "Minerva standing, with a flaming lamp in her hand leans over a sitting woman (Industry) and points to a drawing. Next to the sitting woman is a column with a vase on top. The sitting woman holds a staff by her side. Next to the column is a beehive and cornucopia.",
+  "obverse_inscriptions": [
+    "P. LUNDGREN FEC."
+  ],
+  "reverse": "A wreath encloses a hand-carved inscription. The wreath contains many items: Neptune's trident, a space, an anchor, a torch, a hammer, a scythe, a sickle, and other tools.",
+  "reverse_inscriptions": [
+    "SVENSKA SL\u00d6JDF\u00d6RENINGEN STIFTAD DEN 6 OKTOBER 1845.",
+    "Till A. Hallenberg for framsteg i Skolan",
+    "Klotsritning 26/5 1858"
+  ],
+  "references": [
+    "Hildebrand pg. 432 #77"
+  ],
+  "description": [
+    "<p>",
+    "This medal was minted to be given to skilled members of the Swedish Society (Svenska Sl\u00f6jdf\u00f6reningen).",
+    "This medal in particular was given to A. Hallenberg in 1858. ",
+    "</p>"
+  ]
+}

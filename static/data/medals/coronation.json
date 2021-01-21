@@ -1,0 +1,26 @@
+{
+  "name": "Coronation of Charles XV of Sweden",
+  "engraver": "J. E. Ericsson",
+  "country": "Sweden",
+  "year": "1860",
+  "diameter": "50",
+  "obverse": "Busts of Charles XV and his wife Louise of the Netherlands facing right.",
+  "obverse_inscriptions": [
+    "CAROLUS XV ET LUDOVICA REX ET REGINA SVEC. NORVEG. GOTH. ET VAND.",
+    "C. G. OVARNSTR\u00d6M FORM.",
+    "J. E. ERICSSON SC."
+  ],
+  "reverse": "Charles XV facing right towards a female figure who is clasping his right hand. Behind the woman is a shield with the three Swedish crowns and a lion laying down.",
+  "reverse_inscriptions": [
+    "JUNCTA SALUS NOSTRA EST.",
+    "IN MEMOR. FESTI CORONAT. DIE III MAII MDCCCLX CELEBRATI ORDD. REGNI SVEC. C. F."
+  ],
+  "references": [
+    "Handlingar p. 350 #14"
+  ],
+  "description": [
+    "<p>",
+    "Charles XV's coronation occurred on May 3, 1860 in Stockholm, Sweden.",
+    "</p>"
+  ]
+}

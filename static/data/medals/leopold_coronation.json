@@ -1,0 +1,29 @@
+{
+  "name": "Coronation of Leopold II",
+  "engraver": "Johann Christian Reich",
+  "country": "Germany",
+  "year": "1790",
+  "diameter": "48",
+  "obverse": "Leopold II, bust facing left. Wearing Order of the Golden Fleece.",
+  "obverse_inscriptions": [
+    "LEOPOLDUS II D\u00b7G\u00b7R\u00b7IMP\u00b7S\u00b7A\u00b7G\u00b7H\u00b7B\u00b7REX\u00b7A\u00b7A\u00b7B\u00b7L\u00b7D\u00b7",
+    "R"
+  ],
+  "reverse": "Leopold II, sitting on throne in Frankfurt receiving royal objects from two figures. Leopold II\u2019s coronation was in Frankfurt on October 9, 1790.",
+  "reverse_inscriptions": [
+    "DIGNISSIMO",
+    "IN MO\u00b7OCTOB\u00b7 1790"
+  ],
+  "references": [
+    "Die M\u00fcnzen von Frankfurt-am-main #928",
+    "Die Siebenbu\u0308rgischen Mu\u0308nzen des fu\u0308rstlich Montenuovo'schen #2211",
+    "Auktions-Katalog enthaltend M\u00fcnzen und Medaillen: die nicht-schlesischen Best\u00e4nde #1270",
+    "Portr\u00e4tmedaillen des Erzhauses \u00d6sterreich von Kaiser Friedrich III bis Kaiser Franz II #323",
+    "Frankfurter Kr\u00f6nungsmedaillen: aus den Best\u00e4nden des M\u00fcnzkabinetts #397"
+  ],
+  "description": [
+    "<p>",
+    "Leopold II (Peter Leopold Josef Anton Joachim Pius Gotthard; 5 May 1747 \u2013 1 March 1792) was Holy Roman Emperor and King of Hungary and Bohemia from 1790 to 1792, Archduke of Austria and Grand Duke of Tuscany from 1765 to 1790.",
+    "</p>"
+  ]
+}

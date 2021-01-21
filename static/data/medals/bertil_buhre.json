@@ -1,0 +1,26 @@
+{
+  "name": "Bertil Buhre",
+  "engraver": "Sven Kulle",
+  "country": "Sweden",
+  "year": "1923",
+  "diameter": "?",
+  "obverse": "Bust of Bertil Buhre facing left.",
+  "obverse_inscriptions": [
+    "·BERTIL·BUHRE·",
+    "·4· ·MARS· ·1923·",
+    "·S·KULLE· ·GRAVÖR·"
+  ],
+  "reverse": "A sunrise or sunset over a hilly plain. In the center is a three bar cross. Below is a chalice with a snake wrapped around it. Behind the chalice is a branch.",
+  "reverse_inscriptions": [
+    "·SVENSKA·NATIONALFÖRENINGEN· ·MOT·TUBERKULOS·",
+    "·TILL· ·FÖREGÅNGSMANNEN· ·BANBRYTAREN·",
+    "·S·KULLE·"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Bertil Buhre was a Swedish doctor and official.",
+    "</p>"
+  ]
+}

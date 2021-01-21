@@ -1,0 +1,25 @@
+{
+  "name": "Vienna World's Fair",
+  "engraver": "J. Fautenhayn",
+  "country": "Austria",
+  "year": "1873",
+  "diameter": "69",
+  "obverse": "Head of Franz Joseph I facing right.",
+  "obverse_inscriptions": [
+    "FRANZ JOSEPH I., KAISER VON OESTERREICH, KOENIG VON BOEHMEN ETC., APOST. KOENIG VON UNGARN. *",
+    "J. TAUTENHAYN"
+  ],
+  "reverse": "Classical figures with artistic and industrial tools.",
+  "reverse_inscriptions": [
+    "WELTAUSSTELLUNG 1873 * WIEN *",
+    "J. TAUTENHAYN"
+  ],
+  "references": [
+    "Katalog der M\u00fcnzen- und Medaillen-Stempel-Sammlung des K. K. Hauptmunamtes in Wien vol. 3 #5665"
+  ],
+  "description": [
+    "<p>",
+    "Weltausstellung 1873 Wien (English: World Exposition 1873 Vienna) was the large world exposition that was held in 1873 in the Austria-Hungarian capital of Vienna.",
+    "</p>"
+  ]
+}

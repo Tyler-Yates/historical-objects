@@ -1,0 +1,22 @@
+{
+  "name": "Inauguration of Puerto de la Plata, Argentina",
+  "engraver": "Podesta y Hno",
+  "country": "Argentina",
+  "year": "1890",
+  "diameter": "56.5",
+  "obverse": "A view of river with ships at the site of the port city. The sun is rising on the horizon. Cows and an anchor are in the foreground.",
+  "obverse_inscriptions": [
+    "INAUGURACION DEL PUERTO LA PLATA",
+    "PODESTA Y H"
+  ],
+  "reverse": "Inscription in 10 lines surrounded by a wreath.",
+  "reverse_inscriptions": [
+    "LA PROVINCIA DE BUENOS AIRES LO INICIA EL 8 DE DICIEMBRE DE 1883 Y LO LIBRA AL COMERCIO DEL MUNDO EL 30 DE MARZO DE 1890"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "Puerto de la Plata is a port city in Argentina. Construction of the city commenced in 1883 and finished in 1890.",
+    "</p>"
+  ]
+}

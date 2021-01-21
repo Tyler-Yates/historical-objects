@@ -1,0 +1,27 @@
+{
+  "name": "Carl Edward Ekman",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1888",
+  "diameter": "56",
+  "obverse": "Bust of Carl Edward Ekman facing left.",
+  "obverse_inscriptions": [
+    "·CARL·EDWARD· ·EKMAN·",
+    "A·LINDBERG 1888"
+  ],
+  "reverse": "A woman is seated resting her hands on the hilt of a sledge hammer. Behind her are a city and a farm.",
+  "reverse_inscriptions": [
+    "GÄRD AF TACKSAMHET OCH VÖRDNAD",
+    "AF UNDERHAFVANDE 1848-1888",
+    "AL"
+  ],
+  "references": [
+    "Numismatiska meddelanden, Volume 17, Part 1 p. 265",
+    "Handlingar, Volume 31 #4 p. 18"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Carl Edward Ekman's 40 year anniversary as manager of his industrial company.",
+    "</p>"
+  ]
+}

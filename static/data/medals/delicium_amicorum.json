@@ -1,0 +1,26 @@
+{
+  "name": "Gustaf Ekman",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1928",
+  "diameter": "56",
+  "obverse": "Bust of Gustaf Ekman facing left.",
+  "obverse_inscriptions": [
+    "GVSTFAF·EKMAN·DECVS·ET·DELICIVM·AMICORVM+",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Triton emerging from the sea holding his arms up. In his left hand he is holding seaweed.",
+  "reverse_inscriptions": [
+    "LVCEM COLVI PROFVNDA EXPLORAVI",
+    "ƎL·1928"
+  ],
+  "references": [
+    "Ulla #283"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Gustaf Ekman, a chemist, hydrographer, and industrialist.",
+    "Ulla reports that 250 examples of this medal were made in Bronze.",
+    "</p>"
+  ]
+}

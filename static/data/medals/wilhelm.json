@@ -1,0 +1,23 @@
+{
+  "name": "Franco-Prussian War",
+  "engraver": "Drentwett",
+  "country": "Prussia",
+  "year": "1870",
+  "diameter": "40",
+  "obverse": "Kaiser Wilhelm, King of Prussia, bust facing right with laurel on head.",
+  "obverse_inscriptions": [
+    "WILHELM I. K\u00d6NIG VON PREUSSEN",
+    "DRENTWETT. JUNR. F."
+  ],
+  "reverse": "Five heraldic shields surrounding a pile of banners, drums, and a cannon. The heraldic shields are for Prussia, Baden, Saxony, Bavaria, and W\u00fcrttemberg in clockwise order starting from the top. The inscription is contained in two banners that run in front of laurel leafs.",
+  "reverse_inscriptions": [
+    "GROSSER SIEG D. DEUTSCHEN - \u00dcBER DIE FRANZOSEN 1870"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "The Franco-Prussian War was a conflict between the Second French Empire of Napoleon III and the German states of the North German Confederation led by the Kingdom of Prussia.",
+    "The conflict was caused by Prussian ambitions to extend German unification and French fears of the shift in the European balance of power that would result if the Prussians succeeded.",
+    "</p>"
+  ]
+}

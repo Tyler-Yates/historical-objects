@@ -1,0 +1,28 @@
+{
+  "name": "Karl Oskar Medin",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1927",
+  "diameter": "56",
+  "obverse": "Bust of Oskar Medin facing right. Four branches are along the edge of the medal between the inscriptions.",
+  "obverse_inscriptions": [
+    "OSKAR MEDIN",
+    "OCTOGENARIVS",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "At the top, a medallion with a child. This medallion is based off of reliefs designed by Andrea della Robbia on the wall of the Ospedale degli Innocenti children's orphanage in Florence, Italy. Below, an inscription in 4 lines.",
+  "reverse_inscriptions": [
+    "MCMXXVII",
+    "INVESTIGATORI PRÆCEPTORI·AMICO PIE·GRATEQVE MEDICI·SVECANI",
+    "ƎL·"
+  ],
+  "references": [
+    "Ulla #275"
+  ],
+  "description": [
+    "<p>",
+    "Karl Oskar Medin was Swedish pediatrician.",
+    "He is most famous for his study of poliomyelitis, a condition sometimes known as the Heine-Medin disease.",
+    "</p>"
+  ]
+}

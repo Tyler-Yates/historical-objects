@@ -1,0 +1,28 @@
+{
+  "name": "Carl Magnus Appelberg",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1890",
+  "diameter": "57",
+  "obverse": "Bust of Carl Magnus Appelberg facing right.",
+  "obverse_inscriptions": [
+    "CARL\u00b7MAGNUS\u00b7APPELBERG\u00b7SAMFUNDET\u00b7S.H.T<span class='container'><span class='stack'>S</span><span class='stack'>=</span></span>\u00b7STIFTARE",
+    "A\u00b7LINDBERG"
+  ],
+  "reverse": "Two young angels facing each other and holding a wreath above their heads. The angel on the left is holding grapes. The angel on the right is holding a lyre. Between the two angels is a shield divided into three parts: the top part has a lyre, the bottom left part has a chalice, the bottom right part has a book.",
+  "reverse_inscriptions": [
+    "SE\u00b7GL\u00c5DJENS\u00b7GENIER\u00b7SITT\u00b7BIFALL\u00b7NICKA",
+    "H\u00c6C ME TRIA * DE LEC TANT",
+    "FR\u00c5N\u00b7SH.T\u00b7TILL\u00b7MINNE\u00b7AF FYRATIO\u00b7\u00c5RS\u00b7FR\u00d6JDER",
+    "DEN\u00b79\u00b7OKT\u00b71890",
+    "A\u00b7LINDBERG"
+  ],
+  "references": [
+    "Numismatiska Meddelanden p. 231"
+  ],
+  "description": [
+    "<p>",
+    "Carl Magnus Appelberg was born November 16, 1826 in Gothenburg, Sweden and died April 10, 1896 in Link\u00f6ping, Sweden. Appelberg was a doctor and founder of Samfundet SHT.",
+    "</p>"
+  ]
+}

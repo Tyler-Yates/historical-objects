@@ -1,0 +1,33 @@
+{
+  "name": "Remembrance of Professor E. von Schoultz",
+  "engraver": "Adolph Lindberg",
+  "country": "Sweden",
+  "year": "1883",
+  "diameter": "43.5",
+  "obverse": "Bust of Professor Eduard von Schoultz facing left.",
+  "obverse_inscriptions": [
+    "PROFESSOR E. <span class='small-text'>VON</span> SCHOULTZ F\u00d6DD 1815 D\u00d6D 1880"
+  ],
+  "reverse": "Two branches of a wreath.",
+  "reverse_inscriptions": [
+    "AF F\u00b7D\u00b7ELEVER VID CHALMERSSKA SL\u00d6JDSKOLAN I G\u00d6TEBORG *",
+    "TILL MINNE OCH TACK"
+  ],
+  "references": [
+    "Handlingar 1883.1",
+    "Numismatiska 182"
+  ],
+  "description": [
+    "<p>",
+    "Eduard von Schoultz was a professor and director of the Chalmers University in Gothenburg from 1853-1881.",
+    "He was born on May 6, 1815 in Stockholm and died on March 30, 1881 in Gothenburg.",
+    "As can be seen above, the medal incorrectly lists his year of death (D\u00d6D) as 1880.",
+    "</p>",
+    "<p>",
+    "In politics, von Schoultz was a member of the City Council of Gothenburg from 1862-1870 and represented the City of Gothenburg from 1873-1877 in the parliamentary second chamber.",
+    "</p>",
+    "<p>",
+    "This medal was from PhD students at the Chalmers School in Gothenburg in remembrance and thanks.",
+    "</p>"
+  ]
+}

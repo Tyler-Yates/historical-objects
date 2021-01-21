@@ -1,0 +1,25 @@
+{
+  "name": "London International Exhibition of 1851 - Exhibitor's Medal",
+  "engraver": "W. Wyon",
+  "country": "England",
+  "year": "1851",
+  "diameter": "45",
+  "obverse": "Bust of Prince Albert facing left.",
+  "obverse_inscriptions": [
+    "H:R:H: PRINCE ALBERT PRESIDENT OF THE ROYAL COMMISSION."
+  ],
+  "reverse": "Dove on top of a globe with 'EXHIBITOR' inscribed in a banner. A wreath is around the globe. The globe is positioned over Europe and Africa but also shows the edge of North and South America as well as Asia. All continents are labelled.",
+  "reverse_inscriptions": [
+    "EXHIBITION OF THE WORKS OF INDUSTRY OF ALL NATIONS.",
+    "MDCCCLI."
+  ],
+  "references": [
+    "BHM 2463",
+    "Eimer 1462"
+  ],
+  "description": [
+    "<p>",
+    "This medal was given to exhibitors at the exhibition. This specimen has 'EGYPT.' inscribed on the edge.",
+    "</p>"
+  ]
+}

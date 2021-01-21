@@ -1,0 +1,25 @@
+{
+  "name": "King George III: Golden Jubilee of His Reign",
+  "engraver": "T. Wyon Sr.",
+  "country": "England",
+  "year": "1809",
+  "diameter": "42",
+  "obverse": "Cuirassed, draped bust of George III facing right.",
+  "obverse_inscriptions": [
+    "GOD SAVE THE KING"
+  ],
+  "reverse": "Inscription enclosed in a wreath.",
+  "reverse_inscriptions": [
+    "THE 50 YEAR HE HAS GOVERN\u2019D & PRESERVED AN AFFECTIONATE & LOYAL PEOPLE.",
+    "GRAND NATIONAL JUBILEE OCT-25, 1809",
+    "GIVE GOD PRAISE"
+  ],
+  "references": [
+    "BHM 653"
+  ],
+  "description": [
+    "<p>",
+    "George III celebrated the 50th year of his reign in 1809.",
+    "</p>"
+  ]
+}

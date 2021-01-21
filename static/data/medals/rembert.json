@@ -1,0 +1,24 @@
+{
+  "name": "Belgian Horticulture Society",
+  "engraver": "J. Wurden",
+  "country": "Belgium",
+  "year": "19th century",
+  "sort_year": 1800,
+  "diameter": "38",
+  "obverse": "Bust of Rembert Dodoens facing left.",
+  "obverse_inscriptions": [
+    "REMB. DODON\u00c9E, N\u00c9 \u00c0 MALINES, EN 1518.",
+    "J. WURDEN"
+  ],
+  "reverse": "A rectangular frame enclosing a rake, spade, and watering can. The frame is surrounded by flowers and vegetables.",
+  "reverse_inscriptions": [
+    "SOCI\u00c9T\u00c9 DODON\u00c9E D'UCCLE.",
+    "* QUI S'ARR\u00caTE RECULE. *"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "Rembert Dodoens (29 June 1517 \u2013 10 March 1585) was a Flemish physician and botanist.",
+    "</p>"
+  ]
+}

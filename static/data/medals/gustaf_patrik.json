@@ -1,0 +1,29 @@
+{
+  "name": "Gustaf de Laval",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1924",
+  "diameter": "45",
+  "obverse": "Bust of Gustaf de Laval facing right.",
+  "obverse_inscriptions": [
+    "GUSTAF PATRIK DE LAVAL FODD 1845 DOD 1913",
+    "I·V·A· DEN 24 OKTOBER 1924",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Prometheus lighting a stick on fire. He is raising a blanket up with his left hand.",
+  "reverse_inscriptions": [
+    "PROMETHEUS",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #244"
+  ],
+  "description": [
+    "<p>",
+    "Gustaf de Laval was a Swedish engineer and inventor who made important contributions to the design of steam turbines and dairy machinery.",
+    "</p>",
+    "<p>",
+    "A total of 250 examples were minted in bronze, silver, and gold.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Henrik Schück",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1936",
+  "diameter": "65",
+  "obverse": "Bust of Henrik Schück facing left.",
+  "obverse_inscriptions": [
+    "HENRIK·SCHÜCK·OCTOGENARIUS",
+    "DIE·II M·NOV· A· MCM XXXV",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 7 lines enclosed in a square. Around the square are four wreaths. Inscription around the edge of the medal.",
+  "reverse_inscriptions": [
+    "LITTERARUM ATQUE HUMANITATIS PRINCIPI ACADEMIARUM NOSTRATIUM DECORI",
+    "* ACADEMIA SUECANA * R·ACAD·SCIENT·SUEC· * R·ACAD·ARTIUM·LIB· * ACAD·LIT·HUMANIOR·"
+  ],
+  "references": [
+    "Ulla #351"
+  ],
+  "description": [
+    "<p>",
+    "Henrik Schück was a Swedish literary historian, university professor and author.",
+    "</p>"
+  ]
+}

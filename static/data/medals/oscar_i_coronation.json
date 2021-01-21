@@ -1,0 +1,25 @@
+{
+  "name": "Coronation of Oscar I",
+  "engraver": "P. H. Lundgren",
+  "country": "Sweden",
+  "year": "1848",
+  "diameter": "58",
+  "obverse": "Busts of Oscar I and Josephine of Leuchtenberg facing right. Both of them are crowned.",
+  "obverse_inscriptions": [
+    "OSCAR I ET JOSEPHINA SCEN. NORVEG. GOTH. VAND. REX ET REGINA.",
+    "QVARNSTR\u00d6M DIR. P. LUNDGREN F."
+  ],
+  "reverse": "Two female figures clasping hands and looking at each other. The one on the left is seated and is holding a hand mirror. The one on the right is standing and holding a scale. In between the two figures is an altar with a crown and sceptre resting on top. To the right is a lion, paw resting on a sphere with the Three Crowns of Sweden.",
+  "reverse_inscriptions": [
+    "TALIBUS AUSPICIIS REGNA INCEPTA",
+    "IN MEMOR. FESTI CORONAT. HOLMIAE DIE XXVII SEPT. MDCCCXLIV. ORDD. REGNI SVEC. F.F."
+  ],
+  "references": [
+    "Hildebrand 10"
+  ],
+  "description": [
+    "<p>",
+    "Oscar I (born Joseph Fran\u00e7ois Oscar Bernadotte; 4 July 1799 \u2013 8 July 1859) was King of Sweden and Norway from 1844 to his death. His coronation occurred on September 28, 1844 in Stockholm. He was married to Josephine of Leuchtenberg.",
+    "</p>"
+  ]
+}

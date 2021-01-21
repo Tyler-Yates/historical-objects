@@ -1,0 +1,25 @@
+{
+  "name": "Eduard Heckscher",
+  "engraver": "Adolf Lindberg",
+  "country": "Sweden",
+  "year": "1907",
+  "diameter": "48",
+  "obverse": "Bust of Eduard Heckscher facing right.",
+  "obverse_inscriptions": [
+    "EDUARD HECKSCHER",
+    "A·LINDBERG"
+  ],
+  "reverse": "Two crossed branches below an inscription in 4 lines.",
+  "reverse_inscriptions": [
+    "INDUSTRI-KREDIT-AKTIEBOLAGET·I·STOCKHOLM",
+    "TACKSAM HÅGKOMST AF ÅREN 1865-1907"
+  ],
+  "references": [
+    "Från Akademiens och Förvaltningsutskottets sammanträde 1907"
+  ],
+  "description": [
+    "<p>",
+    "This medal was created to commemorate Eduard Heckscher who was the managing directory of Industrikreditaktiebolaget in Stockholm.",
+    "</p>"
+  ]
+}

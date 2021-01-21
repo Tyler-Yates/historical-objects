@@ -1,0 +1,29 @@
+{
+  "name": "Johan Erik Cederblom",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1939",
+  "diameter": "45",
+  "obverse": "Bust of Johan Erik Cederblom facing left.",
+  "obverse_inscriptions": [
+    "JOHAN ERIK CEDERBLOM FÖDD 1834 DÖD 1913",
+    "I·V·A 24 OKT·1939",
+    "ƎL·"
+  ],
+  "reverse": "Prometheus lighting a stick on fire. He is raising a blanket up with his left hand.",
+  "reverse_inscriptions": [
+    "PROMETHEUS",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #384"
+  ],
+  "description": [
+    "<p>",
+    "Johan Erik Cederblom was a Swedish engineer and professor at the KTH Royal Institute of Technology in Stockholm.",
+    "</p>",
+    "<p>",
+    "300 examples of this medal were made in bronze.",
+    "</p>"
+  ]
+}

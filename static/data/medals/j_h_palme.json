@@ -1,0 +1,23 @@
+{
+  "name": "Johan Henrik Palme",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1930",
+  "diameter": "63",
+  "obverse": "Bust of Johan Henrik Palme facing left.",
+  "obverse_inscriptions": [
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 10 lines.",
+  "reverse_inscriptions": [
+    "* STOCKHOLMS INTECKNINGS GARANTI AKTIEBOLAG TILL J·H·PALME BANKENS GRUNDARE DESS VERKSTÄLLANDE DIREKTÖR 1869-1919 STYRELSENS ORDFÖRANDE 1907-1930"
+  ],
+  "references": [
+    "Ulla #309"
+  ],
+  "description": [
+    "<p>",
+    "Johan Henrik Palme was a Swedish bank director and founder of Djursholm, a suburban district in Stockholm County, Sweden.",
+    "</p>"
+  ]
+}

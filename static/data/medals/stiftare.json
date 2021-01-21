@@ -1,0 +1,26 @@
+{
+  "name": "100th Anniversary of the Founding of the Swedish Medical Association",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1908",
+  "diameter": "70",
+  "obverse": "Seven circles showing busts of the founders of the Swedish Medical Association. In the middle is a wreath surrounding an inscription.",
+  "obverse_inscriptions": [
+    "GISTREN · GAHN · GADELIUS · · BEREZLIUS · · TRAFVENFELT · · HAGSTRÖM v. SCHULZENHEIM",
+    "SVENSKA LÄKARESÄLLSKAPETS STIFTARE",
+    "E L"
+  ],
+  "reverse": "A man and a woman collect water from a fountain with the emblem of the society (a snake around a goblet). Resting against the fountain is a laurel branch. At the bottom of the medal is a blank space for an inscription.",
+  "reverse_inscriptions": [
+    "TILL MINNE AF SVENSKA LÄKARESÄLLSKAPETS HUNDRAÅRIGA VERKSAMHET DEN 25 OKTOBER 1908",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #74 p. 53"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the 100th anniversary of the founding of the Swedish Medical Association.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "200th Anniversary of the Founding of Utrecht University",
+  "engraver": "David van der Kellen",
+  "country": "Netherlands",
+  "year": "1836",
+  "diameter": "53",
+  "obverse": "Minerva stands holding a spear and shield and wearing a helmet. On the shield is the coat of arms of Utrecht.",
+  "obverse_inscriptions": [
+    "AVSPICE. DEO. SERVETVR. INCOLVMIS.",
+    "POST. FATA. SVPERSTES",
+    "D. VAN DER KELLEN F."
+  ],
+  "reverse": "A wreath composed of half laurel and half ivy encloses an inscription in 9 lines.",
+  "reverse_inscriptions": [
+    "ACADEMIAE TRAIECTINAE ALTERIS SAECVLARIBVS. ACTIS PIAM. FESTI. MEMORIAM HOC. MONVMENTO CONSECRARVNT CVRATORES MDCCCXXXVI"
+  ],
+  "references": [
+    "Verhandelingen #520",
+    "Openbare verzamelingen der Gemeente Utrecht: catalogus van het Museum #1943"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the 200th anniversary of the founding of Utrecht University.",
+    "</p>"
+  ]
+}

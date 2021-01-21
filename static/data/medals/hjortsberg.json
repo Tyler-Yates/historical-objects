@@ -1,0 +1,29 @@
+{
+  "name": "Lars Hjortsberg",
+  "engraver": "M. Frumerie",
+  "country": "Sweden",
+  "year": "1843",
+  "diameter": "43",
+  "obverse": "Bust of Lars Hjortsberg facing left.",
+  "obverse_inscriptions": [
+    "LAUR·HJORTSBERG ACTOR SCEN·THEATR REG·HOLM·",
+    "NAT·MDCCLXXII DEN·MDCCCXLIII",
+    "M·F·"
+  ],
+  "reverse": "A woman in classic clothing stands next to a grave placing a wreath on top of the grave. In her left hand is a comedy mask and a cane.",
+  "reverse_inscriptions": [
+    "ROSCIO SVECICO",
+    "LONGE PARS MAXIMA LUCTUS",
+    "PIETAS THEATRI NOVI HOLMIENSIS"
+  ],
+  "references": [
+    "Kongl. Vitterhets, Historie och Antiquitets Academiens Handlingar p. 318 #9",
+    "Numismatiska meddelanden p. 111"
+  ],
+  "description": [
+    "<p>",
+    "Lars Hjortsberg (22 November 1772 – 8 July 1843) was a Swedish stage actor.",
+    "He has been referred to as the most famous Swedish actor of the first half of the 19th-century.",
+    "</p>"
+  ]
+}

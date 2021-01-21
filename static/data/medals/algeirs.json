@@ -1,0 +1,26 @@
+{
+  "name": "French Conquest of Algiers",
+  "engraver": "Armand-Auguste Caqu\u00e9",
+  "country": "France",
+  "year": "1830",
+  "diameter": "41",
+  "obverse": "War and Justice fly above a sea-monster (resembling a horse) representing Barbary seapower. This symbolizes the invasion of Algiers by France.",
+  "obverse_inscriptions": [
+    "CONQUETE D\u2019ALGER LE 5 JUILLET 1830",
+    "DURAND EDITEUR",
+    "CAQU\u00c9"
+  ],
+  "reverse": "Inscription in five lines surrounded by a wreath.",
+  "reverse_inscriptions": [
+    "LE COMTE DE BOURMONT, G\u00c9N\u00c9RAL EN CHEF DE L\u2019ARM\u00c9E FRAN\u00c7AISE",
+    "CAQU\u00c9. F."
+  ],
+  "references": [
+    "Collignon 593"
+  ],
+  "description": [
+    "<p>",
+    "The French conquest of Algeria took place between 1830 and 1847. Algiers is the capital of Algeria and was quickly seized by the French at the onset of the fighting.",
+    "</p>"
+  ]
+}

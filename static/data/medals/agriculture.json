@@ -1,0 +1,22 @@
+{
+  "name": "Brussels Agricultural Exhibition of 1874",
+  "engraver": "Hart",
+  "country": "Belgium",
+  "year": "1874",
+  "diameter": "51",
+  "obverse": "Head of Leopold II facing left.",
+  "obverse_inscriptions": [
+    "LEOPOLD II ROI DES BELGES",
+    "HART"
+  ],
+  "reverse": "In the center, many agricultural instruments on the ground: a beehive, shovel, rake, scythe, plow, sickle, etc. The image and inscription are surrounded by a wreath.",
+  "reverse_inscriptions": [
+    "EXPOSITION NATIONALE D'AGRICULTURE 1874 BRUXELLES"
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the agricultural exhibition held in Brussels, Belgium in 1874.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "General Tom Thumb",
+  "engraver": "Allen & Moore",
+  "country": "England",
+  "year": "1844",
+  "diameter": "39",
+  "obverse": "Figure of 'Tom Thumb' standing and facing the viewer. His left hand is supported on a book called 'BOYLE COURT GUIDE 1844'. Around him are a bottle, goblet, egg cup and spoon, quill, and an ink stand.",
+  "obverse_inscriptions": [
+    "CHARLES S. STRATTON. KNOWN AS GENL TOM THUMB. 23 I<span class='up-text'>N</span> H<span class='up-text'>GH</span>",
+    "ALLEN & MOORE F. BIRM<span class='up-text'>M</span> 1844"
+  ],
+  "reverse": "A coach with coachman and rider behind the chariot drawn by two ponies to the right.",
+  "reverse_inscriptions": [
+    "GENERAL TOM THUMB'S CHARIOT",
+    "THE EQUIPMENT COST \u00a3400.",
+    "WHOLE HEIGHT 40IN, BODY 20IN BY 11IN PONIES 28IN, CREST, RISING SUN, ARMS, BRITANNIA AND LIBERTY, SUPPORTERS, LION & EAGLE, MOTTO;`GO-A-HEAD\"",
+    "PUR. BY P.T. BARNUM."
+  ],
+  "references": [
+    "BHM 2155 (not exact)"
+  ],
+  "description": [
+    "<p>",
+    "Charles Sherwood Stratton was a dwarf born in Connecticut, USA. He was know as 'General Tom Thumb' in P.T. Barnum's circus.",
+    "</p>",
+    "<p>",
+    "This medal does not match exactly with BHM 2155 though it is very similar. This particular variety appears to be unlisted.",
+    "</p>"
+  ]
+}

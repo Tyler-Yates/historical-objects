@@ -1,0 +1,31 @@
+{
+  "name": "Opening of London Bridge",
+  "engraver": "Benjamin Wyon",
+  "country": "Great Britain",
+  "year": "1831",
+  "diameter": "51",
+  "obverse": "Bust of William IV facing right.",
+  "obverse_inscriptions": [
+    "WILLIAM THE FOURTH",
+    "BENJ. WYON F."
+  ],
+  "reverse": "London Bridge.",
+  "reverse_inscriptions": [
+    "LONDON BRIDGE",
+    "COMMENCED 15. JUNE 1825",
+    "OPENED 1. AUGUST 1831",
+    "BENJ. WYON F."
+  ],
+  "references": [
+    "BHM #1544"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the opening of the London Bridge.",
+    "It is believed that 700 specimens were struck in this size and a smaller size.",
+    "</p>",
+    "<p>",
+    "This medal is from the City of London series.",
+    "</p>"
+  ]
+}

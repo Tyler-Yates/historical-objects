@@ -1,0 +1,29 @@
+{
+  "name": "Edvard Swartz",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1936",
+  "diameter": "45",
+  "obverse": "Bust of Edvard Swartz facing right.",
+  "obverse_inscriptions": [
+    "EDVARD·SWARTZ·NAT·MDCCCXXVI·OB·MDCCCXCVII",
+    "E·LINDBERG 1936"
+  ],
+  "reverse": "The scene from Hamlet where Hamlet is consulting a human skull.",
+  "reverse_inscriptions": [
+    "TRAGŒDUS·VERBA·POETARUM SUMMA·ARTE·ILLUSTRAVIT",
+    "HAMLET"
+  ],
+  "references": [
+    "Ulla #359"
+  ],
+  "description": [
+    "<p>",
+    "Edvard Swartz was a Swedish stage actor.",
+    "He was one of the star actors of the Royal Dramatic Theatre in the mid 19th century.",
+    "</p>",
+    "<p>",
+    "150 examples of this medal were minted in silver.",
+    "</p>"
+  ]
+}

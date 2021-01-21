@@ -1,0 +1,25 @@
+{
+  "name": "Johan Olof Wallin",
+  "engraver": "K. M. Mellgren",
+  "country": "Sweden",
+  "year": "1835",
+  "diameter": "41.5",
+  "obverse": "Head of Johan Olof Wallin facing right.",
+  "obverse_inscriptions": [
+    "JOH. OL. WALLIN NAT. D. XV. OCT. MDCCLXXIX.",
+    "C M"
+  ],
+  "reverse": "A harp underneath the big dipper constellation.",
+  "reverse_inscriptions": [
+    "GLORIA IN EXCELSIS DEO",
+    "C M"
+  ],
+  "references": [
+    "Numismatiska meddelanden"
+  ],
+  "description": [
+    "<p>",
+    "Johan Olof Wallin, (15 October 1779 \u2013 30 June 1839), was a Swedish minister, orator, poet and later Church of Sweden Archbishop of Uppsala, Sweden between 1837-1839.",
+    "</p>"
+  ]
+}

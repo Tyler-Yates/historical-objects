@@ -1,0 +1,25 @@
+{
+  "name": "Gothenburg Gymnastics Association",
+  "engraver": "A. Lindberg",
+  "country": "Sweden",
+  "year": "1880",
+  "diameter": "40",
+  "obverse": "Gothenburg Gymnastics Association's initials GGF on a fancy shield. Pearls surround the edge of the obverse.",
+  "obverse_inscriptions": [
+    "\u22c6H\u00c4RDIGHET MANNAKRAFT\u22c6",
+    "A\u00b7LINDBERG\u00b7"
+  ],
+  "reverse": "Two branches forming a wreath.",
+  "reverse_inscriptions": [
+    "DEN 24 APRIL 1880",
+    "TILL MINNE OCH TACK"
+  ],
+  "references": [
+    "Communications numismatiques #214"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made for the Gothenburg Gymnastics Association to commemorate a show held on April 24, 1880.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Jonas Wenström",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1928",
+  "diameter": "45",
+  "obverse": "Bust of Jonas Wenström facing left.",
+  "obverse_inscriptions": [
+    "JONAS WENSTRÖM FÖDD 1855 DÖD 1893",
+    "I·V·A·",
+    "DEN 24 OKTOBER 1928",
+    "ƎL·"
+  ],
+  "reverse": "Prometheus lighting a stick on fire. He is raising a blanket up with his left hand.",
+  "reverse_inscriptions": [
+    "PROMETHEUS",
+    "ERIK LINDBERG"
+  ],
+  "references": [
+    "Ulla #288"
+  ],
+  "description": [
+    "<p>",
+    "Jonas Wenström was a Swedish engineer and inventor.",
+    "He invented the three-phase electric power system, the basis for ASEA (later ABB).",
+    "</p>",
+    "<p>",
+    "250 examples of this medal were made in bronze.",
+    "</p>"
+  ]
+}

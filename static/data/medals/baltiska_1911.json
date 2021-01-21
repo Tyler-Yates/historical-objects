@@ -1,0 +1,28 @@
+{
+  "name": "Baltic Exhibition in Malmö",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1914",
+  "diameter": "60",
+  "obverse": "Bust of Gustaf V facing left.",
+  "obverse_inscriptions": [
+    "GUSTAF·V·SVERIGES·KONUNG",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Four women carrying bags of fruit. Around them is a ring with the coat of arms of Germany, Sweden, Denmark, and Russia. At the bottom is the coat of arms of Malmö.",
+  "reverse_inscriptions": [
+    "BALTISKA·UTSTÄLLNINGEN MALMÖ ÅR·1914"
+  ],
+  "references": [
+    "Ulla #131"
+  ],
+  "description": [
+    "<p>",
+    "The Baltic Exhibition was held in Malmö, Sweden from May 15, 1914 through October 4, 1914.",
+    "The event showcased the industry, art and culture of Sweden, Denmark, Germany and Russia — the four countries then bordering the Baltic Sea.",
+    "</p>",
+    "<p>",
+    "There were 3150 examples of this medal minted in bronze.",
+    "</p>"
+  ]
+}

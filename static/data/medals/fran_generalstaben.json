@@ -1,0 +1,24 @@
+{
+  "name": "Knut Gillis Bildt",
+  "engraver": "R. G. RAFAEL",
+  "country": "Sweden",
+  "year": "1919",
+  "diameter": "56",
+  "obverse": "Bust of Knut Gillis Bildt facing left. To the right of the bust is the coat of arms of Sweden with a crown above.",
+  "obverse_inscriptions": [
+    "GENERALEN K.G. BILDT",
+    "FRÅN GENERALSTABEN 1919"
+  ],
+  "reverse": "Two crossed military batons with crowns on the batons. A wreath encircles the batons and inscription in three lines.",
+  "reverse_inscriptions": [
+    "SNILLRIK FRAMSYNT RIDDERLIG"
+  ],
+  "references": [
+    "Numismatiska meddelanden XXIV p. 180"
+  ],
+  "description": [
+    "<p>",
+    "Knut Gillis Bildt (13 July 1854 – 13 October 1927) was a Swedish Army general and politician.",
+    "</p>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fredrik Montelin",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1935",
+  "diameter": "56",
+  "obverse": "Bust of Fredrik Montelin facing left.",
+  "obverse_inscriptions": [
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in 11 lines. At the bottom is a castle representing Lund's coat of arms.",
+  "reverse_inscriptions": [
+    "AV MEDBORGARE I·LUNDS·STAD TILL FREDRIK·MONTELIN",
+    "GENOM·INITIATIVRIKEDOM KLOKHET·OCH·OEGENNYTTA I·SIN·MÅNGÅRIGA·SAMHÄLLELIGA GÄRNING·HAR·HAN·VARIT SIN·FÄDERNESTAD TILL·OVÄRDERLIGT·GAGN",
+    "1934"
+  ],
+  "references": [
+    "Ulla #344"
+  ],
+  "description": [
+    "<p>",
+    "Fredrik Montelin was a Swedish pharmacist and politician from Lund.",
+    "</p>"
+  ]
+}

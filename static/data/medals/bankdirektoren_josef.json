@@ -1,0 +1,24 @@
+{
+  "name": "Josef Brodén",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1916",
+  "diameter": "50",
+  "obverse": "Bust of Josef Brodén facing left.",
+  "obverse_inscriptions": [
+    "BANKDIREKTÖREN JOSEF BRODÉN",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "Inscription in five lines surrounded by a wreath.",
+  "reverse_inscriptions": [
+    "SKARABORGS ENSKILDA BANK MED TACKSAMHET FÖR ÅREN 1874-1916"
+  ],
+  "references": [
+    "Ulla #149"
+  ],
+  "description": [
+    "<p>",
+    "Josef Brodén appears to have been a bank director in Sweden.",
+    "</p>"
+  ]
+}

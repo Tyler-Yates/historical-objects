@@ -1,0 +1,24 @@
+{
+  "name": "Death of Gustav Ekman",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1878",
+  "diameter": "41",
+  "obverse": "Bust of Gustav Ekman facing right.",
+  "obverse_inscriptions": [
+    "GUSTAV EKMAN F\u00d6DD 1804. D\u00d6D 1876."
+  ],
+  "reverse": "An accurate model of Gustav's furnace.",
+  "reverse_inscriptions": [
+    "SVENSKA JERNETS HISTORIA BEVARAR HANS MINNE",
+    "AKTNINGSG\u00c4RD AF SV. BRUKS SOCIETETEN 1877"
+  ],
+  "references": [
+    "Ols\u00e9n p. 241"
+  ],
+  "description": [
+    "<p>",
+    "Gustav Ekman invented the gas re-heating furnace in Sweden which allowed the remarkable manufacture of wrought iron.",
+    "</p>"
+  ]
+}

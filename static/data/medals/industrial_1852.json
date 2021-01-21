@@ -1,0 +1,23 @@
+{
+  "name": "Copenhagen Industrial Exhibition 1852",
+  "engraver": "Philip Christian Batz",
+  "country": "Denmark",
+  "year": "1852",
+  "diameter": "49",
+  "obverse": "Bust of Frederik VII facing right.",
+  "obverse_inscriptions": [
+    "FREDERIK DEN SYVENDE KONGE AF DANMARK *",
+    "P. BATZ.",
+    "FOLKETS KJ\u00c6RLIGHED MIN STYRKE"
+  ],
+  "reverse": "The exhibition building.",
+  "reverse_inscriptions": [
+    "INDUSTRIUDSTILLINGEN I KI\u00d8BENHAVN 1852."
+  ],
+  "references": [],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate the Industrial Exhibition held in Copenhagen in 1852.",
+    "</p>"
+  ]
+}

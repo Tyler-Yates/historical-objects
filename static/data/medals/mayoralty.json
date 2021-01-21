@@ -1,0 +1,29 @@
+{
+  "name": "700th Anniversary of the Mayoralty of the City of London",
+  "engraver": "Alexander Kirkwood",
+  "country": "Great Britain",
+  "year": "1889",
+  "diameter": "80",
+  "obverse": "Busts of Richard I and Queen Victoria are enclosed in two circular areas. Below is Saint George (the patron saint of England) slaying the dragon.",
+  "obverse_inscriptions": [
+    "· TO COMMEMORATE THE 700TH ANNIVERSARY OF THE MAYORALTY OF THE CITY OF LONDON ·",
+    "RICHARD I. 1189",
+    "VICTORIA 1889",
+    "MDCCCLXXXIX"
+  ],
+  "reverse": "Saint Michael presents a scepter to a woman representing London. In background are Westminster Abbey, Cleopatra's Needle, and St. Paul's Cathedral. Above is a radiating crown. To the left are the Mansion House and Temple Bar. To the right is the old London Bridge with a ship docked..",
+  "reverse_inscriptions": [
+    "THE POWERS THAT BE ARE ORDAINED OF GOD",
+    "1189-1889",
+    "A. KIRKWOOD & SON. EDINR."
+  ],
+  "references": [
+    "Eimer 1752",
+    "BHM 3377"
+  ],
+  "description": [
+    "<p>",
+    "This medal is part of the City of London series.",
+    "</p>"
+  ]
+}

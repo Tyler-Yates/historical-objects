@@ -1,0 +1,29 @@
+{
+  "name": "Completion of Replica of The Last Supper Mosaic",
+  "engraver": "Oswald Steinbock",
+  "country": "Austria",
+  "year": "1847",
+  "diameter": "50",
+  "obverse": "Conjoined wreathed busts of the Emperors Francis I and Ferdinand I of Austria facing left.",
+  "obverse_inscriptions": [
+    "FRANCISCO. I. AVG. FERDINANDO. I. AVG.",
+    "O. STEINBOCK. F."
+  ],
+  "reverse": "The northern wall of the Minoritenkirche with the mosaic copy of Leonardo da Vinci\u2019s \"The Last Supper\". The copy was carried out by Giacomo Raffaelli.",
+  "reverse_inscriptions": [
+    "SODALITAS. MARIALIVM. MVSIVO. IMPERATO.",
+    "MDCCCXLVII",
+    "O. ST. FET."
+  ],
+  "references": [
+    "Wurzbach 2058; Hauser 120"
+  ],
+  "description": [
+    "<p>",
+    "There is a life-sized copy of Leonardo da Vinci's The Last Supper on the northern wall of the Minoritenkirche church in Vienna, Austria.",
+    "It is a mosaic made by the Roman mosaic artist Giacomo Raffaelli, commissioned by Napoleon I in 1809, but it was not finished before Napoleon's abdication.",
+    "Francis II of Austria bought it, wanting to install it in the Belvedere in Vienna.",
+    "As it was too large for the building, it was set up on the north wall of the church, where it remains to this day.",
+    "</p>"
+  ]
+}

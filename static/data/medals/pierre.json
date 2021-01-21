@@ -1,0 +1,27 @@
+{
+  "name": "Death of Pierre Simons",
+  "engraver": "Adrien Hippolyte Veyrat & Eugene Delbarre",
+  "country": "Belgium",
+  "year": "1843",
+  "diameter": "50",
+  "obverse": "Pierre Simons, bust facing left. Two medals are on his shirt (Order of Leopold and Legion of Honour).",
+  "obverse_inscriptions": [
+    "PIERRE SIMONS",
+    "EUG. DELBARRE DEL.",
+    "VEYRAT F."
+  ],
+  "reverse": "",
+  "reverse_inscriptions": [
+    "N\u00c9 A BRUXELLES LE 20 JANVIER 1797 MORT LE 14 MAI 1843 A BORD DU NAVIRE DE L\u2019\u00c9TAT LA LOUISE MARIE, EN DESTINATION DE L\u2019AMERIQUE CENTRALE. ----- ING\u00c9NIEUR ILLUSTRE, IL TRA\u00c7A LES PREMIERS PLANS DU CHEMIN DE FER BELGE D\u00c9CR\u00c9T\u00c9 PAR LA LOI DU 1ER. MAI 1834."
+  ],
+  "references": [
+    "Les chemins de fer autrefois et Aujourd'hui, et Leurs m\u00e9dailles comm\u00e9moratives #64",
+    "Histoire numismatique de la Belgique vol. I, J. L\u00e9on Guioth #270"
+  ],
+  "description": [
+    "<p>",
+    "Pierre Simons (1797-1843) was a Belgian engineer.",
+    "A pioneer of the railways, he studied and directed, with his colleague and brother-in-law Gustave Nicolas de Ridder, the first railway in Belgium from Mechelen to Brussels.",
+    "</p>"
+  ]
+}

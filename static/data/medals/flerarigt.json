@@ -1,0 +1,23 @@
+{
+  "name": "Landsturm Membership",
+  "engraver": "?",
+  "country": "Sweden",
+  "year": "?",
+  "sort_year": "1950",
+  "diameter": "50",
+  "obverse": "Landsturm cross surrounded by a wreath.",
+  "obverse_inscriptions": [
+    "MED TACK FÖR FLERÅRIGT MEDLEMSKAP"
+  ],
+  "reverse": "The Swedish coat of arms.",
+  "reverse_inscriptions": [
+    "SVERIGES LANDSTORMSFÖRENINGARS CENTRALFÖRBUND GARANTFÖRENINGEN"
+  ],
+  "references": [
+  ],
+  "description": [
+    "<p>",
+    "Landsturm was historically used to refer to militia or military units composed of troops of inferior quality.",
+    "</p>"
+  ]
+}

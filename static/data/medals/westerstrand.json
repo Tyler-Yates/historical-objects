@@ -1,0 +1,25 @@
+{
+  "name": "Pehr Westerstrand",
+  "engraver": "?",
+  "country": "Sweden",
+  "year": "1857",
+  "diameter": "43",
+  "obverse": "Bust of Pehr Westerstrand facing left.",
+  "obverse_inscriptions": [
+    "PEHR WESTERSTRAND STORMÄSTARE",
+    "FÖDD 1785 DÖD 1857"
+  ],
+  "reverse": "A vase with a flame.",
+  "reverse_inscriptions": [
+    "GLÄDER OCH VÄGLEDER",
+    "TACKSAM MINNESGÄRD FÖR TJUGUFEMÅRIG STYELSE AF SÄLLSKAPET P. B."
+  ],
+  "references": [
+    "The Numismatist, Volume 36, P. 388"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Pehr Westerstrand, first director of the Royal Orchestra.",
+    "</p>"
+  ]
+}

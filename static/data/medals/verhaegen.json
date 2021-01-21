@@ -1,0 +1,26 @@
+{
+  "name": "Pierre-Théodore Verhaegen",
+  "engraver": "Léopold Wiener",
+  "country": "Belgium",
+  "year": "1852",
+  "diameter": "68",
+  "obverse": "Bust of Pierre-Théodore Verhaegen facing right.",
+  "obverse_inscriptions": [
+    "PIERRE THEOD: VERHAEGEN",
+    "LEOPOLD WIENER F."
+  ],
+  "reverse": "A wreath surrounds an inscription in 9 lines.",
+  "reverse_inscriptions": [
+    "PRÉSIDENT DE LA CHAMBRE DES REPRÉSENTANTS DE 1848 À 1852",
+    "AU DÉFENSEUR DES LIBERTÉS PUBLIQUES À SON COURAGE À SON DÉSINTÉRESSEMENT 1852"
+  ],
+  "references": [
+    "Beschrijving der verzamelingen van het Groot-Oosten Vol. 3 p. 31"
+  ],
+  "description": [
+    "<p>",
+    "This medal was made to commemorate Pierre-Théodore Verhaegen a Belgian lawyer and liberal politician,",
+    "known as the founder of the Free University of Brussels.",
+    "</p>"
+  ]
+}

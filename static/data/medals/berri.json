@@ -1,0 +1,27 @@
+{
+  "name": "Assassination of Charles Ferdinand",
+  "engraver": "Armand-Auguste Caqu\u00e9",
+  "country": "France",
+  "year": "1820",
+  "diameter": "37",
+  "obverse": "Bust of Charles Ferdinand facing left with Order of the Holy Spirit badge.",
+  "obverse_inscriptions": [
+    "C. F. DUC DE BERRI N\u00c9 LE 24 JANV. 1778, MORT ASSASSIN\u00c9 LE 14 FEV. 1820.",
+    "CAQU\u00c9. F."
+  ],
+  "reverse": "The Duchess, supported by a column, holding her crown in her right hand. On the column stands a draped urn. An inscription on the column below 8 stars. Under the inscription, two Palms alongside the Bourbon coat of arms.",
+  "reverse_inscriptions": [
+    "NOUS QUI SOUFFRONS DE SA DOULEUR PLEURONS AVEC LA JEUNE VEUVE.",
+    "CAROLINE A MARQU\u00c9 ICI SA PLACE",
+    "ELLE PORTE DANS SON SEIN L'ESPOIR DE LA FRANCE"
+  ],
+  "references": [
+    "Collignon #165; Catalogue du Musee Archeologique et Numismatique de la Ville de Lille #833"
+  ],
+  "description": [
+    "<p>",
+    "Charles Ferdinand (24 January 1778 \u2013 14 February 1820) was the third child and youngest son of the future King of France, Charles X.",
+    "He was assassinated at the Paris Opera in 1820 by Louis Pierre Louvel, an anti-royal Bonapartist.",
+    "</p>"
+  ]
+}
