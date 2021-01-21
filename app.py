@@ -7,8 +7,6 @@ from data_loader import load_data
 from gallery_image import GalleryImage
 
 application = Flask(__name__)
-# Set cache max-age for static files
-application.config['SEND_FILE_MAX_AGE_DEFAULT'] = 43200
 
 LOG = logging.getLogger(__name__)
 LOG.setLevel(logging.INFO)
