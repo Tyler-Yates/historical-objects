@@ -2,7 +2,7 @@ import collections
 import json
 import logging
 import os
-from typing import List
+from typing import List, Dict
 
 import requests
 
@@ -13,10 +13,13 @@ from .plate import Plate
 
 LOG = logging.getLogger(__name__)
 BOOK_GALLERY_API_ROOT = "https://api.github.com/repos/Tyler-Yates/historical-objects-static/contents/images/books"
+ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
 
 
-def _load_medals_data(application):
-    data_path = os.path.join(application.static_folder, "data", "medals")
+def _load_medals_data():
+    medals = {}
+
+    data_path = os.path.join(ROOT_PATH, "static", "data", "medals")
     for json_file_name in os.listdir(data_path):
         object_id = json_file_name.replace('.json', '')
         with open(os.path.join(data_path, json_file_name), encoding="utf8", mode='r') as json_file:
@@ -51,10 +54,10 @@ def _load_medals_data(application):
                           history=json_data.get('description', None),
                           sort_year=sort_year)
 
-            application.medals[object_id] = medal
+            medals[object_id] = medal
 
     # Sort by year
-    application.medals = collections.OrderedDict(sorted(application.medals.items(), key=lambda x: x[1].sort_year))
+    return collections.OrderedDict(sorted(medals.items(), key=lambda x: x[1].sort_year))
 
 
 def _load_gallery_images(book_id: str) -> List[GalleryImage]:
@@ -73,8 +76,10 @@ def _load_gallery_images(book_id: str) -> List[GalleryImage]:
     return gallery
 
 
-def _load_books_data(application):
-    data_path = os.path.join(application.static_folder, "data", "books")
+def _load_books_data():
+    books = {}
+
+    data_path = os.path.join(ROOT_PATH, "static", "data", "books")
     for json_file_name in os.listdir(data_path):
         object_id = json_file_name.replace('.json', '')
         with open(os.path.join(data_path, json_file_name), encoding="utf8", mode='r') as json_file:
@@ -111,14 +116,16 @@ def _load_books_data(application):
                         sort_year=sort_year,
                         gallery_images=gallery_images)
 
-            application.books[object_id] = book
+            books[object_id] = book
 
     # Sort by year
-    application.books = collections.OrderedDict(sorted(application.books.items(), key=lambda x: x[1].sort_year))
+    return collections.OrderedDict(sorted(books.items(), key=lambda x: x[1].sort_year))
 
 
-def _load_plates_data(application):
-    data_path = os.path.join(application.static_folder, "data", "plates")
+def _load_plates_data():
+    plates = {}
+
+    data_path = os.path.join(ROOT_PATH, "static", "data", "plates")
     for json_file_name in os.listdir(data_path):
         object_id = json_file_name.replace('.json', '')
         with open(os.path.join(data_path, json_file_name), encoding="utf8", mode='r') as json_file:
@@ -145,16 +152,14 @@ def _load_plates_data(application):
                           year=json_data.get('year', None),
                           sort_year=sort_year)
 
-            application.plates[object_id] = plate
+            plates[object_id] = plate
 
     # Sort by year
-    application.plates = collections.OrderedDict(sorted(application.plates.items(), key=lambda x: x[1].sort_year))
+    return collections.OrderedDict(sorted(plates.items(), key=lambda x: x[1].sort_year))
 
 
-def load_data(application):
-    _load_medals_data(application)
-    _load_books_data(application)
-    _load_plates_data(application)
+def load_data() -> Dict[str, Dict]:
+    return {"medals": _load_medals_data(), "books": _load_books_data(), "plates": _load_plates_data()}
 
 
 def migrate_old_data(application):

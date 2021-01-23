@@ -1,1 +1,1 @@
-web: gunicorn "application" --log-file=-
+web: gunicorn -c config/gunicorn.conf.py "application:create_flask_app()" --log-file=-
