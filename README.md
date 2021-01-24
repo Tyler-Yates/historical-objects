@@ -12,6 +12,8 @@ This README assumes you are running on Linux.
 You will need a [Python 3](https://www.python.org/about/) interpreter to run this application.
 The Python 3 interpreter should include the `venv` module.
 
+You will need a Redis instance for caching.
+
 ## Setup
 
 ### Python
@@ -21,6 +23,16 @@ Run the following commands at the root of this repo:
 python3 -m venv venv
 source venv/bin/activate
 pip install -Ur requirements.txt
+```
+
+### Environment
+You will need to set the following environment variables:
+```
+REDIS_HOST = host URL for Redis instance
+REDIS_PORT = integer port to connect to the Redis host
+REDIS_PASSWORD = password to connect to the Redis host
+GITHUB_USERNAME = username for GitHub API access
+GITHUB_TOKEN = personal access token for GitHub API access
 ```
 
 ### SSL
