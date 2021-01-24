@@ -75,7 +75,7 @@ def _load_gallery_images(book_id: str, redis_client: redis.client.Redis, github_
         response.raise_for_status()
 
         # Add the value to the cache
-        redis_client.set(request_url, response.text, ex=86400)
+        redis_client.set(request_url, response.text, ex=604800)
 
         # Use the response
         gallery_files_json_string = response.text
