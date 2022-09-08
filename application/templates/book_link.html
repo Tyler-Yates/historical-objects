@@ -1,12 +1,12 @@
 <div class="book-cell">
     <div class="book-image">
-        <a href="{{ url_for('routes.html.book_page', book_id=book.id) }}">
+        <a href="{{ url_for('routes.book_page', book_id=book.id) }}">
             <img class="book-cell-image"
                  src="https://raw.githubusercontent.com/Tyler-Yates/historical-objects-static/master/images/books/{{ book.id }}/cover.jpg">
         </a>
     </div>
     <div class="info">
-        <div class="title"><a href="{{ url_for('routes.html.book_page', book_id=book.id) }}">{{ book.title }}</a></div>
+        <div class="title"><a href="{{ url_for('routes.book_page', book_id=book.id) }}">{{ book.title }}</a></div>
         <div class="author">{{ book.author }}</div>
         <div class="year">{{ book.year }}</div>
     </div>
