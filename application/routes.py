@@ -1,6 +1,6 @@
 from flask import Blueprint, current_app, render_template
 
-MAIN_BLUEPRINT = Blueprint("routes.html", __name__)
+MAIN_BLUEPRINT = Blueprint("primary", __name__)
 
 
 @MAIN_BLUEPRINT.route('/debug')
