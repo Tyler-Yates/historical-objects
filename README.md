@@ -1,16 +1,13 @@
 # historical-objects
 
-## Prerequisites
-You will need a [Heroku](https://www.heroku.com/) account and the
-[Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) to run this application.
-Heroku has a [free tier](https://www.heroku.com/free).
-It is recommended that you follow [Heroku's guide](https://devcenter.heroku.com/articles/getting-started-with-python)
-to getting started with Python before running this application.
+This website is currently hosted at https://historical-objects.onrender.com/
 
+## Prerequisites
 This README assumes you are running on Linux.
 
 You will need a [Python 3](https://www.python.org/about/) interpreter to run this application.
 The Python 3 interpreter should include the `venv` module.
+The recommended Python version for this project will be specified in the `.env` file at the root of the project.
 
 You will need a Redis instance for caching.
 
