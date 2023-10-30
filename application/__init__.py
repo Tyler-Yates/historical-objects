@@ -17,7 +17,7 @@ LOG.setLevel(logging.INFO)
 
 def create_redis_client() -> redis.client.Redis:
     try:
-        client = redis.from_url(os.getenv("REDIS_URL"))
+        client: redis.client.Redis = redis.from_url(os.getenv("REDIS_URL"))
         ping = client.ping()
         if ping is True:
             return client
@@ -34,7 +34,7 @@ def create_flask_app() -> Flask:
     app = Flask(__name__)
 
     # Set the default cache control headers on static elements
-    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 86400
+    app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 86400
 
     # Redis client creation for caching
     redis_client = create_redis_client()
