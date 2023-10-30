@@ -7,7 +7,7 @@ This README assumes you are running on Linux.
 
 You will need a [Python 3](https://www.python.org/about/) interpreter to run this application.
 The Python 3 interpreter should include the `venv` module.
-The recommended Python version for this project will be specified in the `.env` file at the root of the project.
+The recommended Python version for this project will be specified in the config on render.com.
 
 You will need a Redis instance for caching.
 
@@ -48,7 +48,7 @@ generated key and certificate.
 After setting up the environment variables, you can run the application locally.
 Be sure you have activated the virtual environment before running this command:
 ```
-heroku local
+gunicorn -c config/gunicorn.conf.py "application:create_flask_app()" --log-file=-
 ```
 
 You should then be able to access the application at [http://0.0.0.0:5000](http://0.0.0.0:5000) in your browser.

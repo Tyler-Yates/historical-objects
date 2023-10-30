@@ -2,6 +2,7 @@ import logging
 import os
 
 import redis
+from dotenv import load_dotenv
 from flask import Flask, request, redirect
 
 from .github_client import GithubClient
@@ -16,13 +17,7 @@ LOG.setLevel(logging.INFO)
 
 def create_redis_client() -> redis.client.Redis:
     try:
-        client = redis.Redis(
-            host=os.environ["REDIS_HOST"],
-            port=int(os.environ["REDIS_PORT"]),
-            password=os.environ["REDIS_PASSWORD"],
-            db=0,
-            socket_timeout=5,
-        )
+        client = redis.from_url(os.getenv("REDIS_URL"))
         ping = client.ping()
         if ping is True:
             return client
@@ -32,16 +27,19 @@ def create_redis_client() -> redis.client.Redis:
 
 
 def create_flask_app() -> Flask:
+    # Load the environment variables from the .env file
+    load_dotenv()
+
     # Create the flask app
     app = Flask(__name__)
 
     # Redis client creation for caching
     redis_client = create_redis_client()
 
-    github_client = GithubClient(os.environ["GITHUB_USERNAME"], os.environ["GITHUB_TOKEN"])
+    git_hub_client = GithubClient(os.environ["GITHUB_USERNAME"], os.environ["GITHUB_TOKEN"])
 
     # Create the data dictionary and add it to the app config for access by the blueprints
-    app.config["data"] = load_data(redis_client, github_client)
+    app.config["data"] = load_data(redis_client, git_hub_client)
 
     _setup_app(application)
 

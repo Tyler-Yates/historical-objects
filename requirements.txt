@@ -3,3 +3,4 @@ gunicorn
 pyopenssl
 requests
 redis
+python-dotenv
