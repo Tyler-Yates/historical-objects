@@ -33,6 +33,9 @@ def create_flask_app() -> Flask:
     # Create the flask app
     app = Flask(__name__)
 
+    # Set the default cache control headers on static elements
+    app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 86400
+
     # Redis client creation for caching
     redis_client = create_redis_client()
 
