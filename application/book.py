@@ -11,6 +11,6 @@ class Book:
         self.year = year
         self.size = size
         self.oclc = oclc
-        self.history = history
+        self.history = " ".join(history) if history else None
         self.sort_year = sort_year
         self.gallery_images = gallery_images
