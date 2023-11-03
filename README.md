@@ -1,3 +1,5 @@
+[![tox](https://github.com/Tyler-Yates/historical-objects/actions/workflows/tox-workflow.yml/badge.svg)](https://github.com/Tyler-Yates/historical-objects/actions/workflows/tox-workflow.yml)
+
 # historical-objects
 
 This website is currently hosted at https://historical-objects.onrender.com/
