@@ -1,0 +1,24 @@
+{
+  "name": "Kopparbergs County Household Society Award",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1880",
+  "diameter": "44",
+  "obverse": "A woman in classical dress holds a sickle and sheath of wheat. Behind her are farm tools. Beside her is a shield with a crown and crossed arrows.",
+  "obverse_inscriptions": [
+    "STORA KOPPARBERGS LÄNS K. HUSHÅLLNINGS SÄLLSKAP.",
+    "LEA AHLBORN"
+  ],
+  "reverse": "A wreath encloses the inscription.",
+  "reverse_inscriptions": [
+    "BELÖNING"
+  ],
+  "references": [
+    "Olsen p. 257"
+  ],
+  "description": [
+    "<p>",
+    "This appears to be a reward medal for a society in Kopparbergs.",
+    "</p>"
+  ]
+}
