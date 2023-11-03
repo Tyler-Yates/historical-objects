@@ -1,0 +1,25 @@
+{
+  "name": "The Three Kings Meeting of 1914",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1914",
+  "diameter": "45",
+  "obverse": "Busts of the three kings, two facing left, one facing right. The coat of arms of the three countries below. Flowers next to the busts.",
+  "obverse_inscriptions": [
+    "SAMFÄLDA RÅDSLAG RIKENA STYRKA",
+    "ƎL·"
+  ],
+  "reverse": "The meeting house in Malmö with flag flying. The coat of arms of the city are below.",
+  "reverse_inscriptions": [
+    "MINNE AF KUNGAMÖTET I MALMÖ 18-19 DEC·1914"
+  ],
+  "references": [
+    "Ulla #139"
+  ],
+  "description": [
+    "<p>",
+    "The kings of Denmark, Norway, and Sweden met in Malmö in 1914 to discuss WWI.",
+    "They all agreed to a policy of neutrality.",
+    "</p>"
+  ]
+}
