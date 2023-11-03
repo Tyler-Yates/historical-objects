@@ -1,0 +1,25 @@
+{
+  "name": "The Nordic Industrial and Handicrafts Exhibition in Malmö",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1896",
+  "diameter": "60",
+  "obverse": "The main hall with a flag flying.",
+  "obverse_inscriptions": [
+    "INDUSTRI·OCH·SLÖJDUTSTÄLLNINGEN·I·MALMÖ",
+    "1896"
+  ],
+  "reverse": "A woman holds a wreath and cornucopia. Beside her is a man holding a wheel and a blacksmith hammer. The man is sitting on an anvil. On the ground is a beehive and tongs.",
+  "reverse_inscriptions": [
+    "FLIT·OCH·OMTANKE·ALSTRA·OBEROENDE",
+    "LEA AHLBORN"
+  ],
+  "references": [
+    "Olsen p. 339"
+  ],
+  "description": [
+    "<p>",
+    "",
+    "</p>"
+  ]
+}
