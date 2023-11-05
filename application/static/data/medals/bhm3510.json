@@ -1,0 +1,33 @@
+{
+  "name": "Diamond Jubilee of Queen Victoria",
+  "engraver": "F. Bowcher",
+  "country": "Great Britain",
+  "year": "1897",
+  "diameter": "76",
+  "obverse": "Crowned and draped bust of the Queen facing left.",
+  "obverse_inscriptions": [
+    "IN · HONOREM · VICTORIAE R: ET · I: EXCUD: CUR: CIVITAS · LOND:",
+    "SPINK & SON. LONDON"
+  ],
+  "reverse": "Britannia, seated left, receiving Londinia (who is holding a bouqet and the shield of the city), Mercury, and a figure symbolizing agriculture (who is holding a sickle and resting his other hand on a globe). To the left of Britannia, two figures symbolizing industry and knowledge. A lion sits beside Britannia.",
+  "reverse_inscriptions": [
+    "FROM MY HEART I THANK MY BELOVED PEOPLE",
+    "MAY GOD BLESS THEM",
+    "V.R.I",
+    "1837-1897",
+    "SPINK & SON. LONDON",
+    "DOMINI·DIRIGE·NOS"
+  ],
+  "references": [
+    "BHM 3510",
+    "Eimer 1815"
+  ],
+  "description": [
+    "<p>",
+    "This medal is part of the City of London series. 500 specimens were struck.",
+    "</p>",
+    "<p>",
+    "It appears that several (perhaps all?) examples suffer from a die defect on the two 'O' characters in the inscription 'SPINK & SON. LONDON' on the obverse.",
+    "</p>"
+  ]
+}
