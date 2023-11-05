@@ -103,6 +103,7 @@
             </div>
         </div>
     </div>
+    {% if gallery %}
     <div id="gallery">
         <h3>Additional Images</h3>
         {% for gallery_image in gallery %}
@@ -112,6 +113,7 @@
                      src="{{ gallery_image.low_image_scr }}">
             </div>
         {% endfor %}
+    {% endif %}
     </div>
     <div id="footer">
         {% include 'footer.html' %}
