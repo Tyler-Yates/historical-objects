@@ -1,0 +1,32 @@
+{
+  "name": "Reception of Victor Emmanuel II at the Guildhall",
+  "engraver": "B. Wyon",
+  "country": "Great Britain",
+  "year": "1855",
+  "diameter": "77",
+  "obverse": "Bust of Victor Emmanuel II facing left.",
+  "obverse_inscriptions": [
+    "VICTORIUS EMMANUEL II REX SARDINIAE IN LONDINIUM A PRAESIDE CIVIBUSQUE RECEPTUS",
+    "B. WYON SC."
+  ],
+  "reverse": "Londinia standing besides Britannia who is seated as they both greet Sardinia. All three are wearing helmets. Sardinia is carrying a shield while Britain's shield sits between Londinia and Britannia. The coat of arms of the City of London sits at the bottom.",
+  "reverse_inscriptions": [
+    "LIBERI LIBERIS GRATULATUR SOCIIS",
+    "DEC. 4 1855",
+    "B. WYON S.",
+    "DOMINE DIRIGE NOS"
+  ],
+  "references": [
+    "BHM 2567",
+    "Eimer 1499"
+  ],
+  "description": [
+    "<p>",
+    "This medal is #8 of the City of London series. 350 specimens were struck.",
+    "</p>",
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Victor_Emmanuel_II' target='_blank'>Victor Emmanuel II</a> was King of Sardinia",
+    "from 23 March 1849 until 17 March 1861, when he assumed the title of King of Italy.",
+    "</p>"
+  ]
+}
