@@ -1,0 +1,31 @@
+{
+  "name": "Arvid Högbom",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1954",
+  "diameter": "31",
+  "obverse": "Bust of Arvid Högbom facing left.",
+  "obverse_inscriptions": [
+    "A·G·HÖGBOM·PROFESSOR·GEOLOGIÆ·UPSAL·",
+    "N·MDCCCLVII·OB·MCMXL",
+    "ERIK LINDBERG"
+  ],
+  "reverse": "A star at top. Two geological hammers flank a laurel wreath.",
+  "reverse_inscriptions": [
+    "STRUCTURAM MONTIUM·ET VESTIGIA·GLACIALIS TEMPORIS·EXPOSUIT",
+    "SOCIO MERITISSIMO REG·ACAD·SCIENT·SUEC·MCMLIV"
+  ],
+  "references": [
+    "Ulla #465"
+  ],
+  "description": [
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Arvid_H%C3%B6gbom' target='_blank'>Arvid Gustaf Högbom</a> (1857-1940) was a Swedish geologist.",
+    "He was a professor of mineralogy and geology at Uppsala University.",
+    "He is credited with having made the first ever estimate of the amount of carbon dioxide emitted into the atmosphere from the combustion of fossil fuels.",
+    "</p>",
+    "<p>",
+    "Ulla states that 350 examples of this medal were struck in silver.",
+    "</p>"
+  ]
+}
