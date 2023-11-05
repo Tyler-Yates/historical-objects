@@ -8,3 +8,5 @@ calendar and oscar_calendar_silver - finish them
 svenska_flaggans_dag - check size
 edw_edholm - Check engraver signature on obverse
 martin_luther_1661 - Change font to match blackletter of the medal
+
+!!!Erik Lindberg medals appear to have inscriptions on the edge!!!
