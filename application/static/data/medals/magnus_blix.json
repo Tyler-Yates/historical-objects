@@ -1,0 +1,29 @@
+{
+  "name": "Magnus Blix",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1928",
+  "diameter": "31",
+  "obverse": "Bust of Magnus Blix facing left.",
+  "obverse_inscriptions": [
+    "MAGNUS·GUST·BLIX·PROFESSOR·PHYSIOLOGIÆ",
+    "N·1849 O·1904",
+    "E LINDBERG"
+  ],
+  "reverse": "Scientific instruments in front of a branch.",
+  "reverse_inscriptions": [
+    "TACTUS·SENSUSQUE·RATIONEM·INGENIOSE·ILLUSTRAVIT",
+    "SOCIO MERITISSIMO REGIA·ACADEMIA SCIENTIARUM·SUEC·MCMXXVIII"
+  ],
+  "references": [
+    "Ulla #281"
+  ],
+  "description": [
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Magnus_Blix' target='_blank'>Magnus Gustaf Blix</a> (25 December 1849 – 14 February 1904)",
+    "was a Swedish physiologist.",
+    "Blix is best known for his work in the 1880s involving somatic sensation.",
+    "He discovered that electrical stimulation on different points on the surface of the skin caused distinct warm or cool sensations.",
+    "</p>"
+  ]
+}
