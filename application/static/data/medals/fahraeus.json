@@ -1,0 +1,27 @@
+{
+  "name": "Olof Fåhræus",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1889",
+  "diameter": "31",
+  "obverse": "Bust of Olof Fåhræus, in uniform, facing left.",
+  "obverse_inscriptions": [
+    "OL. IMM. FÅHRÆUS CONSILAR. REG. N. 1796. O. 1884.",
+    "L·A·"
+  ],
+  "reverse": "Wreath encircling inscription. A small star at bottom.",
+  "reverse_inscriptions": [
+    "SOCIO SUO MERITISSIMO REG. ACAD. SC. SUEC. MDCCCLXXIX.",
+    "REIPUBLICÆ LABORAVIT SCIENTIÆ VACAVIT."
+  ],
+  "references": [
+    "Olsen p. 306"
+  ],
+  "description": [
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Olof_F%C3%A5hr%C3%A6us' target='_blank'>Olof Fåhræus</a> was a Swedish",
+    "civil servant, politician, and entomologist mainly interested in <a href='https://en.wikipedia.org/wiki/Beetle' target='_blank'>Coleoptera</a>.",
+    "Fåhræus was elected a member of the Royal Swedish Academy of Sciences in 1840.",
+    "</p>"
+  ]
+}
