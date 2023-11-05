@@ -1,0 +1,32 @@
+{
+  "name": "Swedish Sailing Society Award Medal",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1879 (?)",
+  "sort_year": "1879",
+  "diameter": "",
+  "obverse": "Bust of Oscar I facing right.",
+  "obverse_inscriptions": [
+    "OSCAR SVENSKA SEGELSALLSKAPETS STIFTARE.",
+    "1832",
+    "LEA AHLBORN"
+  ],
+  "reverse": "Neptune, wearing a robe, holds a trident and laurel. He looks out at the ocean towards a sailboat in the distance.",
+  "reverse_inscriptions": [
+    "FÖR GOTT SJÖMANSKAP",
+    "AF SVENSKA SEGELSÄLLSKAPET",
+    "LEA AHLBORN"
+  ],
+  "references": [
+    "Ulla p. 248"
+  ],
+  "description": [
+    "<p>",
+    "This medal was given as an award by the <a href='https://en.wikipedia.org/wiki/Royal_Swedish_Yacht_Club' target='_blank'>Royal Swedish Yacht Club</a>.",
+    "</p>",
+    "<p>",
+    "This specimen appears to be an unlisted variant of the medal described in Ulla: The inscription on the reverse is different.",
+    "Ulla lists the main inscription on the reverse as 'FÖR UTMÄRKT FÖRTJENST'.",
+    "</p>"
+  ]
+}
