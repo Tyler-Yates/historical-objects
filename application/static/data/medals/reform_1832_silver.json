@@ -1,0 +1,35 @@
+{
+  "name": "The Reform Bill",
+  "engraver": "B. Wyon",
+  "country": "Great Britain",
+  "year": "1832",
+  "diameter": "51",
+  "obverse": "Liberty, kneeling, handing scroll inscribed 'REFORM' to Britannia who is wearing a helmet and holding a spear. On the ground are two more scrolls. Plaque with head of William IV above tablet.",
+  "obverse_inscriptions": [
+    "WILLIAM THE FOURTH",
+    "GREY BROUGHAM ALTHORP RUSSELL",
+    "REFORM",
+    "MAGNA CHARTA",
+    "BILL OF RIGHTS",
+    "2ND. & 3RD. WILLIAM IV",
+    "B. WYON SC"
+  ],
+  "reverse": "Inscription within wreath. A crown at the top and the coat of arms of the City of London at the bottom.",
+  "reverse_inscriptions": [
+    "REFORM IN THE REPRESENTATION OF THE PEOPLE IN THE COMMONS HOUSE OF PARLIAMENT 1832",
+    "B WYON S"
+  ],
+  "references": [
+    "BHM 1603"
+  ],
+  "description": [
+    "<p>",
+    "This medal is #3 in the City of London series. This is the silver variant.",
+    "</p>",
+    "<p>",
+    "The <a href='https://en.wikipedia.org/wiki/Reform_Act_1832' target='_blank'>Representation of the People Act 1832</a>",
+    "was an Act of Parliament of the United Kingdom that introduced major changes to the electoral system of England and Wales.",
+    "It reapportioned constituencies to address the unequal distribution of seats and expanded franchise by broadening and standardising the property qualifications to vote.",
+    "</p>"
+  ]
+}
