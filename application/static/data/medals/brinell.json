@@ -1,0 +1,32 @@
+{
+  "name": "Johan August Brinell",
+  "engraver": "Erik Lindberg",
+  "country": "Sweden",
+  "year": "1934",
+  "diameter": "31",
+  "obverse": "Bust of Johan August Brinell facing left",
+  "obverse_inscriptions": [
+    "J·A·BRINELL·DR·PH·HON·CAUSA ARTIS·METALLICÆ·PERITUS",
+    "NAT·MDCCCXLIX OB·MCMXXV"
+  ],
+  "reverse": "Brinnel's machine for testing the hardness of a material.",
+  "reverse_inscriptions": [
+    "QUALITATES·CHALYBIS·ACIE·INGENII·INVESTIGAVIT",
+    "SOCIO·MERITISSIMO R·ACAD·SCIENT·SUEC·",
+    "MCMXXXIV"
+  ],
+  "references": [
+    "Ulla #337"
+  ],
+  "description": [
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Johan_August_Brinell' target='_blank'>Johan August Brinell</a> was a Swedish metallurgical engineer.",
+    "Brinell is noted as the creator of a method for quantifying the surface hardness of materials, now known as the",
+    "<a href='https://en.wikipedia.org/wiki/Brinell_scale' target='_blank'>Brinell hardness test</a>.",
+    "His name is also commemorated in the description of a failure mechanism of material surfaces known as Brinelling.",
+    "</p>",
+    "<p>",
+    "According to Ulla, 200 examples of this medal were struck in silver.",
+    "</p>"
+  ]
+}
