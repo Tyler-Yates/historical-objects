@@ -22,9 +22,6 @@ def create_redis_client() -> redis.client.Redis:
         ping = client.ping()
         if ping is True:
             return client
-
-        # TODO remove this
-        client.flushall()
     except redis.AuthenticationError as e:
         print("AuthenticationError connecting to Redis")
         raise e
