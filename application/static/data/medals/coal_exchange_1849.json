@@ -22,9 +22,11 @@
   "description": [
     "<p>",
     "This is #6 of the City of London medals. 350 specimens were struck.",
+    "This medal depicts the <a href='https://en.wikipedia.org/wiki/Coal_Exchange,_London' target='_blank'>London Coal Exchange</a> which was demolished in 1962.",
     "</p>",
     "<p>",
-    "Interestingly, the BHM reference has a typo for the reverse inscription, saying 'LORD MAJOR' instead of 'LORD MAYOR'.",
+    "Interestingly, the BHM reference has a typo for the reverse inscription, saying 'LORD MAJOR' instead of the correct term",
+    "'<a href='https://en.wikipedia.org/wiki/Lord_Mayor_of_London' target='_blank'>LORD MAYOR</a>'.",
     "</p>"
   ]
 }

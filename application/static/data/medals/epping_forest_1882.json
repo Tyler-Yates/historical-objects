@@ -1,0 +1,34 @@
+{
+  "name": "Dedication of Epping Forest",
+  "engraver": "C. Wiener",
+  "country": "Great Britain",
+  "year": "1882",
+  "diameter": "77",
+  "obverse": "Crowned, veiled, and draped bust of Queen Victoria facing left. A circular border of roses, thistles, and shamrocks.",
+  "obverse_inscriptions": [
+    "CH: WIENER. FECIT."
+  ],
+  "reverse": "A scene in Epping Forest, trees and winding path etc. Londinia standing left, Queen Victoria seated right.",
+  "reverse_inscriptions": [
+    "IT · GIVES · ME · THE · GREATEST · SATISFACTION · TO · DEDICATE · THIS · BEAUTIFUL · FOREST · FOR · THE · USE · AND · ENJOYMENT · OF · MY · PEOPLE · FOR · ALL · TIME",
+    "EPPING · FOREST · 6 · MAY · 1882"
+  ],
+  "references": [
+    "BHM 3128",
+    "Eimer 1689"
+  ],
+  "description": [
+    "<p>",
+    "This piece is #17 of the City of London series of medals. 400 specimens were struck.",
+    "</p>",
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Epping_Forest' target='_blank'>Epping Forest</a> is an area of ancient",
+    "woodland which straddles the border between Greater London and Essex.",
+    "Under the terms of the <a href='https://en.wikipedia.org/wiki/Epping_Forest_Act_1878' target='_blank'>Epping Forest Act 1878</a>, the forest ceased to be a royal forest and was purchased by the",
+    "City of London Corporation whose Epping Forest Committee act as Conservators.",
+    "When Queen Victoria visited Chingford on 6 May 1882 she declared \"It gives me the greatest satisfaction to",
+    "dedicate this beautiful forest to the use and enjoyment of my people for all time\" and it thus became \"The People's Forest\".",
+    "The City of London Corporation still manages Epping Forest in strict conformity with the Epping Forest Act.",
+    "</p>"
+  ]
+}

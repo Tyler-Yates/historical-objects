@@ -68,7 +68,8 @@
 .inscription {
     font-family: "Unifont";
     font-size: 16px;
-    padding-top: 5px;
+    padding-top: 10px;
+    word-wrap: break-word;
 }
 
 #gallery {
