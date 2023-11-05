@@ -14,10 +14,7 @@ from .medal import Medal
 from .plate import Plate
 
 LOG = logging.getLogger(__name__)
-BOOK_GALLERY_API_ROOT = "https://api.github.com/repos/Tyler-Yates/historical-objects-static/contents/images/books"
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
-
-CACHE_TTL = timedelta(days=7)
 
 
 def _load_medals_data():
@@ -66,36 +63,7 @@ def _load_medals_data():
     return collections.OrderedDict(sorted(medals.items(), key=lambda x: x[1].sort_year))
 
 
-def _load_book_gallery_images(
-    book_id: str, redis_client: redis.client.Redis, github_client: GithubClient
-) -> List[GalleryImage]:
-    gallery = []
-    request_url = f"{BOOK_GALLERY_API_ROOT}/{book_id}/gallery/hi"
-
-    # Try to load the value from cache
-    gallery_files_json_string = redis_client.get(request_url)
-
-    # If there is no cache value, make a request to get the actual value
-    if gallery_files_json_string is None:
-        # Make a request to the actual URL
-        response = github_client.make_request(request_url)
-        response.raise_for_status()
-
-        # Add the value to the cache
-        redis_client.set(request_url, response.text, ex=CACHE_TTL)
-
-        # Use the response
-        gallery_files_json_string = response.text
-
-    # Parse the gallery files
-    json_data = json.loads(gallery_files_json_string)
-    for item in json_data:
-        gallery.append(GalleryImage(item["download_url"].replace("/gallery/hi", "/gallery/low"), item["download_url"]))
-
-    return gallery
-
-
-def _load_books_data(redis_client: redis.client.Redis, github_client: GithubClient):
+def _load_books_data():
     books = {}
 
     data_path = os.path.join(ROOT_PATH, "static", "data", "books")
@@ -119,12 +87,6 @@ def _load_books_data(redis_client: redis.client.Redis, github_client: GithubClie
             if sort_year == -1:
                 LOG.warning("No sort year for {}".format(json_file_name))
 
-            gallery_images = []
-            try:
-                gallery_images = _load_book_gallery_images(object_id, redis_client, github_client)
-            except Exception as e:
-                print(f"Error loading gallery for {object_id}: {e}")
-
             book = Book(
                 id=object_id,
                 title=json_data.get("title", None),
@@ -134,7 +96,6 @@ def _load_books_data(redis_client: redis.client.Redis, github_client: GithubClie
                 oclc=json_data.get("oclc", None),
                 history=json_data.get("description", None),
                 sort_year=sort_year,
-                gallery_images=gallery_images,
             )
 
             books[object_id] = book
@@ -181,10 +142,10 @@ def _load_plates_data():
     return collections.OrderedDict(sorted(plates.items(), key=lambda x: x[1].sort_year))
 
 
-def load_data(redis_client: redis.client.Redis, github_client: GithubClient) -> Dict[str, Dict]:
+def load_data() -> Dict[str, Dict]:
     return {
         "medals": _load_medals_data(),
-        "books": _load_books_data(redis_client, github_client),
+        "books": _load_books_data(),
         "plates": _load_plates_data(),
     }
 

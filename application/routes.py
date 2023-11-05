@@ -1,5 +1,7 @@
 from flask import Blueprint, current_app, render_template
 
+from application import GalleryLoader
+
 MAIN_BLUEPRINT = Blueprint("routes", __name__)
 
 
@@ -43,7 +45,9 @@ def medals_page():
 
 @MAIN_BLUEPRINT.route("/medals/<medal_id>")
 def medal_page(medal_id):
-    return render_template("medal.html", medal=current_app.config["data"]["medals"][medal_id])
+    gallery_images = _get_gallery_loader().load_medal_gallery_images(medal_id)
+    medal = current_app.config["data"]["medals"][medal_id]
+    return render_template("medal.html", medal=medal, gallery=gallery_images)
 
 
 @MAIN_BLUEPRINT.route("/books")
@@ -53,8 +57,9 @@ def books_page():
 
 @MAIN_BLUEPRINT.route("/books/<book_id>")
 def book_page(book_id):
+    gallery_images = _get_gallery_loader().load_book_gallery_images(book_id)
     book = current_app.config["data"]["books"][book_id]
-    return render_template("book.html", book=book, gallery=book.gallery_images)
+    return render_template("book.html", book=book, gallery=gallery_images)
 
 
 @MAIN_BLUEPRINT.route("/plates")
@@ -75,3 +80,7 @@ def references_page():
 @MAIN_BLUEPRINT.route("/about")
 def about_page():
     return render_template("about.html")
+
+
+def _get_gallery_loader() -> GalleryLoader:
+    return current_app.config["gallery_loader"]

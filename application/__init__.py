@@ -5,6 +5,7 @@ import redis
 from dotenv import load_dotenv
 from flask import Flask, request, redirect
 
+from .gallery_loader import GalleryLoader
 from .github_client import GithubClient
 from .routes import MAIN_BLUEPRINT
 from .data_loader import load_data
@@ -21,6 +22,9 @@ def create_redis_client() -> redis.client.Redis:
         ping = client.ping()
         if ping is True:
             return client
+
+        # TODO remove this
+        client.flushall()
     except redis.AuthenticationError as e:
         print("AuthenticationError connecting to Redis")
         raise e
@@ -38,11 +42,14 @@ def create_flask_app() -> Flask:
 
     # Redis client creation for caching
     redis_client = create_redis_client()
-
+    # GitHub client for getting the gallery images
     git_hub_client = GithubClient(os.environ["GITHUB_USERNAME"], os.environ["GITHUB_TOKEN"])
+    # Helper class to load gallery images on-demand
+    gallery_loader_obj = GalleryLoader(redis_client, git_hub_client)
 
     # Create the data dictionary and add it to the app config for access by the blueprints
-    app.config["data"] = load_data(redis_client, git_hub_client)
+    app.config["data"] = load_data()
+    app.config["gallery_loader"] = gallery_loader_obj
 
     _setup_app(application)
 

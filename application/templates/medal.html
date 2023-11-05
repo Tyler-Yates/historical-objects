@@ -103,6 +103,16 @@
             </div>
         </div>
     </div>
+    <div id="gallery">
+        <h3>Additional Images</h3>
+        {% for gallery_image in gallery %}
+            <div class="gallery-cell">
+                <img class="gallery-image"
+                     onclick="show_gallery_viewer('{{ gallery_image.low_image_scr }}', '{{ gallery_image.hi_image_src }}');"
+                     src="{{ gallery_image.low_image_scr }}">
+            </div>
+        {% endfor %}
+    </div>
     <div id="footer">
         {% include 'footer.html' %}
     </div>

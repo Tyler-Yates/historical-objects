@@ -24,3 +24,8 @@ window.onload = function () {
     };
     document.addEventListener('keydown', hide_on_escape, false);
 };
+
+function show_gallery_viewer(low_res_path, hi_res_path) {
+    viewer = ImageViewer();
+    viewer.show(low_res_path, hi_res_path);
+}
