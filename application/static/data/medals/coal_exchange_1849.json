@@ -1,0 +1,29 @@
+{
+  "name": "Opening of the Coal Exchange",
+  "engraver": "B. Wyon",
+  "country": "Great Britain",
+  "year": "1849",
+  "diameter": "89",
+  "obverse": "A triangle of tree medallions in which are the heads of Prince Albert, the prince of Wales and the Princess Royal. In the center, a medallion of the head of Queen Victoria. Two scenes portraying the arrival of Prince Albert, the two children, and City dignitaries.",
+  "obverse_inscriptions": [
+    "NEW COAL EXCHANGE OPENED OCT. 30TH 1849 BY H. R. H. PRINCE ALBERT ON BEHALF OF HER MAJESTY QUEEN VICTORIA",
+    "B. WYON SC."
+  ],
+  "reverse": "Interior of the exchange building within an ornamental border. Coat of arms of the City of London below.",
+  "reverse_inscriptions": [
+    "THE RT HONBLE SIR JAMES DUKE LORD MAYOR - JOHN WOOD ESQRE CHAIRMAN OF THE COMMITTEE - JAMES B. BUNNING ESQRE ARCHITECT",
+    "DOMINE DIRIGE NOS"
+  ],
+  "references": [
+    "BHM 2357",
+    "Eimer 1435"
+  ],
+  "description": [
+    "<p>",
+    "This is #6 of the City of London medals. 350 specimens were struck.",
+    "</p>",
+    "<p>",
+    "Interestingly, the BHM reference has a typo for the reverse inscription, saying 'LORD MAJOR' instead of 'LORD MAYOR'.",
+    "</p>"
+  ]
+}
