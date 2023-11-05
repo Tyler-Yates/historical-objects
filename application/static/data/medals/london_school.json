@@ -4,23 +4,32 @@
   "country": "Great Britain",
   "year": "1834",
   "diameter": "58",
-  "obverse": "A view of the west side of the school.",
+  "obverse": "Knowledge, seated, instructing a youth leaning upon a tablet with the Arms of the City above. Books, scrolls, and a globe are on the floor.",
   "obverse_inscriptions": [
-    "CITY OF LONDON SCHOOL",
-    "FOUNDED BY THE CORPORATION 1834"
-  ],
-  "reverse": "A woman representing knowledge is seated talking to a boy leaning upon a tablet.",
-  "reverse_inscriptions": [
+    "FOR THE RELIGIOUS & VIRTUOUS EDUCATION OF BOYS & THEIR INSTRUCTION IN LITERATURE & USEFUL KNOWLEDGE",
+    "B. WYON F.",
     "IOHN CARPENTER 1447",
-    "FOR THE RELIGIOUS & VIRTUOUS EDUCATION OF BOYS & THEIR INSTRUCTION IN LITERATURE & USEFUL KNOWLEDGE"
+    "DOMINE DIRIGE NOS"
+  ],
+  "reverse": "A view of the west front of the school building.",
+  "reverse_inscriptions": [
+    "CITY OF LONDON SCHOOL",
+    "FOUNDED BY THE CORPORATION 1834",
+    "I. B. BUNNING ARCH.",
+    "B. WYON F."
   ],
   "references": [
-    "BHM #402"
+    "BHM 1680",
+    "Eimer 1279"
   ],
   "description": [
     "<p>",
-    "This medal was made to commemorate the founding of the City of London school in 1834.",
-    "This is part of the City of London series.",
+    "This medal is #4 in the City of London Series. This is the silver variant of the medal.",
+    "</p>",
+    "<p>",
+    "The City of London School traces its origins to a bequest of land by <a href='https://en.wikipedia.org/wiki/John_Carpenter_(town_clerk)' target='_blank'>John Carpenter</a> (mentioned on the reverse),",
+    "town clerk of London. On his death in 1442, it was found that Carpenter had listed many bequests, most to his relatives but some to charitable causes.",
+    "It appears that this medal mistakes his death for 1447 instead of 1442?",
     "</p>"
   ]
 }
