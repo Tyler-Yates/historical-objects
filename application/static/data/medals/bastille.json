@@ -1,0 +1,31 @@
+{
+  "name": "The Siege of the Bastille",
+  "engraver": "Bertrand Andrieu",
+  "country": "France",
+  "year": "1789",
+  "diameter": "80",
+  "obverse": "Amidst much smoke, the revolutionaries fire cannon and muskets at the Bastille.",
+  "obverse_inscriptions": [
+    "SIEGE DE LA BASTILLE",
+    "PRISE PAR LES CITOYENS DE LA VILLE DE PARIS",
+    "LE 14 J.UET 1789",
+    "ANDRIEU. F.",
+    "NO. 1"
+  ],
+  "reverse": "BLANK",
+  "reverse_inscriptions": [
+  ],
+  "references": [
+    "Julius #13",
+    "Hennin #22"
+  ],
+  "description": [
+    "<p>",
+    "This medal is a cliché: it only has a design on one side.",
+    "The medal is enclosed in a Georgian case covered by glass.",
+    "</p>",
+    "<p>",
+    "The <a href='https://en.wikipedia.org/wiki/Storming_of_the_Bastille' target='_blank'>Storming of the Bastille</a> occured on July 14, 1789.",
+    "</p>"
+  ]
+}
