@@ -2,6 +2,7 @@ import collections
 import json
 import logging
 import os
+from datetime import timedelta
 from typing import List, Dict
 
 import redis
@@ -15,6 +16,8 @@ from .plate import Plate
 LOG = logging.getLogger(__name__)
 BOOK_GALLERY_API_ROOT = "https://api.github.com/repos/Tyler-Yates/historical-objects-static/contents/images/books"
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
+
+CACHE_TTL = timedelta(days=7)
 
 
 def _load_medals_data():
@@ -63,7 +66,7 @@ def _load_medals_data():
     return collections.OrderedDict(sorted(medals.items(), key=lambda x: x[1].sort_year))
 
 
-def _load_gallery_images(
+def _load_book_gallery_images(
     book_id: str, redis_client: redis.client.Redis, github_client: GithubClient
 ) -> List[GalleryImage]:
     gallery = []
@@ -79,7 +82,7 @@ def _load_gallery_images(
         response.raise_for_status()
 
         # Add the value to the cache
-        redis_client.set(request_url, response.text, ex=604800)
+        redis_client.set(request_url, response.text, ex=CACHE_TTL)
 
         # Use the response
         gallery_files_json_string = response.text
@@ -118,7 +121,7 @@ def _load_books_data(redis_client: redis.client.Redis, github_client: GithubClie
 
             gallery_images = []
             try:
-                gallery_images = _load_gallery_images(object_id, redis_client, github_client)
+                gallery_images = _load_book_gallery_images(object_id, redis_client, github_client)
             except Exception as e:
                 print(f"Error loading gallery for {object_id}: {e}")
 
