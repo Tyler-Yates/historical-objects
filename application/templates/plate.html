@@ -29,6 +29,14 @@
     <div id="year" class="info-line">
         {{ plate.year }}
     </div>
+    <div id="description-container">
+        <hr class="short-divider">
+        <div class="description-section" id="history">
+            {% if plate.description %}
+                {{ plate.description|safe }}
+            {% endif %}
+        </div>
+    </div>
     <div id="gallery">
         <!-- TODO implement galleries -->
     </div>

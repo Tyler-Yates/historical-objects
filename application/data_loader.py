@@ -134,6 +134,7 @@ def _load_plates_data():
                 artist=json_data.get("artist", None),
                 year=json_data.get("year", None),
                 sort_year=sort_year,
+                description=json_data.get("description", None),
             )
 
             plates[object_id] = plate

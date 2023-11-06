@@ -27,7 +27,13 @@ html, body {
 }
 
 .info-line {
-    font-size: 1vw;
+    font-size: 16px;
+}
+
+#description-container {
+    text-align: justify;
+    width: 850px;
+    margin: 20px auto auto auto;
 }
 
 #gallery {
