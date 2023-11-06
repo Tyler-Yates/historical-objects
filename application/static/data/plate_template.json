@@ -3,5 +3,9 @@
   "artist": "",
   "year": "",
   "size": "",
-  "description": "test"
+  "description": [
+    "<p>",
+    "",
+    "</p>"
+  ]
 }
