@@ -1,8 +1,16 @@
 {
-  "title": "Japanese Book of Animal Sketches",
-  "year": "?",
-  "sort_year": 1900,
-  "author": "?",
+  "title": "Carving Picture Book (彫物繪本). Vol. 2",
+  "year": "c. 1700",
+  "sort_year": 1700,
+  "author": "江戸日本橋通一町目／須原屋茂兵衛藏版",
   "size": "quarto",
-  "oclc": ""
+  "oclc": "29588948",
+  "description": [
+    "<p>",
+    "<a href='https://www.kosho.or.jp/products/detail.php?product_id=470170060' target='_blank'>This listing</a>",
+    "claims that the book was authored around the <a href='https://en.wikipedia.org/wiki/Genroku' target='_blank'>Genroku</a>",
+    "(1688-1704) and <a href='https://en.wikipedia.org/wiki/H%C5%8Dei' target='_blank'>Hōei</a> (1704-1711) periods.",
+    "This book is volume 2 of a two-volume set.",
+    "</p>"
+  ]
 }
