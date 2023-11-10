@@ -1,8 +1,15 @@
 {
-  "title": "Japanese Book of Black and White Sketches",
-  "year": "?",
-  "sort_year": 1900,
-  "author": "?",
+  "title": "Annotated Kannon Sutra Illustrations Collection (観音経和談鈔図会). Vol. 3",
+  "year": "c. 1833",
+  "sort_year": 1833,
+  "author": "Shisui Hirata (平田止水.), Motosada Tsujimoto",
   "size": "quarto",
-  "oclc": ""
+  "oclc": "609887682",
+  "description": [
+    "<p>",
+    "This book is listed as volume 2 in the <a href='https://library.si.edu/digital-library/book/kannongyoywadanv2hira' target='_blank'>Smithsonian Libraries</a>,",
+    "but according to <a href='https://babel.hathitrust.org/cgi/pt?id=mdp.39015079981836&seq=1' target='_blank'>Hathi Trust</a>",
+    "and <a href='https://www.sljfaq.org/afaq/jou-ge-on-books.html' target='_blank'>this website<a/>, this book is actually volume 3 of a three-volume set.",
+    "</p>"
+  ]
 }
