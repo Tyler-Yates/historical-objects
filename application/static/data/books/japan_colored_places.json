@@ -1,8 +1,15 @@
 {
-  "title": "Japanese Book of Colored Pictures",
-  "year": "?",
-  "sort_year": 1900,
-  "author": "?",
+  "title": "The Prosperity of Naniwa (浪華の賑ひ)",
+  "year": "1855",
+  "author": "Matsukawa Hanzan (松川半山)",
   "size": "quarto",
-  "oclc": ""
+  "oclc": "19926009",
+  "description": [
+    "<p>",
+    "Volume 1 of 3. More information about the book can be found <a href='https://www.wul.waseda.ac.jp/kotenseki/html/ru04/ru04_04961/index.html' target='_blank'>here</a>.",
+    "</p>",
+    "<p>",
+    "Edited by Akiharu Keimeisha. Illustrations by Hanzan Matsukawa.",
+    "</p>"
+  ]
 }
