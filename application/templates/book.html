@@ -6,11 +6,13 @@
 
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/book.css') }}">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/imageviewer.css') }}"/>
 
-    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
-    <script src="{{ url_for('static', filename='js/imageviewer.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/book.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.css" integrity="sha512-Oi2rb7RCg9JJzHCNFHsZgzlreLA/C4mNWCDMGHwhzVtPrQJey0zKnc9t8gwO5uzPJQNc9rC3zJksZb4/rKY+9Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.jquery.js" integrity="sha512-n9m3t+dfIRV99HB8vKra0Rmx+kUXZnAvysMjXumL3i9Q3PqeruBE0enpZ84NE+tQNZaR+kv+djaBBLRcXvdkPA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="{{ url_for('static', filename='js/image-viewer.js') }}"></script>
 </head>
 <body>
     <div id="book-header">
@@ -55,13 +57,13 @@
             {% endif %}
         </div>
     </div>
-    <div id="gallery">
+    <div id="gallery" class="image-gallery">
         <h3>Additional Images</h3>
         {% for gallery_image in gallery %}
             <div class="gallery-cell">
-                <img class="gallery-image"
-                     onclick="show_gallery_viewer('{{ gallery_image.low_image_scr }}', '{{ gallery_image.hi_image_src }}');"
-                     src="{{ gallery_image.low_image_scr }}">
+                <a href="{{ gallery_image.hi_image_src }}">
+                    <img class="gallery-image" src="{{ gallery_image.low_image_scr }}">
+                </a>
             </div>
         {% endfor %}
     </div>

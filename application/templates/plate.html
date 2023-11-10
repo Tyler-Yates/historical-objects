@@ -8,17 +8,21 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/plate.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/imageviewer.css') }}"/>
 
-    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
-    <script src="{{ url_for('static', filename='js/imageviewer.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/plate.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.css" integrity="sha512-Oi2rb7RCg9JJzHCNFHsZgzlreLA/C4mNWCDMGHwhzVtPrQJey0zKnc9t8gwO5uzPJQNc9rC3zJksZb4/rKY+9Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.14.2/simple-lightbox.jquery.js" integrity="sha512-n9m3t+dfIRV99HB8vKra0Rmx+kUXZnAvysMjXumL3i9Q3PqeruBE0enpZ84NE+tQNZaR+kv+djaBBLRcXvdkPA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="{{ url_for('static', filename='js/image-viewer.js') }}"></script>
 </head>
 <body>
     <div id="plate-header">
         {% include 'plate-header.html' %}
     </div>
-    <div id="plate-image-div">
-        <img id="plate-main-image" class="plate-image"
-             src="https://raw.githubusercontent.com/Tyler-Yates/historical-objects-static/master/images/plates/{{ plate.id }}/plate.avif">
+    <div id="plate-image-div" class="image-gallery">
+        <a href="https://raw.githubusercontent.com/Tyler-Yates/historical-objects-static/master/images/plates/{{ plate.id }}/plate-hi.avif">
+            <img class="plate-image" src="https://raw.githubusercontent.com/Tyler-Yates/historical-objects-static/master/images/plates/{{ plate.id }}/plate.avif">
+        </a>
     </div>
     <div id="title" class="info-line">
         {{ plate.title }}
@@ -37,7 +41,7 @@
             {% endif %}
         </div>
     </div>
-    <div id="gallery">
+    <div id="gallery" class="image-gallery">
         <!-- TODO implement galleries -->
     </div>
     <div id="footer">
