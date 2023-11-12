@@ -3,5 +3,10 @@
   "book": "Antiqvitates Graecae et Romanae",
   "artist": "Bernard de Montfaucon; Johann Jacob Schatz; Johann Salomo Semler",
   "year": "1757",
-  "size": "26cm x 20cm"
+  "size": "26cm x 20cm",
+  "description": [
+    "<p>",
+    "This plate comes from the book <a href='https://www.google.com/books/edition/Griechische_und_R%C3%B6mische_Alterth%C3%BCmer/yLFNAAAAcAAJ?hl=en' target='_blank'><i>Griechische und Römische Alterthümer</i></a>.",
+    "</p>"
+  ]
 }

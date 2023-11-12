@@ -1,7 +1,12 @@
 {
-  "title": "Carte des conquetes d'Alexander",
-  "book": "Histoire Universelle vol. 13",
-  "artist": "Bernard de Montfaucon; Johann Jacob Schatz; Johann Salomo Semler",
-  "year": "1779",
-  "size": "35cm x 23.5cm"
+  "title": "Map of the Conquests of Alexander the Great",
+  "artist": "Guillaume Delisle",
+  "year": "1780",
+  "size": "35cm x 23.5cm",
+  "description": [
+    "<p>",
+    "This plate comes from the book <a href='https://www.google.com/books/edition/Histoire_universelle_depuis_le_commencem/WcZsacARUt8C?hl=en&gbpv=0' target='_blank'><i>Histoire universelle, depuis le commencement du monde jusqu'a present. Vol. 13</i></a>.",
+    "This plate is a fold-out map contained within the book.",
+    "</p>"
+  ]
 }
