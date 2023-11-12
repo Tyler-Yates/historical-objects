@@ -1,11 +1,16 @@
 {
   "title": "Map of America from Stieler's Skol-Atlas",
-  "artist": "?",
-  "year": "1850",
+  "artist": "Adolph Stieler",
+  "year": "1862-1867",
+  "sort_year": "1862",
   "size": "",
   "description": [
     "<p>",
-    "A map of the United States made in Sweden around 1850.",
+    "A map of the United States made in Sweden by Adolph Stieler and published by Justus Perthes.",
+    "</p>",
+    "<p>",
+    "<a href='https://www.geographicus.com/P/AntiqueMap/USA-perthes-1862' target='_blank'>This listing</a> shows a German version of this map published in 1862.",
+    "The seller of this map claims it was made in 1867.",
     "</p>"
   ]
 }
