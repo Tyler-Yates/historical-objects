@@ -1,0 +1,34 @@
+{
+  "name": "Bicentenary of the Annexation of Lille to France",
+  "engraver": "A. Bureau",
+  "country": "France",
+  "year": "1867",
+  "diameter": "91",
+  "obverse": "South side of the Paris Gate in Lille.",
+  "obverse_inscriptions": [
+    "VILLE DE LILLE",
+    "PORTE DE PARIS",
+    "A.BUREAU A LILLE.",
+    "DÉPOSÉE",
+    "P. J. DEBORGIES Gradeur"
+  ],
+  "reverse": "A wreath composed of an oak branch and a laurel branch, linked at the bottom by a ribbon.",
+  "reverse_inscriptions": [
+    "FÊTE BISSÉCULAIRE 27 AOÛT 1867"
+  ],
+  "references": [
+    "<i>Essai de biographie lilloise contemporaine, 1800-1869</i>; Hippolyte Verly; p. 32"
+  ],
+  "description": [
+    "<p>",
+    "Medal commemorating the bicentenary of <a href='https://en.wikipedia.org/wiki/Siege_of_Lille_(1667)' target='_blank'>the annexation of Lille to France in 1667</a>.",
+    "This medal was struck on the occasion of the official trip of Napoleon III and Eugénie to the North in August 1867.",
+    "</p>",
+    "<p>",
+    "The medal is etched with the name of a person: 'P. J. DEBORGIES'.",
+    "</p>",
+    "<p>",
+    "The edge of the medal is stamped with a bee and the word 'CUIVRE'.",
+    "</p>"
+  ]
+}
