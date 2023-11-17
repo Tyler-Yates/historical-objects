@@ -1,0 +1,28 @@
+{
+  "name": "Cast Seals of the General Archives of the Kingdom",
+  "engraver": "General State Archives in Brussels",
+  "country": "Belgium",
+  "year": "c. 1864",
+  "short_year": 1864,
+  "diameter": "various",
+  "obverse": "Various",
+  "obverse_inscriptions": [
+  ],
+  "reverse": "Various",
+  "reverse_inscriptions": [
+  ],
+  "references": [
+    "<a href='https://search.arch.be/en/zoeken-naar-archieven/zoekresultaat/ead/index/eadid/BE-A0510_005990_005868_FRE/scans-pagina/1882' target='_blank'>Collection de moulages de sceaux des Archives générales du Royaume</a>"
+  ],
+  "description": [
+    "<p>",
+    "A collection of 19 casts of seals made by the General State Archives in Brussels.",
+    "Thousands of casts were made by the General State Archives in Brussels.",
+    "The original casts were made beginning in 1864.",
+    "It is unclear when these 19 casts were made as they likely are copies of the originals.",
+    "</p>",
+    "<p>",
+    "You can read more about this collection <a href='https://historiek.net/algemeen-rijksarchief-digitaliseert-zegelafgietsels/13346/' target='_blank'>here</a>.",
+    "</p>"
+  ]
+}
