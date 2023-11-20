@@ -1,0 +1,31 @@
+{
+  "name": "Carl Adolph Agardh",
+  "engraver": "Lea Ahlborn",
+  "country": "Sweden",
+  "year": "1866",
+  "diameter": "31",
+  "obverse": "Bust of Carl Adolph Agardh facing left.",
+  "obverse_inscriptions": [
+    "C. A. AGARDH BOT. PROF. LUND. D. EPISC. CAROLST.",
+    "N. 1785. OB. 1859.",
+    "L. A."
+  ],
+  "reverse": "A Naiad raises out of the water in a sitting position. She is tying a wreath of algae.",
+  "reverse_inscriptions": [
+    "MIRAS DISPONIT FUNDI SEGETES",
+    "SOCIO ALGOLOGO CELEBERRIMO R. ACAD. SCIENT. SVEC. MDCCCLXVI"
+  ],
+  "references": [
+    "Olsen p. 175",
+    "För efterkommande: Kungl. Vetenskapsakademiens medaljer 1747-2007, 126, p. 278 - 279",
+    "Erik Wallers samling av medicinhistoriska medaljer, 8, p. 18 - 19",
+    "Överläkarens i Lidköping Erik Wallers samling av minnespenningar och medaljer: \"Donerad\" (800:-) till Uppsala universitet[sbibliotek] och deponerad i Universitetets myntkabinett, Issue 1, p. 4"
+  ],
+  "description": [
+    "<p>",
+    "<a href='https://en.wikipedia.org/wiki/Carl_Adolph_Agardh' target='_blank'>Carl Adolph Agardh</a> (23 January 1785 in Båstad, Sweden – 28 January 1859 in Karlstad) was a Swedish botanist",
+    "specializing in algae, who was eventually appointed bishop of Karlstad.",
+    "The reverse of the medal shows a naiad making a wreath of algae in honor of his contributions in this field.",
+    "</p>"
+  ]
+}
