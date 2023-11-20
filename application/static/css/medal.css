@@ -65,6 +65,10 @@
     width: 80%;
 }
 
+.individual-reference {
+    padding-bottom: 10px;
+}
+
 .inscription {
     font-family: "Unifont";
     font-size: 16px;
