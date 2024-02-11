@@ -2,14 +2,9 @@ import collections
 import json
 import logging
 import os
-from datetime import timedelta
-from typing import List, Dict
+from typing import Dict
 
-import redis
-
-from .github_client import GithubClient
 from .book import Book
-from .gallery_image import GalleryImage
 from .medal import Medal
 from .plate import Plate
 

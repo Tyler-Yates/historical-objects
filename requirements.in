@@ -1,0 +1,6 @@
+flask
+waitress
+pyopenssl
+requests
+redis
+python-dotenv

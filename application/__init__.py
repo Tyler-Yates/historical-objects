@@ -3,17 +3,15 @@ import os
 
 import redis
 from dotenv import load_dotenv
-from flask import Flask, request, redirect
+from flask import Flask
 
+from .data_loader import load_data
 from .gallery_loader import GalleryLoader
 from .github_client import GithubClient
 from .routes import MAIN_BLUEPRINT
-from .data_loader import load_data
 
-application = Flask(__name__)
-
+logging.basicConfig(level=logging.INFO)
 LOG = logging.getLogger(__name__)
-LOG.setLevel(logging.INFO)
 
 
 def create_redis_client() -> redis.client.Redis:
@@ -48,19 +46,7 @@ def create_flask_app() -> Flask:
     app.config["data"] = load_data()
     app.config["gallery_loader"] = gallery_loader_obj
 
-    _setup_app(application)
-
     # Register blueprints to add routes to the app
     app.register_blueprint(MAIN_BLUEPRINT, url_prefix="/")
 
     return app
-
-
-def _setup_app(app):
-    @app.before_request
-    def before_request():
-        # Redirect to HTTPS automatically
-        if request.url.startswith("http://"):
-            url = request.url.replace("http://", "https://", 1)
-            code = 301
-            return redirect(url, code=code)

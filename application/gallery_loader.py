@@ -19,11 +19,14 @@ CACHE_TTL = timedelta(days=30)
 
 
 class GalleryLoader:
-    def __init__(self, redis_client: redis.client.Redis, github_client: 'GithubClient'):
+    def __init__(self, redis_client: redis.client.Redis, github_client: "GithubClient"):
         self.redis_client = redis_client
         self.github_client = github_client
 
-    def load_medal_gallery_images(self, medal_id: str,) -> List[GalleryImage]:
+    def load_medal_gallery_images(
+        self,
+        medal_id: str,
+    ) -> List[GalleryImage]:
         gallery = []
         request_url = f"{MEDAL_GALLERY_API_ROOT}/{medal_id}/hi"
 
@@ -51,8 +54,7 @@ class GalleryLoader:
             if item_name.startswith(f"{medal_id}_obverse.") or item_name.startswith(f"{medal_id}_reverse."):
                 continue
 
-            gallery.append(
-                GalleryImage(item["download_url"].replace("/hi/", "/low/"), item["download_url"]))
+            gallery.append(GalleryImage(item["download_url"].replace("/hi/", "/low/"), item["download_url"]))
 
         return gallery
 
@@ -79,6 +81,7 @@ class GalleryLoader:
         json_data = json.loads(gallery_files_json_string)
         for item in json_data:
             gallery.append(
-                GalleryImage(item["download_url"].replace("/gallery/hi", "/gallery/low"), item["download_url"]))
+                GalleryImage(item["download_url"].replace("/gallery/hi", "/gallery/low"), item["download_url"])
+            )
 
         return gallery

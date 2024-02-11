@@ -27,30 +27,17 @@ pip install -Ur requirements.txt
 ### Environment
 You will need to set the following environment variables:
 ```
-REDIS_HOST = host URL for Redis instance
-REDIS_PORT = integer port to connect to the Redis host
-REDIS_PASSWORD = password to connect to the Redis host
+REDIS_URL = URL for Redis instance to cache things
 GITHUB_USERNAME = username for GitHub API access
 GITHUB_TOKEN = personal access token for GitHub API access
 ```
 
-### SSL
-To preserve consistency with running in the cloud, this application uses HTTPS even when running locally.
-You will need to run the following commands from the root of the repo to get ready for HTTPS:
-```
-mkdir ssl
-cd ssl
-openssl req -nodes -new -x509 -keyout server.key -out server.crt \
-    -subj "/C=GB/ST=London/L=London/O=Local/OU=Local/CN=127.0.0.1"
-```
-The `ssl` folder is ignored by `git` so you should not need to worry about committing the
-generated key and certificate.
+You can copy the `.env.example` file to simplify this.
 
 ## Running
-After setting up the environment variables, you can run the application locally.
-Be sure you have activated the virtual environment before running this command:
+After setting up the environment variables, you can run the application locally:
 ```
-gunicorn -c config/gunicorn.conf.py "application:create_flask_app()" --log-file=-
+python3 -m application
 ```
 
-You should then be able to access the application at [http://0.0.0.0:5000](http://0.0.0.0:5000) in your browser.
+You should then be able to access the application at http://127.0.0.1:10000 in your browser.
