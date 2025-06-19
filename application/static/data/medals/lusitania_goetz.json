@@ -1,0 +1,48 @@
+{
+  "name": "Sinking of the Lusitania",
+  "engraver": "Karl Goetz",
+  "country": "Britain",
+  "year": "1915",
+  "diameter": "55",
+  "obverse": "The Lusitania sinking in heavy seas.",
+  "obverse_inscriptions": [
+    "KEINE BANN WARE",
+    "DER GROSSDAMPFER",
+    "LUSITANIA",
+    "DURCH EIN DEUTSCHES",
+    "TAUCHBOOT VERSENKT",
+    "5 MAY 1915"
+  ],
+  "reverse": "Death as a skeleton standing within a ticket booth, queue of passengers to the left.",
+  "reverse_inscriptions": [
+    "GESCHAFT VBER ALLES",
+    "CUNA LINIE",
+    "CUNARD",
+    "U BOOT GEFA(HR)",
+    "FAHRKARTEN AUSGABE",
+    "K.G"
+  ],
+  "references": [
+    "BHM 4118",
+    "Eimer 1941A"
+  ],
+  "description": [
+    "<p>",
+    "On May 7, 1915, the passenger liner Lusitania was sunk by German submarine U-20 in British waters.",
+    "Of the passengers, 1,198 drowned, including many women and children and 124 U.S. citizens.",
+    "This event led to increased willingness by Americans to enter the war.",
+    "</p>",
+    "<p>",
+    "In August 1915, German artist Karl Goetz cast a commemorative medal depicting the May 7, 1915 sinking of the Lusitania.",
+    "It was the May 5 date on the medal that verified to the British that the Germans pre-meditated the sinking, a cowardly act.",
+    "In fact, artist Goetz simply got the date wrong from using an erroneous newspaper report.",
+    "About 430 medals of the first version with the May 5 date were minted in Goetz's home. He soon corrected the date to May 7.",
+    "</p>",
+    "<p>",
+    "The British quickly utilized the first German version as propaganda.",
+    "British Naval Intelligence ordered about 250,000 copies struck with the May 5 date and sold them through the Lusitania Souvenir Medal Committee to the public at one shilling each.",
+    "The British-produced medal was presented in an attractive box with an explanatory certificate.",
+    "The British-produced medals were made of iron and a darker color than the German originals.",
+    "</p>"
+  ]
+}
