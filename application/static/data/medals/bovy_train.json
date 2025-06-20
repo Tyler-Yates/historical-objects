@@ -1,0 +1,38 @@
+{
+  "name": "1842 French Railroad Charter",
+  "engraver": "Antoine Bovy",
+  "country": "France",
+  "year": "1842",
+  "diameter": "112.7",
+  "obverse": "Head of <a href='https://en.wikipedia.org/wiki/Louis_Philippe_I'>Louis Philippe I</a>, crowned with laurel facing left.",
+  "obverse_inscriptions": [
+    "LOUIS PHILIPPE I ROI DES FRANÇAISE.",
+    "A. BOVY"
+  ],
+  "reverse": "France seated facing left, right arm outstretched, holding tablet in left hand inscribed CHEMINS/ DE/ FER. A rooster-tipped scepter is behind the tablet. She is sitting on a plinth inscribed LOI DU XI JUIN/ M.D.CCC.XLII./ LOUIS PHILIPPE/ REGNANT. To left, Mercury flying left, holding torch and caduceus. Below him are civilian trains. To right, Mars flying right, holding shield and sword. Below him are military trains.",
+  "reverse_inscriptions": [
+    "DANT IGNOTAS MARTI NOVASQUE MERCURIO ALAS",
+    "MR TESTE MINSTRE DES TRAVAUX PUBLICS./ MR. LEGRAND SOUS-SECRÉTAIRE D’ETAT.",
+    "A. BOVY FECIT."
+  ],
+  "references": [
+    "Collignon 1288"
+  ],
+  "description": [
+    "<p>",
+    "On the edge of the medal: a ship's prow (used 1842-1845) and CUIVRE (copper)",
+    "</p>",
+    "<p>",
+    "The French law on the establishment of major railway lines (also known as the \"Railway Charter\"), passed on June 11, 1842.",
+    "It defined the French railroad system, creating a model of public-private partnership.",
+    "</p>",
+    "<p>",
+    "The Latin phrase 'DANT IGNOTAS MARTI NOVASQUE MERCURIO ALAS' can be translated as: 'They give unknown wings to Mars and new wings to Mercury.'",
+    "This phrase may poetically express how the new railroads will transform both warfare (Mars) and commerce/communication (Mercury).",
+    "</p>",
+    "<p>",
+    "The medal is absolutely massive at over 100mm in diameter and over 10mm thick.",
+    "It weighs over 620 grams.",
+    "</p>"
+  ]
+}
